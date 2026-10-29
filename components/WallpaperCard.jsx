@@ -1,10 +1,11 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { Heart } from 'lucide-react';
 
 export default function WallpaperCard({
   wallpaper,
+  index = 0,
   onSelect,
   isFavorite = false,
   onToggleFavorite,
@@ -12,19 +13,52 @@ export default function WallpaperCard({
 }) {
   const [isLoaded, setIsLoaded] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
+  const hoverTimerRef = useRef(null);
 
   const primaryHex = wallpaper.dominantColors?.[0]?.hex || '#2A5C8A';
+
+  // Cleanup hover timer on unmount
+  useEffect(() => {
+    return () => {
+      if (hoverTimerRef.current) {
+        clearTimeout(hoverTimerRef.current);
+      }
+    };
+  }, []);
+
+  const handleMouseEnter = () => {
+    setIsHovered(true);
+    // Intent-based hover prefetch: if user hovers for >140ms, preload the original preview image into browser cache
+    hoverTimerRef.current = setTimeout(() => {
+      if (wallpaper?.urls?.preview && typeof window !== 'undefined') {
+        const prefetchImg = new Image();
+        prefetchImg.src = wallpaper.urls.preview;
+      }
+    }, 140);
+  };
+
+  const handleMouseLeave = () => {
+    setIsHovered(false);
+    if (hoverTimerRef.current) {
+      clearTimeout(hoverTimerRef.current);
+    }
+  };
+
+  // Above the fold threshold: first 8 images load eagerly with high fetchPriority
+  const isAboveFold = index < 8;
 
   return (
     <div
       onClick={() => onSelect(wallpaper)}
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
+      className="wallpaper-card-contain"
       style={{
         position: 'relative',
         borderRadius: '12px',
         overflow: 'hidden',
-        background: 'var(--bg-surface)',
+        // Dominant-color alpha skeleton placeholder (0ms perceived wait)
+        backgroundColor: `${primaryHex}26`,
         border: isHovered ? `1px solid ${primaryHex}88` : '1px solid var(--border-subtle)',
         aspectRatio: '16 / 10',
         cursor: 'pointer',
@@ -33,19 +67,22 @@ export default function WallpaperCard({
         transition: 'transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease, border-color 0.25s ease',
       }}
     >
-      {/* Background Image (Optimized Thumbnail Tier) */}
+      {/* Background Image (Optimized Thumbnail Tier with Async Decoding) */}
       <img
         src={wallpaper.urls.thumbnail}
         alt={wallpaper.title}
-        loading="lazy"
+        loading={isAboveFold ? 'eager' : 'lazy'}
+        fetchPriority={isAboveFold ? 'high' : 'low'}
+        decoding="async"
         onLoad={() => setIsLoaded(true)}
         style={{
           width: '100%',
           height: '100%',
           objectFit: 'cover',
-          filter: isLoaded ? 'none' : 'blur(10px)',
+          filter: isLoaded ? 'none' : 'blur(8px)',
+          opacity: isLoaded ? 1 : 0.45,
           transform: isHovered ? 'scale(1.03)' : 'scale(1.0)',
-          transition: 'transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), filter 0.3s ease',
+          transition: 'transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), filter 0.3s ease, opacity 0.25s ease',
         }}
       />
 

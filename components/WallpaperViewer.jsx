@@ -46,6 +46,23 @@ export default function WallpaperViewer({
     };
   }, [wallpaper]);
 
+  // Adjacent image preloading for instantaneous ← / → keyboard navigation
+  useEffect(() => {
+    if (currentIndex < 0 || allWallpapers.length === 0 || typeof window === 'undefined') return;
+
+    const nextItem = allWallpapers[currentIndex + 1] || allWallpapers[0];
+    const prevItem = allWallpapers[currentIndex - 1] || allWallpapers[allWallpapers.length - 1];
+
+    if (nextItem?.urls?.preview) {
+      const nextImg = new Image();
+      nextImg.src = nextItem.urls.preview;
+    }
+    if (prevItem?.urls?.preview) {
+      const prevImg = new Image();
+      prevImg.src = prevItem.urls.preview;
+    }
+  }, [currentIndex, allWallpapers]);
+
   if (!wallpaper) return null;
 
   const currentIndex = allWallpapers.findIndex((w) => w.id === wallpaper.id);

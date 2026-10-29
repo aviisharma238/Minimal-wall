@@ -213,3 +213,10 @@ input {
   border-radius: 20px;
   z-index: 10;
 }
+
+/* GPU Layout Virtualization & Image Performance */
+.wallpaper-card-contain {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 220px;
+}
+

@@ -151,10 +151,11 @@ export default function WallpaperGrid({
           paddingBottom: '4rem',
         }}
       >
-        {wallpapers.map((wallpaper) => (
+        {wallpapers.map((wallpaper, idx) => (
           <WallpaperCard
             key={wallpaper.id}
             wallpaper={wallpaper}
+            index={idx}
             onSelect={onSelectWallpaper}
             isFavorite={favSet.has(wallpaper.id)}
             onToggleFavorite={onToggleFavorite}
