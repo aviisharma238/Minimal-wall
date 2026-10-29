@@ -18,6 +18,44 @@ export default function WallpaperViewer({
   const [showWidgets, setShowWidgets] = useState(true);
 
   const primaryColor = wallpaper?.dominantColors?.[0]?.hex || '#2A5C8A';
+  const currentIndex = wallpaper ? allWallpapers.findIndex((w) => w.id === wallpaper.id) : -1;
+
+  const navigateNext = () => {
+    if (currentIndex >= 0 && currentIndex < allWallpapers.length - 1) {
+      onSelectWallpaper(allWallpapers[currentIndex + 1]);
+    } else if (allWallpapers.length > 0) {
+      onSelectWallpaper(allWallpapers[0]);
+    }
+  };
+
+  const navigatePrev = () => {
+    if (currentIndex > 0) {
+      onSelectWallpaper(allWallpapers[currentIndex - 1]);
+    } else if (allWallpapers.length > 0) {
+      onSelectWallpaper(allWallpapers[allWallpapers.length - 1]);
+    }
+  };
+
+  const handleDownload = async () => {
+    if (!wallpaper) return;
+    setDownloading(true);
+    try {
+      const response = await fetch(wallpaper.urls.original);
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${wallpaper.slug}.png`;
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+    } catch (err) {
+      window.open(wallpaper.urls.original, '_blank');
+    } finally {
+      setDownloading(false);
+    }
+  };
 
   useEffect(() => {
     if (!wallpaper) return;
@@ -44,11 +82,11 @@ export default function WallpaperViewer({
       window.removeEventListener('keydown', handleKeyDown);
       document.body.style.overflow = 'auto';
     };
-  }, [wallpaper]);
+  }, [wallpaper, currentIndex]);
 
   // Adjacent image preloading for instantaneous ← / → keyboard navigation
   useEffect(() => {
-    if (currentIndex < 0 || allWallpapers.length === 0 || typeof window === 'undefined') return;
+    if (!wallpaper || currentIndex < 0 || allWallpapers.length === 0 || typeof window === 'undefined') return;
 
     const nextItem = allWallpapers[currentIndex + 1] || allWallpapers[0];
     const prevItem = allWallpapers[currentIndex - 1] || allWallpapers[allWallpapers.length - 1];
@@ -61,47 +99,9 @@ export default function WallpaperViewer({
       const prevImg = new Image();
       prevImg.src = prevItem.urls.preview;
     }
-  }, [currentIndex, allWallpapers]);
+  }, [wallpaper, currentIndex, allWallpapers]);
 
   if (!wallpaper) return null;
-
-  const currentIndex = allWallpapers.findIndex((w) => w.id === wallpaper.id);
-
-  const navigateNext = () => {
-    if (currentIndex >= 0 && currentIndex < allWallpapers.length - 1) {
-      onSelectWallpaper(allWallpapers[currentIndex + 1]);
-    } else if (allWallpapers.length > 0) {
-      onSelectWallpaper(allWallpapers[0]);
-    }
-  };
-
-  const navigatePrev = () => {
-    if (currentIndex > 0) {
-      onSelectWallpaper(allWallpapers[currentIndex - 1]);
-    } else if (allWallpapers.length > 0) {
-      onSelectWallpaper(allWallpapers[allWallpapers.length - 1]);
-    }
-  };
-
-  const handleDownload = async () => {
-    setDownloading(true);
-    try {
-      const response = await fetch(wallpaper.urls.original);
-      const blob = await response.blob();
-      const url = window.URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `${wallpaper.slug}.png`;
-      document.body.appendChild(a);
-      a.click();
-      window.URL.revokeObjectURL(url);
-      document.body.removeChild(a);
-    } catch (err) {
-      window.open(wallpaper.urls.original, '_blank');
-    } finally {
-      setDownloading(false);
-    }
-  };
 
   return (
     <div
