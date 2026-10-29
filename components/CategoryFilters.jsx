@@ -1,6 +1,6 @@
 'use client';
 
-import { Heart, Hash } from 'lucide-react';
+import { Heart, Hash, X } from 'lucide-react';
 
 const CATEGORIES = [
   { id: 'all', label: 'All Styles' },
@@ -31,17 +31,19 @@ const FORMAT_TYPES = [
   { id: '9:16', label: '9:16 Mobile' },
 ];
 
-const POPULAR_TAGS = [
-  'astronaut',
-  'samurai',
+export const POPULAR_TAGS = [
   'nord',
-  'pixelart',
-  'tokyonight',
-  'city',
-  'waves',
   'forest',
-  'sunset',
+  'cyberpunk',
+  'space',
+  'waves',
+  'pixelart',
+  'city',
+  'samurai',
   'arch',
+  'astronaut',
+  'sunset',
+  'tokyonight',
   'linux',
   'sakura',
 ];
@@ -59,6 +61,7 @@ export default function CategoryFilters({
   totalCount = 0,
   activeTag = '',
   onSelectTag,
+  tagCounts = {},
 }) {
   return (
     <div
@@ -196,6 +199,8 @@ export default function CategoryFilters({
           gap: '0.4rem',
           overflowX: 'auto',
           padding: '0.2rem 0',
+          scrollbarWidth: 'none',
+          msOverflowStyle: 'none',
         }}
       >
         <span
@@ -204,8 +209,36 @@ export default function CategoryFilters({
         >
           CURATED TAGS:
         </span>
+
+        {/* Quick Clear Tag pill when a tag is active */}
+        {activeTag && (
+          <button
+            onClick={() => onSelectTag('')}
+            title="Clear active tag filter"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '0.25rem',
+              padding: '0.2rem 0.5rem',
+              borderRadius: '6px',
+              fontSize: '0.6875rem',
+              fontFamily: 'var(--font-mono)',
+              background: 'rgba(235, 87, 87, 0.15)',
+              color: '#eb5757',
+              border: '1px solid rgba(235, 87, 87, 0.35)',
+              cursor: 'pointer',
+              flexShrink: 0,
+              transition: 'all 0.15s ease',
+            }}
+          >
+            <X size={11} />
+            <span>Clear Tag</span>
+          </button>
+        )}
+
         {POPULAR_TAGS.map((tag) => {
           const isTagActive = activeTag.toLowerCase() === tag.toLowerCase();
+          const count = tagCounts[tag];
           return (
             <button
               key={tag}
@@ -213,20 +246,35 @@ export default function CategoryFilters({
               style={{
                 display: 'inline-flex',
                 alignItems: 'center',
-                gap: '0.2rem',
-                padding: '0.2rem 0.55rem',
+                gap: '0.35rem',
+                padding: '0.22rem 0.6rem',
                 borderRadius: '6px',
                 fontSize: '0.75rem',
                 fontFamily: 'var(--font-mono)',
                 background: isTagActive ? 'var(--text-primary)' : 'var(--bg-surface-elevated)',
                 color: isTagActive ? 'var(--bg-primary)' : 'var(--text-secondary)',
-                border: 'none',
+                border: isTagActive ? '1px solid var(--text-primary)' : '1px solid var(--border-subtle)',
+                boxShadow: isTagActive ? '0 2px 8px rgba(0,0,0,0.18)' : 'none',
                 cursor: 'pointer',
                 flexShrink: 0,
                 transition: 'all 0.15s ease',
               }}
             >
               <span>#{tag}</span>
+              {typeof count === 'number' && (
+                <span
+                  style={{
+                    fontSize: '0.625rem',
+                    opacity: isTagActive ? 0.9 : 0.6,
+                    padding: '0.05rem 0.28rem',
+                    borderRadius: '4px',
+                    background: isTagActive ? 'rgba(0, 0, 0, 0.25)' : 'var(--bg-surface)',
+                  }}
+                >
+                  {count}
+                </span>
+              )}
+              {isTagActive && <X size={11} style={{ marginLeft: '1px' }} />}
             </button>
           );
         })}

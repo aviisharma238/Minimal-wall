@@ -3,11 +3,11 @@
 import { useState, useEffect, useMemo } from 'react';
 import Header from '@/components/Header';
 import ColorRibbon from '@/components/ColorRibbon';
-import CategoryFilters from '@/components/CategoryFilters';
+import CategoryFilters, { POPULAR_TAGS } from '@/components/CategoryFilters';
 import WallpaperGrid from '@/components/WallpaperGrid';
 import WallpaperViewer from '@/components/WallpaperViewer';
 import { WALLPAPERS } from '@/data/wallpapers';
-import { filterWallpapers } from '@/lib/filters';
+import { filterWallpapers, matchesTag } from '@/lib/filters';
 import { ChevronDown, Sparkles } from 'lucide-react';
 
 // Fisher-Yates shuffle
@@ -83,6 +83,29 @@ export default function Home() {
     }
     return counts;
   }, []);
+
+  // Pre-calculate real item counts for each curated tag across the catalog
+  const tagCounts = useMemo(() => {
+    const counts = {};
+    for (const tag of POPULAR_TAGS) {
+      counts[tag] = WALLPAPERS.filter((w) => matchesTag(w, tag)).length;
+    }
+    return counts;
+  }, []);
+
+  const handleSelectTag = (tag) => {
+    setActiveTag(tag);
+    if (tag) {
+      // If the current category has 0 results with this tag, automatically broaden category to 'all'
+      const matchesInCurrent = WALLPAPERS.some(
+        (w) => matchesTag(w, tag) && (category === 'all' || w.category === category)
+      );
+      if (!matchesInCurrent) {
+        setCategory('all');
+        setNatureType('all');
+      }
+    }
+  };
 
   // Filter wallpapers based on all active parameters
   const filteredWallpapers = useMemo(() => {
@@ -166,7 +189,8 @@ export default function Home() {
           activeFormat={format}
           onSelectFormat={setFormat}
           activeTag={activeTag}
-          onSelectTag={setActiveTag}
+          onSelectTag={handleSelectTag}
+          tagCounts={tagCounts}
           favoritesOnly={favoritesOnly}
           onToggleFavoritesOnly={setFavoritesOnly}
           favoritesCount={favoriteIds.length}
