@@ -2387,9 +2387,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/blue/08. Abyssal Wave.png?tr=w-500,q-80,f-auto",
-      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/blue/08. Abyssal Wave.png?tr=w-1920,q-85,f-auto",
-      "original": "https://ik.imagekit.io/ayusharma/wallpaper/blue/08. Abyssal Wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/blue/08.%20Abyssal%20Wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/blue/08.%20Abyssal%20Wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/blue/08.%20Abyssal%20Wave.png"
     },
     "tags": [
       "nature",
@@ -2527,9 +2527,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/blue/11. Abyssal Wave.png?tr=w-500,q-80,f-auto",
-      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/blue/11. Abyssal Wave.png?tr=w-1920,q-85,f-auto",
-      "original": "https://ik.imagekit.io/ayusharma/wallpaper/blue/11. Abyssal Wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/blue/11.%20Abyssal%20Wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/blue/11.%20Abyssal%20Wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/blue/11.%20Abyssal%20Wave.png"
     },
     "tags": [
       "nature",
@@ -2620,9 +2620,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/blue/17. Catppuccin Latte.jpg?tr=w-500,q-80,f-auto",
-      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/blue/17. Catppuccin Latte.jpg?tr=w-1920,q-85,f-auto",
-      "original": "https://ik.imagekit.io/ayusharma/wallpaper/blue/17. Catppuccin Latte.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/blue/17.%20Catppuccin%20Latte.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/blue/17.%20Catppuccin%20Latte.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/blue/17.%20Catppuccin%20Latte.jpg"
     },
     "tags": [
       "minimal",
@@ -6768,9 +6768,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a8a54e63e28b.webp",
-      "preview": "/api/wallpaper/colourize/--2.png",
-      "original": "/api/wallpaper/colourize/--2.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/--2.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/--2.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/--2.png"
     },
     "tags": [
       "colourize",
@@ -7241,9 +7241,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6e2961cb290a.webp",
-      "preview": "/api/wallpaper/colourize/17. Rosé Pine.jpg",
-      "original": "/api/wallpaper/colourize/17. Rosé Pine.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/17.%20Ros%C3%A9%20Pine.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/17.%20Ros%C3%A9%20Pine.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/17.%20Ros%C3%A9%20Pine.jpg"
     },
     "tags": [
       "colourize",
@@ -7335,9 +7335,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-38d8c1e8763c.webp",
-      "preview": "/api/wallpaper/colourize/3713676.png",
-      "original": "/api/wallpaper/colourize/3713676.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/3713676.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/3713676.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/3713676.png"
     },
     "tags": [
       "colourize",
@@ -7429,9 +7429,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ae40b007a720.webp",
-      "preview": "/api/wallpaper/colourize/79085051_p0.png",
-      "original": "/api/wallpaper/colourize/79085051_p0.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/79085051_p0.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/79085051_p0.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/79085051_p0.png"
     },
     "tags": [
       "colourize",
@@ -7476,9 +7476,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ee99506eab57.webp",
-      "preview": "/api/wallpaper/colourize/8hjvog3gtl8d1.png",
-      "original": "/api/wallpaper/colourize/8hjvog3gtl8d1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/8hjvog3gtl8d1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/8hjvog3gtl8d1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/8hjvog3gtl8d1.png"
     },
     "tags": [
       "colourize",
@@ -7570,9 +7570,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-57dc47e493d6.webp",
-      "preview": "/api/wallpaper/colourize/a_bird_on_a_statue.jpg",
-      "original": "/api/wallpaper/colourize/a_bird_on_a_statue.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_bird_on_a_statue.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_bird_on_a_statue.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_bird_on_a_statue.jpg"
     },
     "tags": [
       "colourize",
@@ -7617,9 +7617,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-efb2516cb1f7.webp",
-      "preview": "/api/wallpaper/colourize/a_car_driving_on_a_road_at_night.png",
-      "original": "/api/wallpaper/colourize/a_car_driving_on_a_road_at_night.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_driving_on_a_road_at_night.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_driving_on_a_road_at_night.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_driving_on_a_road_at_night.png"
     },
     "tags": [
       "colourize",
@@ -7665,9 +7665,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-aac163b062da.webp",
-      "preview": "/api/wallpaper/colourize/a_car_in_a_field_with_trees_and_a_fire.png",
-      "original": "/api/wallpaper/colourize/a_car_in_a_field_with_trees_and_a_fire.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_in_a_field_with_trees_and_a_fire.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_in_a_field_with_trees_and_a_fire.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_in_a_field_with_trees_and_a_fire.png"
     },
     "tags": [
       "colourize",
@@ -7713,9 +7713,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6bfb1d3fffac.webp",
-      "preview": "/api/wallpaper/colourize/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg",
-      "original": "/api/wallpaper/colourize/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg"
     },
     "tags": [
       "colourize",
@@ -7904,9 +7904,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ba79acf215de.webp",
-      "preview": "/api/wallpaper/colourize/a_car_parked_in_a_dark_alley.jpg",
-      "original": "/api/wallpaper/colourize/a_car_parked_in_a_dark_alley.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_parked_in_a_dark_alley.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_parked_in_a_dark_alley.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_parked_in_a_dark_alley.jpg"
     },
     "tags": [
       "colourize",
@@ -7951,9 +7951,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7081e186fdb4.webp",
-      "preview": "/api/wallpaper/colourize/a_car_parked_in_a_street.jpg",
-      "original": "/api/wallpaper/colourize/a_car_parked_in_a_street.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_parked_in_a_street.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_parked_in_a_street.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_car_parked_in_a_street.jpg"
     },
     "tags": [
       "colourize",
@@ -8189,9 +8189,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-23a511533bcc.webp",
-      "preview": "/api/wallpaper/colourize/a_couple_of_people_standing_on_a_mountain.png",
-      "original": "/api/wallpaper/colourize/a_couple_of_people_standing_on_a_mountain.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_couple_of_people_standing_on_a_mountain.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_couple_of_people_standing_on_a_mountain.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_couple_of_people_standing_on_a_mountain.png"
     },
     "tags": [
       "colourize",
@@ -8237,9 +8237,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-77900b16e729.webp",
-      "preview": "/api/wallpaper/colourize/a_group_of_colorful_ghosts.png",
-      "original": "/api/wallpaper/colourize/a_group_of_colorful_ghosts.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_group_of_colorful_ghosts.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_group_of_colorful_ghosts.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_group_of_colorful_ghosts.png"
     },
     "tags": [
       "colourize",
@@ -8379,9 +8379,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-46d3b89ac788.webp",
-      "preview": "/api/wallpaper/colourize/a_group_of_televisions_and_tvs_in_front_of_a_store.jpg",
-      "original": "/api/wallpaper/colourize/a_group_of_televisions_and_tvs_in_front_of_a_store.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_group_of_televisions_and_tvs_in_front_of_a_store.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_group_of_televisions_and_tvs_in_front_of_a_store.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_group_of_televisions_and_tvs_in_front_of_a_store.jpg"
     },
     "tags": [
       "colourize",
@@ -8426,9 +8426,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8d542cbd7e96.webp",
-      "preview": "/api/wallpaper/colourize/a_motorcycle_parked_outside_a_restaurant.jpg",
-      "original": "/api/wallpaper/colourize/a_motorcycle_parked_outside_a_restaurant.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_motorcycle_parked_outside_a_restaurant.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_motorcycle_parked_outside_a_restaurant.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_motorcycle_parked_outside_a_restaurant.jpg"
     },
     "tags": [
       "colourize",
@@ -8473,9 +8473,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d78201df6053.webp",
-      "preview": "/api/wallpaper/colourize/a_pixel_art_of_a_building.png",
-      "original": "/api/wallpaper/colourize/a_pixel_art_of_a_building.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_pixel_art_of_a_building.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_pixel_art_of_a_building.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_pixel_art_of_a_building.png"
     },
     "tags": [
       "colourize",
@@ -8520,9 +8520,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-876f230722a2.webp",
-      "preview": "/api/wallpaper/colourize/a_pixel_art_of_a_sword_and_whale.png",
-      "original": "/api/wallpaper/colourize/a_pixel_art_of_a_sword_and_whale.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_pixel_art_of_a_sword_and_whale.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_pixel_art_of_a_sword_and_whale.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_pixel_art_of_a_sword_and_whale.png"
     },
     "tags": [
       "colourize",
@@ -8615,9 +8615,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bdd3829239cf.webp",
-      "preview": "/api/wallpaper/colourize/a_video_game_of_a_vehicle.jpg",
-      "original": "/api/wallpaper/colourize/a_video_game_of_a_vehicle.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_video_game_of_a_vehicle.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_video_game_of_a_vehicle.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_video_game_of_a_vehicle.jpg"
     },
     "tags": [
       "colourize",
@@ -8709,9 +8709,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fa7a709c5424.webp",
-      "preview": "/api/wallpaper/colourize/a_yellow_moon_in_the_sky.png",
-      "original": "/api/wallpaper/colourize/a_yellow_moon_in_the_sky.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_yellow_moon_in_the_sky.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_yellow_moon_in_the_sky.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/a_yellow_moon_in_the_sky.png"
     },
     "tags": [
       "colourize",
@@ -8804,9 +8804,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-86345478e5a2.webp",
-      "preview": "/api/wallpaper/colourize/background.jpg",
-      "original": "/api/wallpaper/colourize/background.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/background.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/background.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/background.jpg"
     },
     "tags": [
       "colourize",
@@ -9039,9 +9039,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8c7b8ea36971.webp",
-      "preview": "/api/wallpaper/colourize/cars_on_a_train_track.jpg",
-      "original": "/api/wallpaper/colourize/cars_on_a_train_track.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/cars_on_a_train_track.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/cars_on_a_train_track.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/cars_on_a_train_track.jpg"
     },
     "tags": [
       "colourize",
@@ -9086,9 +9086,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8fe60d01d36e.webp",
-      "preview": "/api/wallpaper/colourize/cws5grxz64m91.jpg",
-      "original": "/api/wallpaper/colourize/cws5grxz64m91.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/cws5grxz64m91.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/cws5grxz64m91.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/cws5grxz64m91.jpg"
     },
     "tags": [
       "colourize",
@@ -9228,9 +9228,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a4cde0c28ad6.webp",
-      "preview": "/api/wallpaper/colourize/fantasy-woods.jpg",
-      "original": "/api/wallpaper/colourize/fantasy-woods.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/fantasy-woods.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/fantasy-woods.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/fantasy-woods.jpg"
     },
     "tags": [
       "fantasy",
@@ -9277,9 +9277,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e6396929dd27.webp",
-      "preview": "/api/wallpaper/colourize/fondo1.jpg",
-      "original": "/api/wallpaper/colourize/fondo1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/fondo1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/fondo1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/fondo1.jpg"
     },
     "tags": [
       "colourize",
@@ -9418,9 +9418,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b1c9fb4be892.webp",
-      "preview": "/api/wallpaper/colourize/gruvbox_girl.png",
-      "original": "/api/wallpaper/colourize/gruvbox_girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/gruvbox_girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/gruvbox_girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/gruvbox_girl.png"
     },
     "tags": [
       "colourize",
@@ -9465,9 +9465,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7320fcaaf735.webp",
-      "preview": "/api/wallpaper/colourize/guy_sleeping_colored.png",
-      "original": "/api/wallpaper/colourize/guy_sleeping_colored.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/guy_sleeping_colored.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/guy_sleeping_colored.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/guy_sleeping_colored.png"
     },
     "tags": [
       "colourize",
@@ -9560,9 +9560,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fae08b77becd.webp",
-      "preview": "/api/wallpaper/colourize/HTB.png",
-      "original": "/api/wallpaper/colourize/HTB.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/HTB.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/HTB.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/HTB.png"
     },
     "tags": [
       "colourize",
@@ -9845,9 +9845,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3c750260c0e6.webp",
-      "preview": "/api/wallpaper/colourize/perfect-blue.jpg",
-      "original": "/api/wallpaper/colourize/perfect-blue.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/perfect-blue.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/perfect-blue.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/perfect-blue.jpg"
     },
     "tags": [
       "colourize",
@@ -9892,9 +9892,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a131775fa9c0.webp",
-      "preview": "/api/wallpaper/colourize/purple_plane_landscape.png",
-      "original": "/api/wallpaper/colourize/purple_plane_landscape.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/purple_plane_landscape.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/purple_plane_landscape.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/purple_plane_landscape.png"
     },
     "tags": [
       "colourize",
@@ -9986,9 +9986,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-edf6f96d34fd.webp",
-      "preview": "/api/wallpaper/colourize/retro_market.png",
-      "original": "/api/wallpaper/colourize/retro_market.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/retro_market.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/retro_market.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/retro_market.png"
     },
     "tags": [
       "retro",
@@ -10035,9 +10035,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-19382e6fe507.webp",
-      "preview": "/api/wallpaper/colourize/s4vitar.png",
-      "original": "/api/wallpaper/colourize/s4vitar.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/s4vitar.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/s4vitar.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/s4vitar.png"
     },
     "tags": [
       "hack",
@@ -10085,9 +10085,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-17430bf7e606.webp",
-      "preview": "/api/wallpaper/colourize/s4vitar_old.png",
-      "original": "/api/wallpaper/colourize/s4vitar_old.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/s4vitar_old.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/s4vitar_old.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/s4vitar_old.png"
     },
     "tags": [
       "hack",
@@ -10370,9 +10370,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b902413666f5.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-1qprxg.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-1qprxg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-1qprxg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-1qprxg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-1qprxg.jpg"
     },
     "tags": [
       "colourize",
@@ -10511,9 +10511,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7343fcdb09b9.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-3klvq6.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-3klvq6.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-3klvq6.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-3klvq6.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-3klvq6.jpg"
     },
     "tags": [
       "colourize",
@@ -10558,9 +10558,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e5539f2bd7c9.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-3kqvp9.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-3kqvp9.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-3kqvp9.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-3kqvp9.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-3kqvp9.jpg"
     },
     "tags": [
       "colourize",
@@ -10605,9 +10605,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f8f228a7e26f.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-4g7l5e.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-4g7l5e.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-4g7l5e.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-4g7l5e.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-4g7l5e.jpg"
     },
     "tags": [
       "colourize",
@@ -10746,9 +10746,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2c096b56bd36.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-6o9mwq.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-6o9mwq.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-6o9mwq.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-6o9mwq.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-6o9mwq.jpg"
     },
     "tags": [
       "colourize",
@@ -10840,9 +10840,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e2eeef3ce749.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-73j97v.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-73j97v.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-73j97v.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-73j97v.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-73j97v.jpg"
     },
     "tags": [
       "colourize",
@@ -10981,9 +10981,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8b8876cd7273.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-dgz21m.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-dgz21m.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-dgz21m.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-dgz21m.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-dgz21m.jpg"
     },
     "tags": [
       "colourize",
@@ -11075,9 +11075,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b04e94c3accb.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-e8x6jl.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-e8x6jl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-e8x6jl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-e8x6jl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-e8x6jl.jpg"
     },
     "tags": [
       "colourize",
@@ -11169,9 +11169,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-16ae7ffbfcfa.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-g8m1ld.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-g8m1ld.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-g8m1ld.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-g8m1ld.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-g8m1ld.jpg"
     },
     "tags": [
       "colourize",
@@ -11216,9 +11216,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-db6544f9a9b9.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-jx9xy5.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-jx9xy5.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-jx9xy5.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-jx9xy5.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-jx9xy5.jpg"
     },
     "tags": [
       "colourize",
@@ -11263,9 +11263,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2079aaba0601.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-jxqyrq.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-jxqyrq.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-jxqyrq.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-jxqyrq.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-jxqyrq.jpg"
     },
     "tags": [
       "colourize",
@@ -11404,9 +11404,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-81d5d51c84ca.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-ly8xmy.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-ly8xmy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-ly8xmy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-ly8xmy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-ly8xmy.jpg"
     },
     "tags": [
       "colourize",
@@ -11451,9 +11451,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7095549a1637.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-m3xdg1.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-m3xdg1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-m3xdg1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-m3xdg1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-m3xdg1.jpg"
     },
     "tags": [
       "colourize",
@@ -11592,9 +11592,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-56dbc1f542a3.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-ogd28l.png",
-      "original": "/api/wallpaper/colourize/wallhaven-ogd28l.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-ogd28l.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-ogd28l.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-ogd28l.png"
     },
     "tags": [
       "colourize",
@@ -11639,9 +11639,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f2681a5f039c.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-oxrzzp.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-oxrzzp.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-oxrzzp.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-oxrzzp.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-oxrzzp.jpg"
     },
     "tags": [
       "colourize",
@@ -11686,9 +11686,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a04c1123431e.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-p89y83.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-p89y83.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-p89y83.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-p89y83.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-p89y83.jpg"
     },
     "tags": [
       "colourize",
@@ -11827,9 +11827,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0ae0e2df3887.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-q6rjkd.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-q6rjkd.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-q6rjkd.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-q6rjkd.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-q6rjkd.jpg"
     },
     "tags": [
       "colourize",
@@ -11874,9 +11874,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dca3f8751713.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-r25zq1.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-r25zq1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-r25zq1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-r25zq1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-r25zq1.jpg"
     },
     "tags": [
       "colourize",
@@ -12156,9 +12156,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d311e59bba83.webp",
-      "preview": "/api/wallpaper/colourize/wallhaven-x6qd9l.jpg",
-      "original": "/api/wallpaper/colourize/wallhaven-x6qd9l.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-x6qd9l.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-x6qd9l.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/colourize/wallhaven-x6qd9l.jpg"
     },
     "tags": [
       "colourize",
@@ -13382,9 +13382,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f7632172c536.webp",
-      "preview": "/api/wallpaper/cyberpunk/black-panther.jpg",
-      "original": "/api/wallpaper/cyberpunk/black-panther.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/black-panther.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/black-panther.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/black-panther.jpg"
     },
     "tags": [
       "black panther",
@@ -13430,9 +13430,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f3e7b3c91450.webp",
-      "preview": "/api/wallpaper/cyberpunk/bmw.jpg",
-      "original": "/api/wallpaper/cyberpunk/bmw.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/bmw.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/bmw.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/bmw.jpg"
     },
     "tags": [
       "blue",
@@ -13477,9 +13477,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b0e07a231281.webp",
-      "preview": "/api/wallpaper/cyberpunk/cyberpunk_car.png",
-      "original": "/api/wallpaper/cyberpunk/cyberpunk_car.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/cyberpunk_car.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/cyberpunk_car.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/cyberpunk_car.png"
     },
     "tags": [
       "cyber",
@@ -13525,9 +13525,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-12386a00c6cc.webp",
-      "preview": "/api/wallpaper/cyberpunk/dark_pixelart.png",
-      "original": "/api/wallpaper/cyberpunk/dark_pixelart.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/dark_pixelart.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/dark_pixelart.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/dark_pixelart.png"
     },
     "tags": [
       "cyberpunk",
@@ -13571,9 +13571,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-91ea3e115993.webp",
-      "preview": "/api/wallpaper/cyberpunk/em-rofi.webp",
-      "original": "/api/wallpaper/cyberpunk/em-rofi.webp"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/em-rofi.webp?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/em-rofi.webp?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/em-rofi.webp"
     },
     "tags": [
       "city",
@@ -13619,9 +13619,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-483865f6efd6.webp",
-      "preview": "/api/wallpaper/cyberpunk/gruvbox_retrocity.png",
-      "original": "/api/wallpaper/cyberpunk/gruvbox_retrocity.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/gruvbox_retrocity.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/gruvbox_retrocity.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/gruvbox_retrocity.png"
     },
     "tags": [
       "gruvbox",
@@ -13666,9 +13666,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5d379bcf2059.webp",
-      "preview": "/api/wallpaper/cyberpunk/guy_sleeping_colored.png",
-      "original": "/api/wallpaper/cyberpunk/guy_sleeping_colored.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/guy_sleeping_colored.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/guy_sleeping_colored.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/guy_sleeping_colored.png"
     },
     "tags": [
       "pixelart",
@@ -13713,9 +13713,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2defc1672bd0.webp",
-      "preview": "/api/wallpaper/cyberpunk/neocity.png",
-      "original": "/api/wallpaper/cyberpunk/neocity.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neocity.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neocity.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neocity.png"
     },
     "tags": [
       "city",
@@ -13761,9 +13761,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ab10aa04f6e7.webp",
-      "preview": "/api/wallpaper/cyberpunk/neon-car2.png",
-      "original": "/api/wallpaper/cyberpunk/neon-car2.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-car2.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-car2.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-car2.png"
     },
     "tags": [
       "neon",
@@ -13810,9 +13810,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d34bad92baaa.webp",
-      "preview": "/api/wallpaper/cyberpunk/neon-circle.jpg",
-      "original": "/api/wallpaper/cyberpunk/neon-circle.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-circle.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-circle.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-circle.jpg"
     },
     "tags": [
       "cyberpunk",
@@ -13856,9 +13856,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8a3242b4d7b4.webp",
-      "preview": "/api/wallpaper/cyberpunk/neon-lights.jpg",
-      "original": "/api/wallpaper/cyberpunk/neon-lights.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-lights.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-lights.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/neon-lights.jpg"
     },
     "tags": [
       "neon",
@@ -13906,8 +13906,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-740d7cb4248b.webp",
-      "preview": "/api/wallpaper/cyberpunk/pastel-car.png",
-      "original": "/api/wallpaper/cyberpunk/pastel-car.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pastel-car.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pastel-car.png"
     },
     "tags": [
       "blue",
@@ -13954,8 +13954,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-fb163abe3fc3.webp",
-      "preview": "/api/wallpaper/cyberpunk/pastel-city.png",
-      "original": "/api/wallpaper/cyberpunk/pastel-city.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pastel-city.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pastel-city.png"
     },
     "tags": [
       "city",
@@ -14002,9 +14002,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6bdc04e68c49.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixel-earth.png",
-      "original": "/api/wallpaper/cyberpunk/pixel-earth.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel-earth.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel-earth.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel-earth.png"
     },
     "tags": [
       "gray",
@@ -14051,9 +14051,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-86d9034b778a.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixel-waterfall.webp",
-      "original": "/api/wallpaper/cyberpunk/pixel-waterfall.webp"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel-waterfall.webp?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel-waterfall.webp?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel-waterfall.webp"
     },
     "tags": [
       "ocean",
@@ -14098,9 +14098,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7b0de552b703.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixel_art_beach.jpeg",
-      "original": "/api/wallpaper/cyberpunk/pixel_art_beach.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel_art_beach.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel_art_beach.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel_art_beach.jpeg"
     },
     "tags": [
       "beach",
@@ -14147,9 +14147,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fd4a35f6fcb9.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixel_big_city.png",
-      "original": "/api/wallpaper/cyberpunk/pixel_big_city.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel_big_city.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel_big_city.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixel_big_city.png"
     },
     "tags": [
       "pixelart",
@@ -14195,9 +14195,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fdc426fe998e.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixelart-colors.png",
-      "original": "/api/wallpaper/cyberpunk/pixelart-colors.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart-colors.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart-colors.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart-colors.png"
     },
     "tags": [
       "pixelart",
@@ -14243,9 +14243,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c5a276f8e220.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixelart_forest.jpg",
-      "original": "/api/wallpaper/cyberpunk/pixelart_forest.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_forest.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_forest.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_forest.jpg"
     },
     "tags": [
       "pixelart",
@@ -14291,9 +14291,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b1e736151242.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixelart_landscape.jpg",
-      "original": "/api/wallpaper/cyberpunk/pixelart_landscape.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_landscape.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_landscape.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_landscape.jpg"
     },
     "tags": [
       "nature",
@@ -14339,9 +14339,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b39de4194881.webp",
-      "preview": "/api/wallpaper/cyberpunk/pixelart_pagoda.jpg",
-      "original": "/api/wallpaper/cyberpunk/pixelart_pagoda.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_pagoda.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_pagoda.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/pixelart_pagoda.jpg"
     },
     "tags": [
       "pixelart",
@@ -14387,9 +14387,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f2624fedabaf.webp",
-      "preview": "/api/wallpaper/cyberpunk/purple-car.jpg",
-      "original": "/api/wallpaper/cyberpunk/purple-car.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/purple-car.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/purple-car.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/purple-car.jpg"
     },
     "tags": [
       "car",
@@ -14435,9 +14435,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-140ef0818fab.webp",
-      "preview": "/api/wallpaper/cyberpunk/retro_market.png",
-      "original": "/api/wallpaper/cyberpunk/retro_market.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/retro_market.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/retro_market.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/retro_market.png"
     },
     "tags": [
       "pixelart",
@@ -14483,9 +14483,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-001756d3a57d.webp",
-      "preview": "/api/wallpaper/cyberpunk/rick-tokyonight.png",
-      "original": "/api/wallpaper/cyberpunk/rick-tokyonight.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/rick-tokyonight.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/rick-tokyonight.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/rick-tokyonight.png"
     },
     "tags": [
       "sky",
@@ -14530,9 +14530,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cefb3ea8baa2.webp",
-      "preview": "/api/wallpaper/cyberpunk/room2.jpg",
-      "original": "/api/wallpaper/cyberpunk/room2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/room2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/room2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/room2.jpg"
     },
     "tags": [
       "cyberpunk",
@@ -14578,9 +14578,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-03db811c55b3.webp",
-      "preview": "/api/wallpaper/cyberpunk/staircase.jpg",
-      "original": "/api/wallpaper/cyberpunk/staircase.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/staircase.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/staircase.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/staircase.jpg"
     },
     "tags": [
       "lights",
@@ -14626,9 +14626,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d2c413feddda.webp",
-      "preview": "/api/wallpaper/cyberpunk/sunset_city.png",
-      "original": "/api/wallpaper/cyberpunk/sunset_city.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/sunset_city.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/sunset_city.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/sunset_city.png"
     },
     "tags": [
       "amber",
@@ -14675,9 +14675,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e2a2a0d4b957.webp",
-      "preview": "/api/wallpaper/cyberpunk/town.jpg",
-      "original": "/api/wallpaper/cyberpunk/town.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/town.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/town.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/town.jpg"
     },
     "tags": [
       "city",
@@ -14724,9 +14724,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bd4c053e2712.webp",
-      "preview": "/api/wallpaper/cyberpunk/wallhaven-28rjj6.png",
-      "original": "/api/wallpaper/cyberpunk/wallhaven-28rjj6.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-28rjj6.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-28rjj6.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-28rjj6.png"
     },
     "tags": [
       "neon",
@@ -14773,9 +14773,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b8be40e7d735.webp",
-      "preview": "/api/wallpaper/cyberpunk/wallhaven-j8ym1p.png",
-      "original": "/api/wallpaper/cyberpunk/wallhaven-j8ym1p.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-j8ym1p.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-j8ym1p.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-j8ym1p.png"
     },
     "tags": [
       "pixelart",
@@ -14821,9 +14821,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-400bb55a9b91.webp",
-      "preview": "/api/wallpaper/cyberpunk/wallhaven-nmr788.jpg",
-      "original": "/api/wallpaper/cyberpunk/wallhaven-nmr788.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-nmr788.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-nmr788.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wallhaven-nmr788.jpg"
     },
     "tags": [
       "pixelart",
@@ -14868,9 +14868,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a37dc0ca2ba7.webp",
-      "preview": "/api/wallpaper/cyberpunk/weeknd.png",
-      "original": "/api/wallpaper/cyberpunk/weeknd.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/weeknd.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/weeknd.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/weeknd.png"
     },
     "tags": [
       "city",
@@ -14916,9 +14916,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f258d3caf38b.webp",
-      "preview": "/api/wallpaper/cyberpunk/wide_tokyonight_lines.png",
-      "original": "/api/wallpaper/cyberpunk/wide_tokyonight_lines.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wide_tokyonight_lines.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wide_tokyonight_lines.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wide_tokyonight_lines.png"
     },
     "tags": [
       "sky",
@@ -14964,9 +14964,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3a5ddcd26ade.webp",
-      "preview": "/api/wallpaper/cyberpunk/wide_tokyonight_skyline.jpg",
-      "original": "/api/wallpaper/cyberpunk/wide_tokyonight_skyline.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wide_tokyonight_skyline.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wide_tokyonight_skyline.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/cyberpunk/wide_tokyonight_skyline.jpg"
     },
     "tags": [
       "sky",
@@ -15012,9 +15012,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3cbf152f5cf5.webp",
-      "preview": "/api/wallpaper/gruvbox/0419.jpg",
-      "original": "/api/wallpaper/gruvbox/0419.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/0419.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/0419.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/0419.jpg"
     },
     "tags": [
       "minimal",
@@ -15059,9 +15059,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-63713b956530.webp",
-      "preview": "/api/wallpaper/gruvbox/108948084_p0.png",
-      "original": "/api/wallpaper/gruvbox/108948084_p0.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/108948084_p0.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/108948084_p0.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/108948084_p0.png"
     },
     "tags": [
       "minimal",
@@ -15106,9 +15106,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-269952611f53.webp",
-      "preview": "/api/wallpaper/gruvbox/114133447_p0.png",
-      "original": "/api/wallpaper/gruvbox/114133447_p0.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/114133447_p0.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/114133447_p0.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/114133447_p0.png"
     },
     "tags": [
       "minimal",
@@ -15153,9 +15153,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f43b6edce705.webp",
-      "preview": "/api/wallpaper/gruvbox/1406218.png",
-      "original": "/api/wallpaper/gruvbox/1406218.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1406218.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1406218.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1406218.png"
     },
     "tags": [
       "minimal",
@@ -15200,9 +15200,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e95f682edce2.webp",
-      "preview": "/api/wallpaper/gruvbox/1406262.jpg",
-      "original": "/api/wallpaper/gruvbox/1406262.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1406262.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1406262.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1406262.jpg"
     },
     "tags": [
       "minimal",
@@ -15247,9 +15247,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f0fff8239cab.webp",
-      "preview": "/api/wallpaper/gruvbox/15. Gruvbox Retro.png",
-      "original": "/api/wallpaper/gruvbox/15. Gruvbox Retro.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/15.%20Gruvbox%20Retro.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/15.%20Gruvbox%20Retro.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/15.%20Gruvbox%20Retro.png"
     },
     "tags": [
       "minimal",
@@ -15294,9 +15294,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1ae4749a4598.webp",
-      "preview": "/api/wallpaper/gruvbox/17. Gruvbox Retro.png",
-      "original": "/api/wallpaper/gruvbox/17. Gruvbox Retro.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/17.%20Gruvbox%20Retro.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/17.%20Gruvbox%20Retro.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/17.%20Gruvbox%20Retro.png"
     },
     "tags": [
       "minimal",
@@ -15341,9 +15341,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a26d95a25a20.webp",
-      "preview": "/api/wallpaper/gruvbox/1qdk61.png",
-      "original": "/api/wallpaper/gruvbox/1qdk61.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1qdk61.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1qdk61.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/1qdk61.png"
     },
     "tags": [
       "minimal",
@@ -15388,9 +15388,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-15e2e171215b.webp",
-      "preview": "/api/wallpaper/gruvbox/a_close_up_of_a_person_with_wings.jpg",
-      "original": "/api/wallpaper/gruvbox/a_close_up_of_a_person_with_wings.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_close_up_of_a_person_with_wings.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_close_up_of_a_person_with_wings.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_close_up_of_a_person_with_wings.jpg"
     },
     "tags": [
       "minimal",
@@ -15435,9 +15435,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e92dff06d377.webp",
-      "preview": "/api/wallpaper/gruvbox/a_drawing_of_a_bear_and_a_campfire.png",
-      "original": "/api/wallpaper/gruvbox/a_drawing_of_a_bear_and_a_campfire.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_drawing_of_a_bear_and_a_campfire.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_drawing_of_a_bear_and_a_campfire.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_drawing_of_a_bear_and_a_campfire.png"
     },
     "tags": [
       "minimal",
@@ -15482,9 +15482,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7ec3ac0bfdb4.webp",
-      "preview": "/api/wallpaper/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png",
-      "original": "/api/wallpaper/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png"
     },
     "tags": [
       "minimal",
@@ -15529,9 +15529,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-48643ee75239.webp",
-      "preview": "/api/wallpaper/gruvbox/ALLqk82.png",
-      "original": "/api/wallpaper/gruvbox/ALLqk82.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/ALLqk82.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/ALLqk82.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/ALLqk82.png"
     },
     "tags": [
       "minimal",
@@ -15576,9 +15576,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-668292a2561d.webp",
-      "preview": "/api/wallpaper/gruvbox/anime-gruvbox-theme-hd-wallpaper-1836aa338af4d93f1241ba4a0d6ea25a.jpg",
-      "original": "/api/wallpaper/gruvbox/anime-gruvbox-theme-hd-wallpaper-1836aa338af4d93f1241ba4a0d6ea25a.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/anime-gruvbox-theme-hd-wallpaper-1836aa338af4d93f1241ba4a0d6ea25a.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/anime-gruvbox-theme-hd-wallpaper-1836aa338af4d93f1241ba4a0d6ea25a.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/anime-gruvbox-theme-hd-wallpaper-1836aa338af4d93f1241ba4a0d6ea25a.jpg"
     },
     "tags": [
       "minimal",
@@ -15623,9 +15623,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-07251af9d978.webp",
-      "preview": "/api/wallpaper/gruvbox/arknights.png",
-      "original": "/api/wallpaper/gruvbox/arknights.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/arknights.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/arknights.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/arknights.png"
     },
     "tags": [
       "minimal",
@@ -15671,9 +15671,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b0329ca5f264.webp",
-      "preview": "/api/wallpaper/gruvbox/arknightsw.png",
-      "original": "/api/wallpaper/gruvbox/arknightsw.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/arknightsw.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/arknightsw.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/arknightsw.png"
     },
     "tags": [
       "minimal",
@@ -15719,9 +15719,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c2ff2b3b03a3.webp",
-      "preview": "/api/wallpaper/gruvbox/b-282.jpg",
-      "original": "/api/wallpaper/gruvbox/b-282.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/b-282.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/b-282.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/b-282.jpg"
     },
     "tags": [
       "minimal",
@@ -15766,9 +15766,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7899f6211041.webp",
-      "preview": "/api/wallpaper/gruvbox/bolsa.jpg",
-      "original": "/api/wallpaper/gruvbox/bolsa.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/bolsa.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/bolsa.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/bolsa.jpg"
     },
     "tags": [
       "minimal",
@@ -15813,9 +15813,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-eaf4391fee6d.webp",
-      "preview": "/api/wallpaper/gruvbox/dfgdfg.jpg",
-      "original": "/api/wallpaper/gruvbox/dfgdfg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/dfgdfg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/dfgdfg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/dfgdfg.jpg"
     },
     "tags": [
       "minimal",
@@ -15860,9 +15860,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b6ffc7cd3359.webp",
-      "preview": "/api/wallpaper/gruvbox/Elegant-woman.png",
-      "original": "/api/wallpaper/gruvbox/Elegant-woman.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Elegant-woman.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Elegant-woman.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Elegant-woman.png"
     },
     "tags": [
       "minimal",
@@ -15907,9 +15907,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c5d9c69fdce6.webp",
-      "preview": "/api/wallpaper/gruvbox/elias.jpg",
-      "original": "/api/wallpaper/gruvbox/elias.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/elias.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/elias.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/elias.jpg"
     },
     "tags": [
       "minimal",
@@ -15954,9 +15954,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-46024238cb3b.webp",
-      "preview": "/api/wallpaper/gruvbox/endfield.png",
-      "original": "/api/wallpaper/gruvbox/endfield.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/endfield.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/endfield.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/endfield.png"
     },
     "tags": [
       "minimal",
@@ -16001,9 +16001,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4ea3e0d5e85d.webp",
-      "preview": "/api/wallpaper/gruvbox/fddfgdfg.jpg",
-      "original": "/api/wallpaper/gruvbox/fddfgdfg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fddfgdfg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fddfgdfg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fddfgdfg.jpg"
     },
     "tags": [
       "minimal",
@@ -16048,9 +16048,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-981dd30f0f14.webp",
-      "preview": "/api/wallpaper/gruvbox/fddfgdfh.jpg",
-      "original": "/api/wallpaper/gruvbox/fddfgdfh.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fddfgdfh.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fddfgdfh.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fddfgdfh.jpg"
     },
     "tags": [
       "minimal",
@@ -16095,9 +16095,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7c90bbe2c123.webp",
-      "preview": "/api/wallpaper/gruvbox/fgdghgfh.jpg",
-      "original": "/api/wallpaper/gruvbox/fgdghgfh.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fgdghgfh.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fgdghgfh.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/fgdghgfh.jpg"
     },
     "tags": [
       "minimal",
@@ -16142,9 +16142,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-11423dfd3739.webp",
-      "preview": "/api/wallpaper/gruvbox/gankutsuou.jpg",
-      "original": "/api/wallpaper/gruvbox/gankutsuou.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gankutsuou.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gankutsuou.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gankutsuou.jpg"
     },
     "tags": [
       "minimal",
@@ -16189,9 +16189,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-47dd1ffb9088.webp",
-      "preview": "/api/wallpaper/gruvbox/gddhghd.jpg",
-      "original": "/api/wallpaper/gruvbox/gddhghd.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gddhghd.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gddhghd.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gddhghd.jpg"
     },
     "tags": [
       "minimal",
@@ -16236,9 +16236,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-be7ed2fadf24.webp",
-      "preview": "/api/wallpaper/gruvbox/gdhgfhfghgf.jpg",
-      "original": "/api/wallpaper/gruvbox/gdhgfhfghgf.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gdhgfhfghgf.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gdhgfhfghgf.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gdhgfhfghgf.jpg"
     },
     "tags": [
       "minimal",
@@ -16283,9 +16283,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4f7864809c19.webp",
-      "preview": "/api/wallpaper/gruvbox/Gemälde.png",
-      "original": "/api/wallpaper/gruvbox/Gemälde.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Gem%C3%A4lde.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Gem%C3%A4lde.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Gem%C3%A4lde.png"
     },
     "tags": [
       "minimal",
@@ -16330,9 +16330,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a008c2503466.webp",
-      "preview": "/api/wallpaper/gruvbox/glt_gruvbox.png",
-      "original": "/api/wallpaper/gruvbox/glt_gruvbox.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/glt_gruvbox.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/glt_gruvbox.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/glt_gruvbox.png"
     },
     "tags": [
       "minimal",
@@ -16377,9 +16377,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ede9d33769e5.webp",
-      "preview": "/api/wallpaper/gruvbox/Gray.png",
-      "original": "/api/wallpaper/gruvbox/Gray.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Gray.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Gray.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Gray.png"
     },
     "tags": [
       "minimal",
@@ -16424,9 +16424,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f9acbf24e1c5.webp",
-      "preview": "/api/wallpaper/gruvbox/grey_lain_wallpaper.jpg",
-      "original": "/api/wallpaper/gruvbox/grey_lain_wallpaper.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/grey_lain_wallpaper.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/grey_lain_wallpaper.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/grey_lain_wallpaper.jpg"
     },
     "tags": [
       "minimal",
@@ -16471,9 +16471,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-612d8b6d599d.webp",
-      "preview": "/api/wallpaper/gruvbox/gruv-wallhaven-4gmevq.png",
-      "original": "/api/wallpaper/gruvbox/gruv-wallhaven-4gmevq.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruv-wallhaven-4gmevq.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruv-wallhaven-4gmevq.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruv-wallhaven-4gmevq.png"
     },
     "tags": [
       "minimal",
@@ -16518,9 +16518,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5d3c00fe49c6.webp",
-      "preview": "/api/wallpaper/gruvbox/gruvbox_beach.png",
-      "original": "/api/wallpaper/gruvbox/gruvbox_beach.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvbox_beach.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvbox_beach.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvbox_beach.png"
     },
     "tags": [
       "minimal",
@@ -16566,9 +16566,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-abb1c16b8a3c.webp",
-      "preview": "/api/wallpaper/gruvbox/gruvbox_focus.png",
-      "original": "/api/wallpaper/gruvbox/gruvbox_focus.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvbox_focus.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvbox_focus.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvbox_focus.png"
     },
     "tags": [
       "minimal",
@@ -16613,9 +16613,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3513dde37c68.webp",
-      "preview": "/api/wallpaper/gruvbox/gruvherc.png",
-      "original": "/api/wallpaper/gruvbox/gruvherc.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvherc.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvherc.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/gruvherc.png"
     },
     "tags": [
       "minimal",
@@ -16660,9 +16660,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-caa580c4c322.webp",
-      "preview": "/api/wallpaper/gruvbox/harmony.png",
-      "original": "/api/wallpaper/gruvbox/harmony.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/harmony.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/harmony.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/harmony.png"
     },
     "tags": [
       "minimal",
@@ -16707,9 +16707,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e52d59fe4095.webp",
-      "preview": "/api/wallpaper/gruvbox/hgjhgjghj.jpg",
-      "original": "/api/wallpaper/gruvbox/hgjhgjghj.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/hgjhgjghj.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/hgjhgjghj.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/hgjhgjghj.jpg"
     },
     "tags": [
       "minimal",
@@ -16754,9 +16754,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c4c92a4648f6.webp",
-      "preview": "/api/wallpaper/gruvbox/hhfgfgh.jpg",
-      "original": "/api/wallpaper/gruvbox/hhfgfgh.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/hhfgfgh.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/hhfgfgh.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/hhfgfgh.jpg"
     },
     "tags": [
       "minimal",
@@ -16801,9 +16801,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-256d89a03e30.webp",
-      "preview": "/api/wallpaper/gruvbox/Hu4tueK.png",
-      "original": "/api/wallpaper/gruvbox/Hu4tueK.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Hu4tueK.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Hu4tueK.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Hu4tueK.png"
     },
     "tags": [
       "minimal",
@@ -16848,9 +16848,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8b5ce1a68ff8.webp",
-      "preview": "/api/wallpaper/gruvbox/image.png",
-      "original": "/api/wallpaper/gruvbox/image.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/image.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/image.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/image.png"
     },
     "tags": [
       "minimal",
@@ -16895,9 +16895,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2afdc6fb72f9.webp",
-      "preview": "/api/wallpaper/gruvbox/Knights.png",
-      "original": "/api/wallpaper/gruvbox/Knights.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Knights.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Knights.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Knights.png"
     },
     "tags": [
       "minimal",
@@ -16943,9 +16943,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c04f2166087c.webp",
-      "preview": "/api/wallpaper/gruvbox/koi-fish.png",
-      "original": "/api/wallpaper/gruvbox/koi-fish.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/koi-fish.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/koi-fish.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/koi-fish.png"
     },
     "tags": [
       "minimal",
@@ -16990,9 +16990,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-247836defe59.webp",
-      "preview": "/api/wallpaper/gruvbox/komeiji-koishi.png",
-      "original": "/api/wallpaper/gruvbox/komeiji-koishi.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/komeiji-koishi.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/komeiji-koishi.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/komeiji-koishi.png"
     },
     "tags": [
       "minimal",
@@ -17037,9 +17037,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b6aa5df08b2e.webp",
-      "preview": "/api/wallpaper/gruvbox/Kurumi-Ebisuzawa-colorized.png",
-      "original": "/api/wallpaper/gruvbox/Kurumi-Ebisuzawa-colorized.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Kurumi-Ebisuzawa-colorized.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Kurumi-Ebisuzawa-colorized.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Kurumi-Ebisuzawa-colorized.png"
     },
     "tags": [
       "minimal",
@@ -17084,9 +17084,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-66bf2f82645c.webp",
-      "preview": "/api/wallpaper/gruvbox/manga-anime-gruvbox-theme-hd-wallpaper-01481fd210330705f1ab9c3638ba359f.jpg",
-      "original": "/api/wallpaper/gruvbox/manga-anime-gruvbox-theme-hd-wallpaper-01481fd210330705f1ab9c3638ba359f.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/manga-anime-gruvbox-theme-hd-wallpaper-01481fd210330705f1ab9c3638ba359f.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/manga-anime-gruvbox-theme-hd-wallpaper-01481fd210330705f1ab9c3638ba359f.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/manga-anime-gruvbox-theme-hd-wallpaper-01481fd210330705f1ab9c3638ba359f.jpg"
     },
     "tags": [
       "minimal",
@@ -17131,9 +17131,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-23417f442e4d.webp",
-      "preview": "/api/wallpaper/gruvbox/output5.png",
-      "original": "/api/wallpaper/gruvbox/output5.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/output5.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/output5.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/output5.png"
     },
     "tags": [
       "minimal",
@@ -17178,9 +17178,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-50fa96071e18.webp",
-      "preview": "/api/wallpaper/gruvbox/rm-rf.jpg",
-      "original": "/api/wallpaper/gruvbox/rm-rf.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rm-rf.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rm-rf.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rm-rf.jpg"
     },
     "tags": [
       "gray",
@@ -17227,9 +17227,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-799b239d4d09.webp",
-      "preview": "/api/wallpaper/gruvbox/rockman.png",
-      "original": "/api/wallpaper/gruvbox/rockman.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rockman.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rockman.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rockman.png"
     },
     "tags": [
       "minimal",
@@ -17275,9 +17275,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-68b4ca6fc319.webp",
-      "preview": "/api/wallpaper/gruvbox/rqyd8j.png",
-      "original": "/api/wallpaper/gruvbox/rqyd8j.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rqyd8j.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rqyd8j.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/rqyd8j.png"
     },
     "tags": [
       "minimal",
@@ -17322,9 +17322,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-06422f890d6d.webp",
-      "preview": "/api/wallpaper/gruvbox/VanGoghSkull.png",
-      "original": "/api/wallpaper/gruvbox/VanGoghSkull.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/VanGoghSkull.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/VanGoghSkull.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/VanGoghSkull.png"
     },
     "tags": [
       "minimal",
@@ -17369,9 +17369,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a5778d5b2a8f.webp",
-      "preview": "/api/wallpaper/gruvbox/VghSL9k.png",
-      "original": "/api/wallpaper/gruvbox/VghSL9k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/VghSL9k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/VghSL9k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/VghSL9k.png"
     },
     "tags": [
       "minimal",
@@ -17416,9 +17416,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3d1ed7547a44.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-1qrdxv.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-1qrdxv.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-1qrdxv.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-1qrdxv.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-1qrdxv.png"
     },
     "tags": [
       "minimal",
@@ -17463,9 +17463,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d44ee88a45f8.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-1qrv33.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-1qrv33.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-1qrv33.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-1qrv33.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-1qrv33.png"
     },
     "tags": [
       "minimal",
@@ -17510,9 +17510,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-59fbe33bf846.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-7p53ve.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-7p53ve.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-7p53ve.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-7p53ve.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-7p53ve.png"
     },
     "tags": [
       "minimal",
@@ -17557,9 +17557,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-625ac422f00d.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-gpo1g3_3840x2160.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-gpo1g3_3840x2160.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-gpo1g3_3840x2160.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-gpo1g3_3840x2160.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-gpo1g3_3840x2160.png"
     },
     "tags": [
       "minimal",
@@ -17604,9 +17604,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5eee9e5bbe66.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-gw9kwe.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-gw9kwe.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-gw9kwe.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-gw9kwe.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-gw9kwe.png"
     },
     "tags": [
       "minimal",
@@ -17651,9 +17651,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e158bffce0a6.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-jev2kp.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-jev2kp.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-jev2kp.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-jev2kp.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-jev2kp.png"
     },
     "tags": [
       "minimal",
@@ -17698,9 +17698,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-782c67a04a4e.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-k821kq.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-k821kq.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-k821kq.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-k821kq.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-k821kq.png"
     },
     "tags": [
       "minimal",
@@ -17745,9 +17745,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ee703c7d8aac.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-k82ew7.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-k82ew7.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-k82ew7.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-k82ew7.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-k82ew7.png"
     },
     "tags": [
       "minimal",
@@ -17792,9 +17792,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1c39d409a008.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-pkrqze_3840x2160.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-pkrqze_3840x2160.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-pkrqze_3840x2160.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-pkrqze_3840x2160.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-pkrqze_3840x2160.png"
     },
     "tags": [
       "minimal",
@@ -17839,9 +17839,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7e0bc040800d.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-qdxpjd.jpg",
-      "original": "/api/wallpaper/gruvbox/wallhaven-qdxpjd.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qdxpjd.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qdxpjd.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qdxpjd.jpg"
     },
     "tags": [
       "minimal",
@@ -17886,9 +17886,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f156d1154f17.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-qr3mk7.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-qr3mk7.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qr3mk7.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qr3mk7.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qr3mk7.png"
     },
     "tags": [
       "minimal",
@@ -17933,9 +17933,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-87bc2e18f5e4.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-qrzvjd.jpg",
-      "original": "/api/wallpaper/gruvbox/wallhaven-qrzvjd.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qrzvjd.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qrzvjd.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-qrzvjd.jpg"
     },
     "tags": [
       "minimal",
@@ -17980,9 +17980,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-610c9a924e13.webp",
-      "preview": "/api/wallpaper/gruvbox/wallhaven-xe8wgd.png",
-      "original": "/api/wallpaper/gruvbox/wallhaven-xe8wgd.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-xe8wgd.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-xe8wgd.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallhaven-xe8wgd.png"
     },
     "tags": [
       "minimal",
@@ -18027,9 +18027,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d4c7d4b0ab72.webp",
-      "preview": "/api/wallpaper/gruvbox/wallpaper.png",
-      "original": "/api/wallpaper/gruvbox/wallpaper.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaper.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaper.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaper.png"
     },
     "tags": [
       "minimal",
@@ -18074,9 +18074,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-de9f72df7365.webp",
-      "preview": "/api/wallpaper/gruvbox/wallpaperbetter.com_1920x1080 (1).jpg",
-      "original": "/api/wallpaper/gruvbox/wallpaperbetter.com_1920x1080 (1).jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperbetter.com_1920x1080%20(1).jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperbetter.com_1920x1080%20(1).jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperbetter.com_1920x1080%20(1).jpg"
     },
     "tags": [
       "minimal",
@@ -18121,9 +18121,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c8a882c60e89.webp",
-      "preview": "/api/wallpaper/gruvbox/wallpaperbetter.com_1920x1080.jpg",
-      "original": "/api/wallpaper/gruvbox/wallpaperbetter.com_1920x1080.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperbetter.com_1920x1080.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperbetter.com_1920x1080.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperbetter.com_1920x1080.jpg"
     },
     "tags": [
       "minimal",
@@ -18168,9 +18168,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8bf2fe5ecf63.webp",
-      "preview": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper (1).jpg",
-      "original": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper (1).jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(1).jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(1).jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(1).jpg"
     },
     "tags": [
       "minimal",
@@ -18215,9 +18215,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-be163807b605.webp",
-      "preview": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper (2).jpg",
-      "original": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper (2).jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(2).jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(2).jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(2).jpg"
     },
     "tags": [
       "minimal",
@@ -18262,9 +18262,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dd98c112689d.webp",
-      "preview": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper (3).jpg",
-      "original": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper (3).jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(3).jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(3).jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper%20(3).jpg"
     },
     "tags": [
       "minimal",
@@ -18309,9 +18309,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4fca5b6096ba.webp",
-      "preview": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper.jpg",
-      "original": "/api/wallpaper/gruvbox/wallpaperflare.com_wallpaper.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wallpaperflare.com_wallpaper.jpg"
     },
     "tags": [
       "minimal",
@@ -18356,9 +18356,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1275a899336c.webp",
-      "preview": "/api/wallpaper/gruvbox/wide-girl.png",
-      "original": "/api/wallpaper/gruvbox/wide-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wide-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wide-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/wide-girl.png"
     },
     "tags": [
       "minimal",
@@ -18404,9 +18404,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-44cc8254ce5d.webp",
-      "preview": "/api/wallpaper/gruvbox/xe78vz.png",
-      "original": "/api/wallpaper/gruvbox/xe78vz.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/xe78vz.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/xe78vz.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/xe78vz.png"
     },
     "tags": [
       "minimal",
@@ -18452,8 +18452,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-c6e4a2368cb0.webp",
-      "preview": "/api/wallpaper/gruvbox/XHLcJvl.png",
-      "original": "/api/wallpaper/gruvbox/XHLcJvl.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/XHLcJvl.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/XHLcJvl.png"
     },
     "tags": [
       "minimal",
@@ -18498,9 +18498,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-66f3633b013e.webp",
-      "preview": "/api/wallpaper/gruvbox/yh.png",
-      "original": "/api/wallpaper/gruvbox/yh.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/yh.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/yh.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/yh.png"
     },
     "tags": [
       "minimal",
@@ -18546,9 +18546,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ca108b729328.webp",
-      "preview": "/api/wallpaper/gruvbox/Yotsuba.png",
-      "original": "/api/wallpaper/gruvbox/Yotsuba.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Yotsuba.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Yotsuba.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/Yotsuba.png"
     },
     "tags": [
       "minimal",
@@ -18593,9 +18593,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f4e96e870652.webp",
-      "preview": "/api/wallpaper/gruvbox/yuriark.png",
-      "original": "/api/wallpaper/gruvbox/yuriark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/yuriark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/yuriark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/gruvbox/yuriark.png"
     },
     "tags": [
       "minimal",
@@ -18640,9 +18640,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6fc461e23c32.webp",
-      "preview": "/api/wallpaper/landscape/003-cliffside-town.png",
-      "original": "/api/wallpaper/landscape/003-cliffside-town.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/003-cliffside-town.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/003-cliffside-town.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/003-cliffside-town.png"
     },
     "tags": [
       "nature",
@@ -18688,9 +18688,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a15d578be82b.webp",
-      "preview": "/api/wallpaper/landscape/003-tunnel.png",
-      "original": "/api/wallpaper/landscape/003-tunnel.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/003-tunnel.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/003-tunnel.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/003-tunnel.png"
     },
     "tags": [
       "nature",
@@ -18736,9 +18736,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1f9c056dea02.webp",
-      "preview": "/api/wallpaper/landscape/004-tunnel.png",
-      "original": "/api/wallpaper/landscape/004-tunnel.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/004-tunnel.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/004-tunnel.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/004-tunnel.png"
     },
     "tags": [
       "nature",
@@ -18784,9 +18784,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bb82fe6f59f8.webp",
-      "preview": "/api/wallpaper/landscape/005-fields.png",
-      "original": "/api/wallpaper/landscape/005-fields.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/005-fields.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/005-fields.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/005-fields.png"
     },
     "tags": [
       "nature",
@@ -18832,9 +18832,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7776c9d95a16.webp",
-      "preview": "/api/wallpaper/landscape/005-house.png",
-      "original": "/api/wallpaper/landscape/005-house.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/005-house.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/005-house.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/005-house.png"
     },
     "tags": [
       "desert",
@@ -18880,9 +18880,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9f41ecdcf279.webp",
-      "preview": "/api/wallpaper/landscape/006-airfield.png",
-      "original": "/api/wallpaper/landscape/006-airfield.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/006-airfield.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/006-airfield.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/006-airfield.png"
     },
     "tags": [
       "nature",
@@ -18928,9 +18928,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3f03efd2c2b0.webp",
-      "preview": "/api/wallpaper/landscape/007-door.png",
-      "original": "/api/wallpaper/landscape/007-door.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/007-door.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/007-door.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/007-door.png"
     },
     "tags": [
       "nature",
@@ -18976,9 +18976,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-35a12e7dd65a.webp",
-      "preview": "/api/wallpaper/landscape/008-waterfall.png",
-      "original": "/api/wallpaper/landscape/008-waterfall.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/008-waterfall.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/008-waterfall.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/008-waterfall.png"
     },
     "tags": [
       "nature",
@@ -19024,9 +19024,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ab982f71df88.webp",
-      "preview": "/api/wallpaper/landscape/013-clouds.png",
-      "original": "/api/wallpaper/landscape/013-clouds.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/013-clouds.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/013-clouds.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/013-clouds.png"
     },
     "tags": [
       "sky",
@@ -19072,9 +19072,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9161d4de0c00.webp",
-      "preview": "/api/wallpaper/landscape/015-xwing.png",
-      "original": "/api/wallpaper/landscape/015-xwing.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/015-xwing.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/015-xwing.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/015-xwing.png"
     },
     "tags": [
       "nature",
@@ -19120,9 +19120,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-23e1da34db27.webp",
-      "preview": "/api/wallpaper/landscape/026-bridge.png",
-      "original": "/api/wallpaper/landscape/026-bridge.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/026-bridge.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/026-bridge.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/026-bridge.png"
     },
     "tags": [
       "nature",
@@ -19168,9 +19168,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5a826955f8e6.webp",
-      "preview": "/api/wallpaper/landscape/027-ruins.png",
-      "original": "/api/wallpaper/landscape/027-ruins.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/027-ruins.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/027-ruins.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/027-ruins.png"
     },
     "tags": [
       "nature",
@@ -19216,9 +19216,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-62d116c8992a.webp",
-      "preview": "/api/wallpaper/landscape/03. Abyssal Wave.png",
-      "original": "/api/wallpaper/landscape/03. Abyssal Wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/03.%20Abyssal%20Wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/03.%20Abyssal%20Wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/03.%20Abyssal%20Wave.png"
     },
     "tags": [
       "nature",
@@ -19264,9 +19264,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7e4267fa9f56.webp",
-      "preview": "/api/wallpaper/landscape/03. Green Lush.png",
-      "original": "/api/wallpaper/landscape/03. Green Lush.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/03.%20Green%20Lush.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/03.%20Green%20Lush.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/03.%20Green%20Lush.png"
     },
     "tags": [
       "nature",
@@ -19312,9 +19312,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1c3e4a53fbbb.webp",
-      "preview": "/api/wallpaper/landscape/04. Abyssal Wave.png",
-      "original": "/api/wallpaper/landscape/04. Abyssal Wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/04.%20Abyssal%20Wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/04.%20Abyssal%20Wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/04.%20Abyssal%20Wave.png"
     },
     "tags": [
       "nature",
@@ -19360,9 +19360,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-93400a8a71aa.webp",
-      "preview": "/api/wallpaper/landscape/04vliswlot1g1.jpg",
-      "original": "/api/wallpaper/landscape/04vliswlot1g1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/04vliswlot1g1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/04vliswlot1g1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/04vliswlot1g1.jpg"
     },
     "tags": [
       "nature",
@@ -19408,9 +19408,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e4f0533e4a57.webp",
-      "preview": "/api/wallpaper/landscape/06. Green Lush.jpg",
-      "original": "/api/wallpaper/landscape/06. Green Lush.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/06.%20Green%20Lush.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/06.%20Green%20Lush.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/06.%20Green%20Lush.jpg"
     },
     "tags": [
       "nature",
@@ -19456,9 +19456,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e574abf375b0.webp",
-      "preview": "/api/wallpaper/landscape/08. Green Lush.jpg",
-      "original": "/api/wallpaper/landscape/08. Green Lush.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/08.%20Green%20Lush.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/08.%20Green%20Lush.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/08.%20Green%20Lush.jpg"
     },
     "tags": [
       "nature",
@@ -19504,9 +19504,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b6e467d64034.webp",
-      "preview": "/api/wallpaper/landscape/09. Green Lush.png",
-      "original": "/api/wallpaper/landscape/09. Green Lush.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/09.%20Green%20Lush.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/09.%20Green%20Lush.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/09.%20Green%20Lush.png"
     },
     "tags": [
       "nature",
@@ -19552,9 +19552,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-60b91d71fd08.webp",
-      "preview": "/api/wallpaper/landscape/11. Green Lush.png",
-      "original": "/api/wallpaper/landscape/11. Green Lush.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/11.%20Green%20Lush.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/11.%20Green%20Lush.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/11.%20Green%20Lush.png"
     },
     "tags": [
       "nature",
@@ -19600,9 +19600,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b54cea94d9e8.webp",
-      "preview": "/api/wallpaper/landscape/116861314_p0.jpg",
-      "original": "/api/wallpaper/landscape/116861314_p0.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/116861314_p0.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/116861314_p0.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/116861314_p0.jpg"
     },
     "tags": [
       "nature",
@@ -19648,9 +19648,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cccfe99b6950.webp",
-      "preview": "/api/wallpaper/landscape/18. Catppuccin Latte.jpg",
-      "original": "/api/wallpaper/landscape/18. Catppuccin Latte.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/18.%20Catppuccin%20Latte.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/18.%20Catppuccin%20Latte.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/18.%20Catppuccin%20Latte.jpg"
     },
     "tags": [
       "nature",
@@ -19696,9 +19696,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2a0a67303483.webp",
-      "preview": "/api/wallpaper/landscape/a_building_with_a_roof_and_a_body_of_water.jpg",
-      "original": "/api/wallpaper/landscape/a_building_with_a_roof_and_a_body_of_water.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_building_with_a_roof_and_a_body_of_water.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_building_with_a_roof_and_a_body_of_water.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_building_with_a_roof_and_a_body_of_water.jpg"
     },
     "tags": [
       "nature",
@@ -19744,9 +19744,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d955755d90cb.webp",
-      "preview": "/api/wallpaper/landscape/a_building_with_people_sitting_on_a_bench.jpg",
-      "original": "/api/wallpaper/landscape/a_building_with_people_sitting_on_a_bench.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_building_with_people_sitting_on_a_bench.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_building_with_people_sitting_on_a_bench.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_building_with_people_sitting_on_a_bench.jpg"
     },
     "tags": [
       "nature",
@@ -19792,9 +19792,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-50515e142532.webp",
-      "preview": "/api/wallpaper/landscape/a_cartoon_of_a_house_on_a_cliff.png",
-      "original": "/api/wallpaper/landscape/a_cartoon_of_a_house_on_a_cliff.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_cartoon_of_a_house_on_a_cliff.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_cartoon_of_a_house_on_a_cliff.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_cartoon_of_a_house_on_a_cliff.png"
     },
     "tags": [
       "nature",
@@ -19840,9 +19840,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1e5474c43559.webp",
-      "preview": "/api/wallpaper/landscape/a_cartoon_of_a_woman_sitting_on_a_plane.png",
-      "original": "/api/wallpaper/landscape/a_cartoon_of_a_woman_sitting_on_a_plane.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_cartoon_of_a_woman_sitting_on_a_plane.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_cartoon_of_a_woman_sitting_on_a_plane.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_cartoon_of_a_woman_sitting_on_a_plane.png"
     },
     "tags": [
       "nature",
@@ -19888,9 +19888,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0b220cef516a.webp",
-      "preview": "/api/wallpaper/landscape/a_colorful_sky_with_clouds.png",
-      "original": "/api/wallpaper/landscape/a_colorful_sky_with_clouds.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_colorful_sky_with_clouds.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_colorful_sky_with_clouds.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_colorful_sky_with_clouds.png"
     },
     "tags": [
       "sky",
@@ -19936,9 +19936,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f54ea44c50be.webp",
-      "preview": "/api/wallpaper/landscape/a_group_of_men_standing_on_a_beach.jpg",
-      "original": "/api/wallpaper/landscape/a_group_of_men_standing_on_a_beach.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_group_of_men_standing_on_a_beach.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_group_of_men_standing_on_a_beach.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_group_of_men_standing_on_a_beach.jpg"
     },
     "tags": [
       "nature",
@@ -19984,9 +19984,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-afab0967329d.webp",
-      "preview": "/api/wallpaper/landscape/a_house_in_the_snow.png",
-      "original": "/api/wallpaper/landscape/a_house_in_the_snow.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_house_in_the_snow.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_house_in_the_snow.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_house_in_the_snow.png"
     },
     "tags": [
       "nature",
@@ -20032,9 +20032,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2169622d5628.webp",
-      "preview": "/api/wallpaper/landscape/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg",
-      "original": "/api/wallpaper/landscape/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg"
     },
     "tags": [
       "sky",
@@ -20080,9 +20080,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-91b986bd48a5.webp",
-      "preview": "/api/wallpaper/landscape/a_man_and_a_robot_standing_in_a_parking_lot.jpg",
-      "original": "/api/wallpaper/landscape/a_man_and_a_robot_standing_in_a_parking_lot.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_man_and_a_robot_standing_in_a_parking_lot.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_man_and_a_robot_standing_in_a_parking_lot.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_man_and_a_robot_standing_in_a_parking_lot.jpg"
     },
     "tags": [
       "nature",
@@ -20128,9 +20128,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2580a70646a2.webp",
-      "preview": "/api/wallpaper/landscape/a_snow_covered_road_with_two_large_machines.jpg",
-      "original": "/api/wallpaper/landscape/a_snow_covered_road_with_two_large_machines.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_snow_covered_road_with_two_large_machines.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_snow_covered_road_with_two_large_machines.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/a_snow_covered_road_with_two_large_machines.jpg"
     },
     "tags": [
       "nature",
@@ -20176,9 +20176,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-68a9ab9d426a.webp",
-      "preview": "/api/wallpaper/landscape/art-lake.png",
-      "original": "/api/wallpaper/landscape/art-lake.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/art-lake.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/art-lake.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/art-lake.png"
     },
     "tags": [
       "monochrome",
@@ -20227,9 +20227,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-23253d59fc85.webp",
-      "preview": "/api/wallpaper/landscape/australia.jpg",
-      "original": "/api/wallpaper/landscape/australia.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/australia.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/australia.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/australia.jpg"
     },
     "tags": [
       "amber",
@@ -20278,9 +20278,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4b185d467210.webp",
-      "preview": "/api/wallpaper/landscape/beach_landscape.png",
-      "original": "/api/wallpaper/landscape/beach_landscape.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/beach_landscape.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/beach_landscape.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/beach_landscape.png"
     },
     "tags": [
       "beach",
@@ -20328,9 +20328,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-448ded24122d.webp",
-      "preview": "/api/wallpaper/landscape/bici.jpg",
-      "original": "/api/wallpaper/landscape/bici.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/bici.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/bici.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/bici.jpg"
     },
     "tags": [
       "sunset",
@@ -20378,9 +20378,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-31ac320fd0b1.webp",
-      "preview": "/api/wallpaper/landscape/blue-waves.png",
-      "original": "/api/wallpaper/landscape/blue-waves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/blue-waves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/blue-waves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/blue-waves.png"
     },
     "tags": [
       "waves",
@@ -20427,9 +20427,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2ddb51be17d7.webp",
-      "preview": "/api/wallpaper/landscape/cabin.png",
-      "original": "/api/wallpaper/landscape/cabin.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/cabin.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/cabin.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/cabin.png"
     },
     "tags": [
       "monochrome",
@@ -20477,9 +20477,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-564da496f35d.webp",
-      "preview": "/api/wallpaper/landscape/catpuccin_landscape.png",
-      "original": "/api/wallpaper/landscape/catpuccin_landscape.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/catpuccin_landscape.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/catpuccin_landscape.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/catpuccin_landscape.png"
     },
     "tags": [
       "catpuccin",
@@ -20526,9 +20526,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fbbf2f7745ed.webp",
-      "preview": "/api/wallpaper/landscape/cliff-edge.jpg",
-      "original": "/api/wallpaper/landscape/cliff-edge.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/cliff-edge.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/cliff-edge.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/cliff-edge.jpg"
     },
     "tags": [
       "sunset",
@@ -20576,9 +20576,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-76d160a0baeb.webp",
-      "preview": "/api/wallpaper/landscape/color-waves.png",
-      "original": "/api/wallpaper/landscape/color-waves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/color-waves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/color-waves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/color-waves.png"
     },
     "tags": [
       "waves",
@@ -20626,9 +20626,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-503b1649a1ef.webp",
-      "preview": "/api/wallpaper/landscape/dark_forest.png",
-      "original": "/api/wallpaper/landscape/dark_forest.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/dark_forest.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/dark_forest.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/dark_forest.png"
     },
     "tags": [
       "monochrome",
@@ -20675,9 +20675,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ab999a990b75.webp",
-      "preview": "/api/wallpaper/landscape/deer-forest.jpg",
-      "original": "/api/wallpaper/landscape/deer-forest.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/deer-forest.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/deer-forest.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/deer-forest.jpg"
     },
     "tags": [
       "forest",
@@ -20724,9 +20724,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5312fbf640c7.webp",
-      "preview": "/api/wallpaper/landscape/everforest_one_piece.png",
-      "original": "/api/wallpaper/landscape/everforest_one_piece.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/everforest_one_piece.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/everforest_one_piece.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/everforest_one_piece.png"
     },
     "tags": [
       "nature",
@@ -20772,9 +20772,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bf3fb489df01.webp",
-      "preview": "/api/wallpaper/landscape/everforest_robin.png",
-      "original": "/api/wallpaper/landscape/everforest_robin.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/everforest_robin.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/everforest_robin.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/everforest_robin.png"
     },
     "tags": [
       "nature",
@@ -20820,9 +20820,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-047777bcb733.webp",
-      "preview": "/api/wallpaper/landscape/fantasy-woods.jpg",
-      "original": "/api/wallpaper/landscape/fantasy-woods.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/fantasy-woods.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/fantasy-woods.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/fantasy-woods.jpg"
     },
     "tags": [
       "fantasy",
@@ -20869,9 +20869,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b74df1a89329.webp",
-      "preview": "/api/wallpaper/landscape/forest-bridge.jpg",
-      "original": "/api/wallpaper/landscape/forest-bridge.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/forest-bridge.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/forest-bridge.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/forest-bridge.jpg"
     },
     "tags": [
       "monochrome",
@@ -20918,9 +20918,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d4e019ccbe48.webp",
-      "preview": "/api/wallpaper/landscape/forest.png",
-      "original": "/api/wallpaper/landscape/forest.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/forest.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/forest.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/forest.png"
     },
     "tags": [
       "fantasy",
@@ -20967,9 +20967,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5ba2b555a79e.webp",
-      "preview": "/api/wallpaper/landscape/Ghibli.png",
-      "original": "/api/wallpaper/landscape/Ghibli.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/Ghibli.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/Ghibli.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/Ghibli.png"
     },
     "tags": [
       "nature",
@@ -21015,9 +21015,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-44965c720f39.webp",
-      "preview": "/api/wallpaper/landscape/golden-mountains.png",
-      "original": "/api/wallpaper/landscape/golden-mountains.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/golden-mountains.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/golden-mountains.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/golden-mountains.png"
     },
     "tags": [
       "golden",
@@ -21065,9 +21065,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4d341284a3a7.webp",
-      "preview": "/api/wallpaper/landscape/gruvbox_forest-4.png",
-      "original": "/api/wallpaper/landscape/gruvbox_forest-4.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/gruvbox_forest-4.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/gruvbox_forest-4.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/gruvbox_forest-4.png"
     },
     "tags": [
       "gruvbox",
@@ -21114,9 +21114,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f2f8c5d28298.webp",
-      "preview": "/api/wallpaper/landscape/lake.jpg",
-      "original": "/api/wallpaper/landscape/lake.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/lake.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/lake.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/lake.jpg"
     },
     "tags": [
       "sunset",
@@ -21164,9 +21164,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-aaa98a8cd226.webp",
-      "preview": "/api/wallpaper/landscape/landscape2.jpg",
-      "original": "/api/wallpaper/landscape/landscape2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/landscape2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/landscape2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/landscape2.jpg"
     },
     "tags": [
       "river",
@@ -21214,9 +21214,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a76e09b8d986.webp",
-      "preview": "/api/wallpaper/landscape/mountains.png",
-      "original": "/api/wallpaper/landscape/mountains.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/mountains.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/mountains.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/mountains.png"
     },
     "tags": [
       "mountains",
@@ -21264,9 +21264,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-adf7b663fedc.webp",
-      "preview": "/api/wallpaper/landscape/nature.jpg",
-      "original": "/api/wallpaper/landscape/nature.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/nature.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/nature.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/nature.jpg"
     },
     "tags": [
       "river",
@@ -21314,9 +21314,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e6ee020e3fb8.webp",
-      "preview": "/api/wallpaper/landscape/odysee.jpg",
-      "original": "/api/wallpaper/landscape/odysee.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/odysee.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/odysee.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/odysee.jpg"
     },
     "tags": [
       "monochrome",
@@ -21363,9 +21363,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ae4401af6a29.webp",
-      "preview": "/api/wallpaper/landscape/oled-mountains.jpg",
-      "original": "/api/wallpaper/landscape/oled-mountains.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/oled-mountains.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/oled-mountains.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/oled-mountains.jpg"
     },
     "tags": [
       "mountains",
@@ -21412,9 +21412,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a1243a24ed3b.webp",
-      "preview": "/api/wallpaper/landscape/plane_sunset.png",
-      "original": "/api/wallpaper/landscape/plane_sunset.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/plane_sunset.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/plane_sunset.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/plane_sunset.png"
     },
     "tags": [
       "sunset",
@@ -21462,9 +21462,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3826adc92b4a.webp",
-      "preview": "/api/wallpaper/landscape/purple-mountain.png",
-      "original": "/api/wallpaper/landscape/purple-mountain.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/purple-mountain.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/purple-mountain.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/purple-mountain.png"
     },
     "tags": [
       "purple",
@@ -21511,9 +21511,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0f0199353e9e.webp",
-      "preview": "/api/wallpaper/landscape/purple_plane_landscape.png",
-      "original": "/api/wallpaper/landscape/purple_plane_landscape.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/purple_plane_landscape.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/purple_plane_landscape.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/purple_plane_landscape.png"
     },
     "tags": [
       "nature",
@@ -21559,9 +21559,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ba586f6dc6d1.webp",
-      "preview": "/api/wallpaper/landscape/red-forest.jpg",
-      "original": "/api/wallpaper/landscape/red-forest.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/red-forest.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/red-forest.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/red-forest.jpg"
     },
     "tags": [
       "red",
@@ -21608,9 +21608,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-078bca11e134.webp",
-      "preview": "/api/wallpaper/landscape/river.png",
-      "original": "/api/wallpaper/landscape/river.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/river.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/river.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/river.png"
     },
     "tags": [
       "river",
@@ -21705,9 +21705,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-eecdd2072c0a.webp",
-      "preview": "/api/wallpaper/landscape/sunset-xfksfuywx.png",
-      "original": "/api/wallpaper/landscape/sunset-xfksfuywx.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/sunset-xfksfuywx.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/sunset-xfksfuywx.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/sunset-xfksfuywx.png"
     },
     "tags": [
       "sunset",
@@ -21754,9 +21754,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cb518c15eb6a.webp",
-      "preview": "/api/wallpaper/landscape/trad-waves.webp",
-      "original": "/api/wallpaper/landscape/trad-waves.webp"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/trad-waves.webp?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/trad-waves.webp?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/trad-waves.webp"
     },
     "tags": [
       "nature",
@@ -21802,9 +21802,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bf11546cb455.webp",
-      "preview": "/api/wallpaper/landscape/train_and_lake.png",
-      "original": "/api/wallpaper/landscape/train_and_lake.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/train_and_lake.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/train_and_lake.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/train_and_lake.png"
     },
     "tags": [
       "train",
@@ -21852,9 +21852,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c97037996028.webp",
-      "preview": "/api/wallpaper/landscape/tree-nature-castleinsky.png",
-      "original": "/api/wallpaper/landscape/tree-nature-castleinsky.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/tree-nature-castleinsky.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/tree-nature-castleinsky.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/tree-nature-castleinsky.png"
     },
     "tags": [
       "tree",
@@ -21901,9 +21901,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-72a191023dfb.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-3zzjl3.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-3zzjl3.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-3zzjl3.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-3zzjl3.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-3zzjl3.jpg"
     },
     "tags": [
       "nature",
@@ -21949,9 +21949,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a0f63a9178e3.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-4gxwl0.png",
-      "original": "/api/wallpaper/landscape/wallhaven-4gxwl0.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-4gxwl0.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-4gxwl0.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-4gxwl0.png"
     },
     "tags": [
       "nature",
@@ -21997,9 +21997,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ad08b1fcffb1.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-6dkjxx.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-6dkjxx.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-6dkjxx.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-6dkjxx.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-6dkjxx.jpg"
     },
     "tags": [
       "nature",
@@ -22045,9 +22045,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7b0a4cd85009.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-729873.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-729873.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-729873.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-729873.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-729873.jpg"
     },
     "tags": [
       "nature",
@@ -22093,9 +22093,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c4c194c58a41.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-76d5xv.png",
-      "original": "/api/wallpaper/landscape/wallhaven-76d5xv.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-76d5xv.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-76d5xv.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-76d5xv.png"
     },
     "tags": [
       "forest",
@@ -22142,9 +22142,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e4e9d8efa679.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-7jpjzv.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-7jpjzv.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-7jpjzv.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-7jpjzv.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-7jpjzv.jpg"
     },
     "tags": [
       "nature",
@@ -22190,9 +22190,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-edb569a11918.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-7pje5o.png",
-      "original": "/api/wallpaper/landscape/wallhaven-7pje5o.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-7pje5o.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-7pje5o.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-7pje5o.png"
     },
     "tags": [
       "nature",
@@ -22238,9 +22238,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-133dcc11cd9c.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-8g57g1.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-8g57g1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-8g57g1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-8g57g1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-8g57g1.jpg"
     },
     "tags": [
       "nature",
@@ -22286,9 +22286,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-43b9efeddb82.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-8oeyxy.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-8oeyxy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-8oeyxy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-8oeyxy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-8oeyxy.jpg"
     },
     "tags": [
       "nature",
@@ -22334,9 +22334,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8d5010e661bc.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-963988.png",
-      "original": "/api/wallpaper/landscape/wallhaven-963988.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-963988.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-963988.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-963988.png"
     },
     "tags": [
       "nature",
@@ -22382,9 +22382,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-653cc78b4a7c.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-9doexd.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-9doexd.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-9doexd.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-9doexd.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-9doexd.jpg"
     },
     "tags": [
       "nature",
@@ -22430,9 +22430,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4e4880e98b0e.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-d61y3l.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-d61y3l.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d61y3l.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d61y3l.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d61y3l.jpg"
     },
     "tags": [
       "nature",
@@ -22478,9 +22478,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f502162688ac.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-d6o6xj.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-d6o6xj.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d6o6xj.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d6o6xj.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d6o6xj.jpg"
     },
     "tags": [
       "nature",
@@ -22526,9 +22526,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-09a097c4d5e9.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-d6y12l.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-d6y12l.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d6y12l.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d6y12l.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d6y12l.jpg"
     },
     "tags": [
       "nature",
@@ -22574,9 +22574,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9516baa4849c.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-d8pjjm.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-d8pjjm.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d8pjjm.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d8pjjm.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-d8pjjm.jpg"
     },
     "tags": [
       "desert",
@@ -22622,9 +22622,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4ac146d001cf.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-dp37gg.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-dp37gg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-dp37gg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-dp37gg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-dp37gg.jpg"
     },
     "tags": [
       "nature",
@@ -22670,9 +22670,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9c1a6228a55f.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-exdx5l.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-exdx5l.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-exdx5l.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-exdx5l.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-exdx5l.jpg"
     },
     "tags": [
       "nature",
@@ -22718,9 +22718,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5b33b495d07d.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-j3emxy.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-j3emxy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-j3emxy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-j3emxy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-j3emxy.jpg"
     },
     "tags": [
       "nature",
@@ -22766,9 +22766,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4eb34686714f.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-j5z6v5.png",
-      "original": "/api/wallpaper/landscape/wallhaven-j5z6v5.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-j5z6v5.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-j5z6v5.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-j5z6v5.png"
     },
     "tags": [
       "nature",
@@ -22814,9 +22814,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-499344f3150d.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-kxyge1.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-kxyge1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-kxyge1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-kxyge1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-kxyge1.jpg"
     },
     "tags": [
       "nature",
@@ -22862,9 +22862,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2859f780d516.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-l8r85q.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-l8r85q.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-l8r85q.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-l8r85q.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-l8r85q.jpg"
     },
     "tags": [
       "nature",
@@ -22910,9 +22910,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2a2ec31a8184.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-lm15jy.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-lm15jy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-lm15jy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-lm15jy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-lm15jy.jpg"
     },
     "tags": [
       "nature",
@@ -22958,9 +22958,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-04975af77d28.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-nmge21.png",
-      "original": "/api/wallpaper/landscape/wallhaven-nmge21.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-nmge21.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-nmge21.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-nmge21.png"
     },
     "tags": [
       "nature",
@@ -23006,9 +23006,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-71787f025908.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-o323wp.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-o323wp.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-o323wp.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-o323wp.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-o323wp.jpg"
     },
     "tags": [
       "nature",
@@ -23054,9 +23054,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-171c984c214b.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-o5omyl.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-o5omyl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-o5omyl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-o5omyl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-o5omyl.jpg"
     },
     "tags": [
       "nature",
@@ -23102,9 +23102,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8bd7b05f68a3.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-og9wlm.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-og9wlm.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-og9wlm.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-og9wlm.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-og9wlm.jpg"
     },
     "tags": [
       "nature",
@@ -23150,9 +23150,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9c3a93bafe6f.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-rrljjq.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-rrljjq.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-rrljjq.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-rrljjq.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-rrljjq.jpg"
     },
     "tags": [
       "nature",
@@ -23198,9 +23198,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-50c35324c346.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-vqy7rl.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-vqy7rl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-vqy7rl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-vqy7rl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-vqy7rl.jpg"
     },
     "tags": [
       "nature",
@@ -23246,9 +23246,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4a98d5e5a96e.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-we1re6.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-we1re6.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-we1re6.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-we1re6.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-we1re6.jpg"
     },
     "tags": [
       "nature",
@@ -23294,9 +23294,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b77cc3cedeca.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-wewog7.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-wewog7.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-wewog7.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-wewog7.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-wewog7.jpg"
     },
     "tags": [
       "nature",
@@ -23342,9 +23342,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f6ff410595e5.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-wq17yq.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-wq17yq.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-wq17yq.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-wq17yq.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-wq17yq.jpg"
     },
     "tags": [
       "nature",
@@ -23390,9 +23390,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e9a94bea27c5.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-x8evzo.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-x8evzo.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-x8evzo.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-x8evzo.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-x8evzo.jpg"
     },
     "tags": [
       "nature",
@@ -23438,9 +23438,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-692e2a74e8ac.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-x8zqlo.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-x8zqlo.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-x8zqlo.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-x8zqlo.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-x8zqlo.jpg"
     },
     "tags": [
       "nature",
@@ -23486,9 +23486,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5d1beb744fc1.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-xe65ko.png",
-      "original": "/api/wallpaper/landscape/wallhaven-xe65ko.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-xe65ko.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-xe65ko.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-xe65ko.png"
     },
     "tags": [
       "nature",
@@ -23534,9 +23534,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2eef4e9f98b5.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-ymp23d.png",
-      "original": "/api/wallpaper/landscape/wallhaven-ymp23d.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-ymp23d.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-ymp23d.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-ymp23d.png"
     },
     "tags": [
       "nature",
@@ -23582,9 +23582,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6827c6397882.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-yq7x3x.png",
-      "original": "/api/wallpaper/landscape/wallhaven-yq7x3x.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yq7x3x.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yq7x3x.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yq7x3x.png"
     },
     "tags": [
       "nature",
@@ -23630,9 +23630,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-96a54d4f19cd.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-yx5wyg.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-yx5wyg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yx5wyg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yx5wyg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yx5wyg.jpg"
     },
     "tags": [
       "nature",
@@ -23678,9 +23678,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-897ce6dd62db.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-yxyy9x.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-yxyy9x.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yxyy9x.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yxyy9x.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-yxyy9x.jpg"
     },
     "tags": [
       "nature",
@@ -23726,9 +23726,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fd4ed14ecda5.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-zyqvpo.jpg",
-      "original": "/api/wallpaper/landscape/wallhaven-zyqvpo.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-zyqvpo.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-zyqvpo.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-zyqvpo.jpg"
     },
     "tags": [
       "nature",
@@ -23774,9 +23774,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-71689c1487b2.webp",
-      "preview": "/api/wallpaper/landscape/wallhaven-zyqx1v.png",
-      "original": "/api/wallpaper/landscape/wallhaven-zyqx1v.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-zyqx1v.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-zyqx1v.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wallhaven-zyqx1v.png"
     },
     "tags": [
       "nature",
@@ -23822,9 +23822,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-46a92286a67f.webp",
-      "preview": "/api/wallpaper/landscape/waves_dracula_flipped.png",
-      "original": "/api/wallpaper/landscape/waves_dracula_flipped.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/waves_dracula_flipped.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/waves_dracula_flipped.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/waves_dracula_flipped.png"
     },
     "tags": [
       "wave",
@@ -23872,9 +23872,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0434bbf908dc.webp",
-      "preview": "/api/wallpaper/landscape/wavy_dark.png",
-      "original": "/api/wallpaper/landscape/wavy_dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wavy_dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wavy_dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wavy_dark.png"
     },
     "tags": [
       "waves",
@@ -23921,9 +23921,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4b07bf779136.webp",
-      "preview": "/api/wallpaper/landscape/wide_shiny_waves.png",
-      "original": "/api/wallpaper/landscape/wide_shiny_waves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wide_shiny_waves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wide_shiny_waves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/wide_shiny_waves.png"
     },
     "tags": [
       "waves",
@@ -23970,9 +23970,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2f516b18cd10.webp",
-      "preview": "/api/wallpaper/landscape/windmill.jpg",
-      "original": "/api/wallpaper/landscape/windmill.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/windmill.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/windmill.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/landscape/windmill.jpg"
     },
     "tags": [
       "epic",
@@ -24021,9 +24021,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7fbfa1036737.webp",
-      "preview": "/api/wallpaper/live/chill.gif",
-      "original": "/api/wallpaper/live/chill.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/chill.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/chill.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/chill.gif"
     },
     "tags": [
       "monochrome",
@@ -24070,9 +24070,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-98e1f26df607.webp",
-      "preview": "/api/wallpaper/live/kirokaze_live.gif",
-      "original": "/api/wallpaper/live/kirokaze_live.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/kirokaze_live.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/kirokaze_live.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/kirokaze_live.gif"
     },
     "tags": [
       "retro",
@@ -24119,9 +24119,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7a9e65934114.webp",
-      "preview": "/api/wallpaper/live/nord_car_live.gif",
-      "original": "/api/wallpaper/live/nord_car_live.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/nord_car_live.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/nord_car_live.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/nord_car_live.gif"
     },
     "tags": [
       "monochrome",
@@ -24168,9 +24168,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dc26a5a77378.webp",
-      "preview": "/api/wallpaper/live/retro2_live.gif",
-      "original": "/api/wallpaper/live/retro2_live.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro2_live.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro2_live.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro2_live.gif"
     },
     "tags": [
       "mario",
@@ -24218,9 +24218,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d90296657278.webp",
-      "preview": "/api/wallpaper/live/retro_city.gif",
-      "original": "/api/wallpaper/live/retro_city.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro_city.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro_city.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro_city.gif"
     },
     "tags": [
       "retro",
@@ -24267,9 +24267,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d69b6b202348.webp",
-      "preview": "/api/wallpaper/live/retro_live.gif",
-      "original": "/api/wallpaper/live/retro_live.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro_live.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro_live.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/retro_live.gif"
     },
     "tags": [
       "road",
@@ -24316,9 +24316,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9db5180560d1.webp",
-      "preview": "/api/wallpaper/live/ruins_live.gif",
-      "original": "/api/wallpaper/live/ruins_live.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/ruins_live.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/ruins_live.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/ruins_live.gif"
     },
     "tags": [
       "light",
@@ -24366,9 +24366,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3169aa940665.webp",
-      "preview": "/api/wallpaper/live/sunset_live.gif",
-      "original": "/api/wallpaper/live/sunset_live.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/sunset_live.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/sunset_live.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/sunset_live.gif"
     },
     "tags": [
       "beach",
@@ -24416,9 +24416,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-19b53d128be3.webp",
-      "preview": "/api/wallpaper/live/waterfall.gif",
-      "original": "/api/wallpaper/live/waterfall.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/waterfall.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/waterfall.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/waterfall.gif"
     },
     "tags": [
       "monochrome",
@@ -24465,9 +24465,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "Live GIF",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8b7022836126.webp",
-      "preview": "/api/wallpaper/live/waves_live.gif",
-      "original": "/api/wallpaper/live/waves_live.gif"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/live/waves_live.gif?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/live/waves_live.gif?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/live/waves_live.gif"
     },
     "tags": [
       "red",
@@ -24516,9 +24516,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-39ec4177f0f1.webp",
-      "preview": "/api/wallpaper/minimal/abstract.jpg",
-      "original": "/api/wallpaper/minimal/abstract.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/abstract.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/abstract.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/abstract.jpg"
     },
     "tags": [
       "minimal",
@@ -24565,9 +24565,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b2be7c3fc6a3.webp",
-      "preview": "/api/wallpaper/minimal/alfa.png",
-      "original": "/api/wallpaper/minimal/alfa.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/alfa.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/alfa.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/alfa.png"
     },
     "tags": [
       "minimal",
@@ -24613,9 +24613,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-310fe68f0200.webp",
-      "preview": "/api/wallpaper/minimal/arch-peace.png",
-      "original": "/api/wallpaper/minimal/arch-peace.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/arch-peace.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/arch-peace.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/arch-peace.png"
     },
     "tags": [
       "minimal",
@@ -24661,9 +24661,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1f8424cff898.webp",
-      "preview": "/api/wallpaper/minimal/arch_purple.png",
-      "original": "/api/wallpaper/minimal/arch_purple.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/arch_purple.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/arch_purple.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/arch_purple.png"
     },
     "tags": [
       "minimal",
@@ -24709,9 +24709,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-95467524f6f9.webp",
-      "preview": "/api/wallpaper/minimal/cat.jpg",
-      "original": "/api/wallpaper/minimal/cat.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/cat.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/cat.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/cat.jpg"
     },
     "tags": [
       "minimal",
@@ -24756,9 +24756,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c98430a62eb6.webp",
-      "preview": "/api/wallpaper/minimal/catppuccin-rainbow-arch.png",
-      "original": "/api/wallpaper/minimal/catppuccin-rainbow-arch.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/catppuccin-rainbow-arch.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/catppuccin-rainbow-arch.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/catppuccin-rainbow-arch.png"
     },
     "tags": [
       "minimal",
@@ -24804,9 +24804,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b0802a7cff98.webp",
-      "preview": "/api/wallpaper/minimal/classic-arch.png",
-      "original": "/api/wallpaper/minimal/classic-arch.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/classic-arch.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/classic-arch.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/classic-arch.png"
     },
     "tags": [
       "minimal",
@@ -24852,9 +24852,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bc06f26bc9dd.webp",
-      "preview": "/api/wallpaper/minimal/glasses.png",
-      "original": "/api/wallpaper/minimal/glasses.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/glasses.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/glasses.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/glasses.png"
     },
     "tags": [
       "minimal",
@@ -24900,9 +24900,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e4b763259e45.webp",
-      "preview": "/api/wallpaper/minimal/gradient-pb.png",
-      "original": "/api/wallpaper/minimal/gradient-pb.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/gradient-pb.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/gradient-pb.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/gradient-pb.png"
     },
     "tags": [
       "minimal",
@@ -24947,9 +24947,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a16bde8bffd3.webp",
-      "preview": "/api/wallpaper/minimal/linux-penguin.jpg",
-      "original": "/api/wallpaper/minimal/linux-penguin.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/linux-penguin.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/linux-penguin.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/linux-penguin.jpg"
     },
     "tags": [
       "minimal",
@@ -24993,9 +24993,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8e8c0cee250e.webp",
-      "preview": "/api/wallpaper/minimal/minimal-triangles.jpg",
-      "original": "/api/wallpaper/minimal/minimal-triangles.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal-triangles.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal-triangles.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal-triangles.jpg"
     },
     "tags": [
       "minimal",
@@ -25039,9 +25039,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-109f469105c7.webp",
-      "preview": "/api/wallpaper/minimal/minimal_c.png",
-      "original": "/api/wallpaper/minimal/minimal_c.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_c.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_c.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_c.png"
     },
     "tags": [
       "minimal",
@@ -25085,9 +25085,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-892e07f07747.webp",
-      "preview": "/api/wallpaper/minimal/minimal_gradient.png",
-      "original": "/api/wallpaper/minimal/minimal_gradient.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_gradient.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_gradient.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_gradient.png"
     },
     "tags": [
       "minimal",
@@ -25133,9 +25133,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3dce4b221872.webp",
-      "preview": "/api/wallpaper/minimal/minimal_python.png",
-      "original": "/api/wallpaper/minimal/minimal_python.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_python.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_python.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/minimal_python.png"
     },
     "tags": [
       "minimal",
@@ -25179,9 +25179,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a8bb5ceaef94.webp",
-      "preview": "/api/wallpaper/minimal/mobile-gradient.png",
-      "original": "/api/wallpaper/minimal/mobile-gradient.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/mobile-gradient.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/mobile-gradient.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/mobile-gradient.png"
     },
     "tags": [
       "minimal",
@@ -25226,9 +25226,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-59aebae4232c.webp",
-      "preview": "/api/wallpaper/minimal/nasa1.png",
-      "original": "/api/wallpaper/minimal/nasa1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/nasa1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/nasa1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/nasa1.png"
     },
     "tags": [
       "minimal",
@@ -25273,9 +25273,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9e0c90dc594f.webp",
-      "preview": "/api/wallpaper/minimal/routine.jpg",
-      "original": "/api/wallpaper/minimal/routine.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/routine.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/routine.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/routine.jpg"
     },
     "tags": [
       "dev",
@@ -25322,9 +25322,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-80c419619307.webp",
-      "preview": "/api/wallpaper/minimal/shape-abstract.jpg",
-      "original": "/api/wallpaper/minimal/shape-abstract.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/shape-abstract.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/shape-abstract.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/shape-abstract.jpg"
     },
     "tags": [
       "minimal",
@@ -25370,9 +25370,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3997c21313ad.webp",
-      "preview": "/api/wallpaper/minimal/various-arch-1-4k.png",
-      "original": "/api/wallpaper/minimal/various-arch-1-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/various-arch-1-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/various-arch-1-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/various-arch-1-4k.png"
     },
     "tags": [
       "minimal",
@@ -25416,9 +25416,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-aa8317b1cdc0.webp",
-      "preview": "/api/wallpaper/minimal/various-arch-2-4k.png",
-      "original": "/api/wallpaper/minimal/various-arch-2-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/various-arch-2-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/various-arch-2-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/various-arch-2-4k.png"
     },
     "tags": [
       "minimal",
@@ -25462,9 +25462,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-87de6bac2992.webp",
-      "preview": "/api/wallpaper/minimal/wallhaven-z8pdqo.jpg",
-      "original": "/api/wallpaper/minimal/wallhaven-z8pdqo.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/wallhaven-z8pdqo.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/wallhaven-z8pdqo.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/wallhaven-z8pdqo.jpg"
     },
     "tags": [
       "minimal",
@@ -25510,8 +25510,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-b694c2f6666d.webp",
-      "preview": "/api/wallpaper/minimal/wano_vector.png",
-      "original": "/api/wallpaper/minimal/wano_vector.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/wano_vector.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/minimal/wano_vector.png"
     },
     "tags": [
       "minimal",
@@ -25556,9 +25556,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9948a3465515.webp",
-      "preview": "/api/wallpaper/misc/00010.png",
-      "original": "/api/wallpaper/misc/00010.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00010.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00010.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00010.png"
     },
     "tags": [
       "minimal",
@@ -25604,8 +25604,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-84156b57f169.webp",
-      "preview": "/api/wallpaper/misc/00049.jpg",
-      "original": "/api/wallpaper/misc/00049.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00049.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00049.jpg"
     },
     "tags": [
       "minimal",
@@ -25651,8 +25651,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-716bd3903b29.webp",
-      "preview": "/api/wallpaper/misc/00053.jpg",
-      "original": "/api/wallpaper/misc/00053.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00053.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00053.jpg"
     },
     "tags": [
       "minimal",
@@ -25698,8 +25698,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-a150e595f882.webp",
-      "preview": "/api/wallpaper/misc/00054.jpg",
-      "original": "/api/wallpaper/misc/00054.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00054.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00054.jpg"
     },
     "tags": [
       "minimal",
@@ -25745,8 +25745,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-b142b7140776.webp",
-      "preview": "/api/wallpaper/misc/00068.jpg",
-      "original": "/api/wallpaper/misc/00068.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00068.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00068.jpg"
     },
     "tags": [
       "minimal",
@@ -25791,9 +25791,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9d19f4103080.webp",
-      "preview": "/api/wallpaper/misc/00069.jpg",
-      "original": "/api/wallpaper/misc/00069.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00069.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00069.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00069.jpg"
     },
     "tags": [
       "minimal",
@@ -25839,8 +25839,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-621a6ef92bf3.webp",
-      "preview": "/api/wallpaper/misc/00070.jpg",
-      "original": "/api/wallpaper/misc/00070.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00070.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00070.jpg"
     },
     "tags": [
       "minimal",
@@ -25885,9 +25885,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-08fef4a0bd1d.webp",
-      "preview": "/api/wallpaper/misc/00072.jpg",
-      "original": "/api/wallpaper/misc/00072.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00072.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00072.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00072.jpg"
     },
     "tags": [
       "minimal",
@@ -25932,9 +25932,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1228689e5090.webp",
-      "preview": "/api/wallpaper/misc/00074.jpg",
-      "original": "/api/wallpaper/misc/00074.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00074.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00074.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00074.jpg"
     },
     "tags": [
       "minimal",
@@ -25979,9 +25979,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ec3253de19cb.webp",
-      "preview": "/api/wallpaper/misc/00083.jpg",
-      "original": "/api/wallpaper/misc/00083.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00083.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00083.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00083.jpg"
     },
     "tags": [
       "minimal",
@@ -26026,9 +26026,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8a43732705ed.webp",
-      "preview": "/api/wallpaper/misc/001-kita.png",
-      "original": "/api/wallpaper/misc/001-kita.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/001-kita.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/001-kita.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/001-kita.png"
     },
     "tags": [
       "minimal",
@@ -26074,8 +26074,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-c3bacada85f6.webp",
-      "preview": "/api/wallpaper/misc/00105.jpg",
-      "original": "/api/wallpaper/misc/00105.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00105.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00105.jpg"
     },
     "tags": [
       "minimal",
@@ -26121,8 +26121,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-0501207e59ab.webp",
-      "preview": "/api/wallpaper/misc/00142.jpg",
-      "original": "/api/wallpaper/misc/00142.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00142.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00142.jpg"
     },
     "tags": [
       "minimal",
@@ -26168,8 +26168,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-8f3245278edc.webp",
-      "preview": "/api/wallpaper/misc/00147.jpg",
-      "original": "/api/wallpaper/misc/00147.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00147.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00147.jpg"
     },
     "tags": [
       "minimal",
@@ -26215,8 +26215,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-f302c44cf5df.webp",
-      "preview": "/api/wallpaper/misc/00158.jpg",
-      "original": "/api/wallpaper/misc/00158.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00158.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/00158.jpg"
     },
     "tags": [
       "minimal",
@@ -26261,9 +26261,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-60e7f986a59e.webp",
-      "preview": "/api/wallpaper/misc/008-circuit.png",
-      "original": "/api/wallpaper/misc/008-circuit.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/008-circuit.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/008-circuit.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/008-circuit.png"
     },
     "tags": [
       "minimal",
@@ -26308,9 +26308,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-216bbcfb4ecb.webp",
-      "preview": "/api/wallpaper/misc/008-red-sunset.png",
-      "original": "/api/wallpaper/misc/008-red-sunset.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/008-red-sunset.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/008-red-sunset.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/008-red-sunset.png"
     },
     "tags": [
       "sky",
@@ -26356,9 +26356,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-143465b11a56.webp",
-      "preview": "/api/wallpaper/misc/009-kiruko-maru-rough.png",
-      "original": "/api/wallpaper/misc/009-kiruko-maru-rough.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/009-kiruko-maru-rough.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/009-kiruko-maru-rough.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/009-kiruko-maru-rough.png"
     },
     "tags": [
       "minimal",
@@ -26403,9 +26403,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b236c3b6d9fd.webp",
-      "preview": "/api/wallpaper/misc/01. Rosé Pine.jpg",
-      "original": "/api/wallpaper/misc/01. Rosé Pine.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/01.%20Ros%C3%A9%20Pine.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/01.%20Ros%C3%A9%20Pine.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/01.%20Ros%C3%A9%20Pine.jpg"
     },
     "tags": [
       "minimal",
@@ -26450,9 +26450,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-62eec4e8d4a8.webp",
-      "preview": "/api/wallpaper/misc/02. Rosé Pine.png",
-      "original": "/api/wallpaper/misc/02. Rosé Pine.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/02.%20Ros%C3%A9%20Pine.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/02.%20Ros%C3%A9%20Pine.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/02.%20Ros%C3%A9%20Pine.png"
     },
     "tags": [
       "minimal",
@@ -26497,9 +26497,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-aaa5e7057efd.webp",
-      "preview": "/api/wallpaper/misc/030-leaves.png",
-      "original": "/api/wallpaper/misc/030-leaves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/030-leaves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/030-leaves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/030-leaves.png"
     },
     "tags": [
       "minimal",
@@ -26544,9 +26544,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fef52d31e6c9.webp",
-      "preview": "/api/wallpaper/misc/04. Scarlet Night.jpg",
-      "original": "/api/wallpaper/misc/04. Scarlet Night.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/04.%20Scarlet%20Night.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/04.%20Scarlet%20Night.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/04.%20Scarlet%20Night.jpg"
     },
     "tags": [
       "sky",
@@ -26592,9 +26592,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-309a3d1d3845.webp",
-      "preview": "/api/wallpaper/misc/050-camille-unknown.png",
-      "original": "/api/wallpaper/misc/050-camille-unknown.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/050-camille-unknown.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/050-camille-unknown.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/050-camille-unknown.png"
     },
     "tags": [
       "minimal",
@@ -26639,9 +26639,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b2b51de492b6.webp",
-      "preview": "/api/wallpaper/misc/07. Sci-fi.jpg",
-      "original": "/api/wallpaper/misc/07. Sci-fi.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/07.%20Sci-fi.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/07.%20Sci-fi.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/07.%20Sci-fi.jpg"
     },
     "tags": [
       "minimal",
@@ -26686,9 +26686,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-616e2459ec18.webp",
-      "preview": "/api/wallpaper/misc/08. Scarlet Night.png",
-      "original": "/api/wallpaper/misc/08. Scarlet Night.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/08.%20Scarlet%20Night.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/08.%20Scarlet%20Night.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/08.%20Scarlet%20Night.png"
     },
     "tags": [
       "sky",
@@ -26734,9 +26734,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9dc47a68003b.webp",
-      "preview": "/api/wallpaper/misc/1.jpg",
-      "original": "/api/wallpaper/misc/1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1.jpg"
     },
     "tags": [
       "minimal",
@@ -26781,9 +26781,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-402155699968.webp",
-      "preview": "/api/wallpaper/misc/10. Scarlet Night.jpg",
-      "original": "/api/wallpaper/misc/10. Scarlet Night.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/10.%20Scarlet%20Night.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/10.%20Scarlet%20Night.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/10.%20Scarlet%20Night.jpg"
     },
     "tags": [
       "sky",
@@ -26829,9 +26829,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1c00dc652556.webp",
-      "preview": "/api/wallpaper/misc/101818554_p0_master1200.jpg",
-      "original": "/api/wallpaper/misc/101818554_p0_master1200.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/101818554_p0_master1200.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/101818554_p0_master1200.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/101818554_p0_master1200.jpg"
     },
     "tags": [
       "minimal",
@@ -26876,9 +26876,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-208940d3c4b5.webp",
-      "preview": "/api/wallpaper/misc/1390766.png",
-      "original": "/api/wallpaper/misc/1390766.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1390766.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1390766.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1390766.png"
     },
     "tags": [
       "minimal",
@@ -26923,9 +26923,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-89395751a758.webp",
-      "preview": "/api/wallpaper/misc/1400988.png",
-      "original": "/api/wallpaper/misc/1400988.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1400988.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1400988.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1400988.png"
     },
     "tags": [
       "minimal",
@@ -26970,9 +26970,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-920c08a3aa0e.webp",
-      "preview": "/api/wallpaper/misc/15. Paranoid Sweet.jpg",
-      "original": "/api/wallpaper/misc/15. Paranoid Sweet.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/15.%20Paranoid%20Sweet.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/15.%20Paranoid%20Sweet.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/15.%20Paranoid%20Sweet.jpg"
     },
     "tags": [
       "minimal",
@@ -27017,9 +27017,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8432fcdf4330.webp",
-      "preview": "/api/wallpaper/misc/16. Rosé Pine.png",
-      "original": "/api/wallpaper/misc/16. Rosé Pine.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/16.%20Ros%C3%A9%20Pine.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/16.%20Ros%C3%A9%20Pine.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/16.%20Ros%C3%A9%20Pine.png"
     },
     "tags": [
       "minimal",
@@ -27064,9 +27064,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-106915091514.webp",
-      "preview": "/api/wallpaper/misc/1734824244939625.jpg",
-      "original": "/api/wallpaper/misc/1734824244939625.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1734824244939625.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1734824244939625.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/1734824244939625.jpg"
     },
     "tags": [
       "minimal",
@@ -27111,9 +27111,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6b862e5399f7.webp",
-      "preview": "/api/wallpaper/misc/18. Scarlet Night.png",
-      "original": "/api/wallpaper/misc/18. Scarlet Night.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/18.%20Scarlet%20Night.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/18.%20Scarlet%20Night.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/18.%20Scarlet%20Night.png"
     },
     "tags": [
       "sky",
@@ -27159,9 +27159,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b3bbc970c42b.webp",
-      "preview": "/api/wallpaper/misc/18a9a4a054e4d1f8.png",
-      "original": "/api/wallpaper/misc/18a9a4a054e4d1f8.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/18a9a4a054e4d1f8.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/18a9a4a054e4d1f8.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/18a9a4a054e4d1f8.png"
     },
     "tags": [
       "minimal",
@@ -27206,9 +27206,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a5993b34d463.webp",
-      "preview": "/api/wallpaper/misc/20. Rosé Pine.jpg",
-      "original": "/api/wallpaper/misc/20. Rosé Pine.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/20.%20Ros%C3%A9%20Pine.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/20.%20Ros%C3%A9%20Pine.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/20.%20Ros%C3%A9%20Pine.jpg"
     },
     "tags": [
       "minimal",
@@ -27253,9 +27253,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-384f666bafd9.webp",
-      "preview": "/api/wallpaper/misc/21. Rosé Pine.png",
-      "original": "/api/wallpaper/misc/21. Rosé Pine.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/21.%20Ros%C3%A9%20Pine.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/21.%20Ros%C3%A9%20Pine.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/21.%20Ros%C3%A9%20Pine.png"
     },
     "tags": [
       "minimal",
@@ -27300,9 +27300,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e355faaa4274.webp",
-      "preview": "/api/wallpaper/misc/36592_serial_experiments_lain.png",
-      "original": "/api/wallpaper/misc/36592_serial_experiments_lain.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/36592_serial_experiments_lain.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/36592_serial_experiments_lain.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/36592_serial_experiments_lain.png"
     },
     "tags": [
       "minimal",
@@ -27347,9 +27347,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a7ebdf61780b.webp",
-      "preview": "/api/wallpaper/misc/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png",
-      "original": "/api/wallpaper/misc/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png"
     },
     "tags": [
       "minimal",
@@ -27394,9 +27394,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c8b7db1afd76.webp",
-      "preview": "/api/wallpaper/misc/a_cartoon_of_a_house_on_a_cliff.png",
-      "original": "/api/wallpaper/misc/a_cartoon_of_a_house_on_a_cliff.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_house_on_a_cliff.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_house_on_a_cliff.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_house_on_a_cliff.png"
     },
     "tags": [
       "nature",
@@ -27442,9 +27442,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-64a81ae5dd5f.webp",
-      "preview": "/api/wallpaper/misc/a_cartoon_of_a_man_flying_through_the_air.jpg",
-      "original": "/api/wallpaper/misc/a_cartoon_of_a_man_flying_through_the_air.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_man_flying_through_the_air.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_man_flying_through_the_air.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_cartoon_of_a_man_flying_through_the_air.jpg"
     },
     "tags": [
       "minimal",
@@ -27489,9 +27489,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2d70b38e6a88.webp",
-      "preview": "/api/wallpaper/misc/a_pixel_art_of_a_person_walking_by_a_building.jpg",
-      "original": "/api/wallpaper/misc/a_pixel_art_of_a_person_walking_by_a_building.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_pixel_art_of_a_person_walking_by_a_building.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_pixel_art_of_a_person_walking_by_a_building.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/a_pixel_art_of_a_person_walking_by_a_building.jpg"
     },
     "tags": [
       "minimal",
@@ -27536,9 +27536,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e02743e47a85.webp",
-      "preview": "/api/wallpaper/misc/acrylic.jpg",
-      "original": "/api/wallpaper/misc/acrylic.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/acrylic.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/acrylic.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/acrylic.jpg"
     },
     "tags": [
       "minimal",
@@ -27960,9 +27960,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3ed7870f880a.webp",
-      "preview": "/api/wallpaper/misc/anime-girl-red-eyes-monster-4k-wallpaper-uhdpaper.com-6115f.jpg",
-      "original": "/api/wallpaper/misc/anime-girl-red-eyes-monster-4k-wallpaper-uhdpaper.com-6115f.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/anime-girl-red-eyes-monster-4k-wallpaper-uhdpaper.com-6115f.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/anime-girl-red-eyes-monster-4k-wallpaper-uhdpaper.com-6115f.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/anime-girl-red-eyes-monster-4k-wallpaper-uhdpaper.com-6115f.jpg"
     },
     "tags": [
       "minimal",
@@ -28148,9 +28148,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-449e9e21594f.webp",
-      "preview": "/api/wallpaper/misc/Antman.jpg",
-      "original": "/api/wallpaper/misc/Antman.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Antman.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Antman.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Antman.jpg"
     },
     "tags": [
       "minimal",
@@ -28195,9 +28195,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-33c3f2274107.webp",
-      "preview": "/api/wallpaper/misc/apex_octane.jpg",
-      "original": "/api/wallpaper/misc/apex_octane.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/apex_octane.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/apex_octane.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/apex_octane.jpg"
     },
     "tags": [
       "minimal",
@@ -28242,9 +28242,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1406ea1c7ecd.webp",
-      "preview": "/api/wallpaper/misc/apple_gruvbox.jpg",
-      "original": "/api/wallpaper/misc/apple_gruvbox.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/apple_gruvbox.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/apple_gruvbox.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/apple_gruvbox.jpg"
     },
     "tags": [
       "minimal",
@@ -28289,9 +28289,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dac8ab6090e1.webp",
-      "preview": "/api/wallpaper/misc/aurora_v02.png",
-      "original": "/api/wallpaper/misc/aurora_v02.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/aurora_v02.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/aurora_v02.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/aurora_v02.png"
     },
     "tags": [
       "sky",
@@ -28337,9 +28337,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2fba44df7954.webp",
-      "preview": "/api/wallpaper/misc/autumn_leaves.jpg",
-      "original": "/api/wallpaper/misc/autumn_leaves.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/autumn_leaves.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/autumn_leaves.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/autumn_leaves.jpg"
     },
     "tags": [
       "minimal",
@@ -28385,9 +28385,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bb82306f1a1c.webp",
-      "preview": "/api/wallpaper/misc/awesome.png",
-      "original": "/api/wallpaper/misc/awesome.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/awesome.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/awesome.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/awesome.png"
     },
     "tags": [
       "minimal",
@@ -28434,9 +28434,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9586f97f5407.webp",
-      "preview": "/api/wallpaper/misc/b-012.jpg",
-      "original": "/api/wallpaper/misc/b-012.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-012.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-012.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-012.jpg"
     },
     "tags": [
       "minimal",
@@ -28481,9 +28481,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8e03b898577a.webp",
-      "preview": "/api/wallpaper/misc/b-030.jpg",
-      "original": "/api/wallpaper/misc/b-030.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-030.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-030.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-030.jpg"
     },
     "tags": [
       "minimal",
@@ -28528,9 +28528,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cb637868f950.webp",
-      "preview": "/api/wallpaper/misc/b-031.jpg",
-      "original": "/api/wallpaper/misc/b-031.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-031.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-031.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-031.jpg"
     },
     "tags": [
       "minimal",
@@ -28575,9 +28575,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ecfaf3886956.webp",
-      "preview": "/api/wallpaper/misc/b-034.jpg",
-      "original": "/api/wallpaper/misc/b-034.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-034.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-034.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-034.jpg"
     },
     "tags": [
       "minimal",
@@ -28622,9 +28622,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-39bcec313a07.webp",
-      "preview": "/api/wallpaper/misc/b-099.jpg",
-      "original": "/api/wallpaper/misc/b-099.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-099.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-099.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-099.jpg"
     },
     "tags": [
       "minimal",
@@ -28669,9 +28669,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3c77e06c327d.webp",
-      "preview": "/api/wallpaper/misc/b-105.jpg",
-      "original": "/api/wallpaper/misc/b-105.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-105.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-105.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-105.jpg"
     },
     "tags": [
       "minimal",
@@ -28716,9 +28716,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6779ab1e4ef5.webp",
-      "preview": "/api/wallpaper/misc/b-144.jpg",
-      "original": "/api/wallpaper/misc/b-144.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-144.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-144.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-144.jpg"
     },
     "tags": [
       "minimal",
@@ -28763,9 +28763,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-32945ab71eaf.webp",
-      "preview": "/api/wallpaper/misc/b-719.jpg",
-      "original": "/api/wallpaper/misc/b-719.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-719.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-719.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-719.jpg"
     },
     "tags": [
       "minimal",
@@ -28810,9 +28810,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9b535a4ae923.webp",
-      "preview": "/api/wallpaper/misc/b-781.jpg",
-      "original": "/api/wallpaper/misc/b-781.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-781.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-781.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-781.jpg"
     },
     "tags": [
       "minimal",
@@ -28857,9 +28857,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7fb196724136.webp",
-      "preview": "/api/wallpaper/misc/b-908.jpg",
-      "original": "/api/wallpaper/misc/b-908.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-908.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-908.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/b-908.jpg"
     },
     "tags": [
       "minimal",
@@ -28904,9 +28904,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a52f77e71e63.webp",
-      "preview": "/api/wallpaper/misc/beautiful.jpg",
-      "original": "/api/wallpaper/misc/beautiful.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/beautiful.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/beautiful.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/beautiful.jpg"
     },
     "tags": [
       "tree",
@@ -28954,9 +28954,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c26a30b70bf2.webp",
-      "preview": "/api/wallpaper/misc/beige_tree.png",
-      "original": "/api/wallpaper/misc/beige_tree.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/beige_tree.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/beige_tree.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/beige_tree.png"
     },
     "tags": [
       "nature",
@@ -29003,8 +29003,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-5dab6deaae74.webp",
-      "preview": "/api/wallpaper/misc/berserkdrac.png",
-      "original": "/api/wallpaper/misc/berserkdrac.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/berserkdrac.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/berserkdrac.png"
     },
     "tags": [
       "minimal",
@@ -29050,9 +29050,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7e1b81c8397e.webp",
-      "preview": "/api/wallpaper/misc/Bix57su7.png",
-      "original": "/api/wallpaper/misc/Bix57su7.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Bix57su7.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Bix57su7.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Bix57su7.png"
     },
     "tags": [
       "minimal",
@@ -29097,9 +29097,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c316dc2933c2.webp",
-      "preview": "/api/wallpaper/misc/blue-red-4k.png",
-      "original": "/api/wallpaper/misc/blue-red-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/blue-red-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/blue-red-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/blue-red-4k.png"
     },
     "tags": [
       "minimal",
@@ -29146,9 +29146,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f7a87866201f.webp",
-      "preview": "/api/wallpaper/misc/blue_demon.png",
-      "original": "/api/wallpaper/misc/blue_demon.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/blue_demon.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/blue_demon.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/blue_demon.png"
     },
     "tags": [
       "minimal",
@@ -29194,9 +29194,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e11cd50e35ae.webp",
-      "preview": "/api/wallpaper/misc/bunny.png",
-      "original": "/api/wallpaper/misc/bunny.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/bunny.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/bunny.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/bunny.png"
     },
     "tags": [
       "minimal",
@@ -29243,9 +29243,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ec0ab109a0b0.webp",
-      "preview": "/api/wallpaper/misc/california.jpg",
-      "original": "/api/wallpaper/misc/california.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/california.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/california.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/california.jpg"
     },
     "tags": [
       "california",
@@ -29292,9 +29292,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b5d572ed0d1d.webp",
-      "preview": "/api/wallpaper/misc/cat.png",
-      "original": "/api/wallpaper/misc/cat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/cat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/cat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/cat.png"
     },
     "tags": [
       "minimal",
@@ -29339,9 +29339,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3d36c2154fb5.webp",
-      "preview": "/api/wallpaper/misc/catpuccin_samurai.png",
-      "original": "/api/wallpaper/misc/catpuccin_samurai.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/catpuccin_samurai.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/catpuccin_samurai.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/catpuccin_samurai.png"
     },
     "tags": [
       "minimal",
@@ -29388,9 +29388,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c67055c76b0a.webp",
-      "preview": "/api/wallpaper/misc/catpuccin_w.png",
-      "original": "/api/wallpaper/misc/catpuccin_w.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/catpuccin_w.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/catpuccin_w.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/catpuccin_w.png"
     },
     "tags": [
       "minimal",
@@ -29437,9 +29437,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e28378926c46.webp",
-      "preview": "/api/wallpaper/misc/chinese.png",
-      "original": "/api/wallpaper/misc/chinese.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/chinese.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/chinese.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/chinese.png"
     },
     "tags": [
       "minimal",
@@ -29487,9 +29487,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-25be5527e182.webp",
-      "preview": "/api/wallpaper/misc/chiruno_90.jpg",
-      "original": "/api/wallpaper/misc/chiruno_90.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/chiruno_90.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/chiruno_90.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/chiruno_90.jpg"
     },
     "tags": [
       "minimal",
@@ -29534,9 +29534,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c42945bfc005.webp",
-      "preview": "/api/wallpaper/misc/colors.jpg",
-      "original": "/api/wallpaper/misc/colors.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/colors.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/colors.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/colors.jpg"
     },
     "tags": [
       "minimal",
@@ -29581,9 +29581,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4c77caf22b5f.webp",
-      "preview": "/api/wallpaper/misc/Computerized_Art_3440x1440_7.jpg",
-      "original": "/api/wallpaper/misc/Computerized_Art_3440x1440_7.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Computerized_Art_3440x1440_7.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Computerized_Art_3440x1440_7.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Computerized_Art_3440x1440_7.jpg"
     },
     "tags": [
       "minimal",
@@ -29628,9 +29628,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a9c62463bb9d.webp",
-      "preview": "/api/wallpaper/misc/cool_rocks.png",
-      "original": "/api/wallpaper/misc/cool_rocks.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/cool_rocks.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/cool_rocks.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/cool_rocks.png"
     },
     "tags": [
       "rocks",
@@ -29865,9 +29865,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b74a77a1da58.webp",
-      "preview": "/api/wallpaper/misc/deer-red-moon.png",
-      "original": "/api/wallpaper/misc/deer-red-moon.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/deer-red-moon.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/deer-red-moon.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/deer-red-moon.png"
     },
     "tags": [
       "red",
@@ -29917,8 +29917,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-8312ebb4a7e1.webp",
-      "preview": "/api/wallpaper/misc/demon.jpg",
-      "original": "/api/wallpaper/misc/demon.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/demon.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/demon.jpg"
     },
     "tags": [
       "minimal",
@@ -29964,9 +29964,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7ece99beced0.webp",
-      "preview": "/api/wallpaper/misc/dopesmoker_gruvbox.png",
-      "original": "/api/wallpaper/misc/dopesmoker_gruvbox.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/dopesmoker_gruvbox.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/dopesmoker_gruvbox.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/dopesmoker_gruvbox.png"
     },
     "tags": [
       "minimal",
@@ -30012,9 +30012,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e7fbe179831b.webp",
-      "preview": "/api/wallpaper/misc/dragon.jpg",
-      "original": "/api/wallpaper/misc/dragon.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/dragon.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/dragon.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/dragon.jpg"
     },
     "tags": [
       "minimal",
@@ -30059,9 +30059,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fb0f24612bd0.webp",
-      "preview": "/api/wallpaper/misc/egypt.png",
-      "original": "/api/wallpaper/misc/egypt.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/egypt.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/egypt.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/egypt.png"
     },
     "tags": [
       "minimal",
@@ -30106,9 +30106,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-61f9e4113c0e.webp",
-      "preview": "/api/wallpaper/misc/eye.png",
-      "original": "/api/wallpaper/misc/eye.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/eye.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/eye.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/eye.png"
     },
     "tags": [
       "minimal",
@@ -30153,9 +30153,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b5e4d1675454.webp",
-      "preview": "/api/wallpaper/misc/F8jZ7JU.png",
-      "original": "/api/wallpaper/misc/F8jZ7JU.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/F8jZ7JU.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/F8jZ7JU.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/F8jZ7JU.png"
     },
     "tags": [
       "minimal",
@@ -30200,9 +30200,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-269050af38d3.webp",
-      "preview": "/api/wallpaper/misc/falltree.jpg",
-      "original": "/api/wallpaper/misc/falltree.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/falltree.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/falltree.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/falltree.jpg"
     },
     "tags": [
       "nature",
@@ -30248,9 +30248,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-46747d6c532f.webp",
-      "preview": "/api/wallpaper/misc/Fedora1.png",
-      "original": "/api/wallpaper/misc/Fedora1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Fedora1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Fedora1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Fedora1.png"
     },
     "tags": [
       "minimal",
@@ -30295,9 +30295,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9b49a7602a42.webp",
-      "preview": "/api/wallpaper/misc/fedora_snake.png",
-      "original": "/api/wallpaper/misc/fedora_snake.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/fedora_snake.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/fedora_snake.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/fedora_snake.png"
     },
     "tags": [
       "minimal",
@@ -30342,9 +30342,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3e7b4f886a54.webp",
-      "preview": "/api/wallpaper/misc/field.jpeg",
-      "original": "/api/wallpaper/misc/field.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/field.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/field.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/field.jpeg"
     },
     "tags": [
       "minimal",
@@ -30389,9 +30389,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6e4c390d061d.webp",
-      "preview": "/api/wallpaper/misc/flower_tokyo.png",
-      "original": "/api/wallpaper/misc/flower_tokyo.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/flower_tokyo.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/flower_tokyo.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/flower_tokyo.png"
     },
     "tags": [
       "minimal",
@@ -30437,9 +30437,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-22fbd427e451.webp",
-      "preview": "/api/wallpaper/misc/fox.png",
-      "original": "/api/wallpaper/misc/fox.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/fox.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/fox.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/fox.png"
     },
     "tags": [
       "minimal",
@@ -30487,9 +30487,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-14829929c25f.webp",
-      "preview": "/api/wallpaper/misc/futuristicAncientTree.png",
-      "original": "/api/wallpaper/misc/futuristicAncientTree.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/futuristicAncientTree.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/futuristicAncientTree.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/futuristicAncientTree.png"
     },
     "tags": [
       "nature",
@@ -30535,9 +30535,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a171de295787.webp",
-      "preview": "/api/wallpaper/misc/G2KH4ZyaIAQ8L0K.jpg",
-      "original": "/api/wallpaper/misc/G2KH4ZyaIAQ8L0K.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/G2KH4ZyaIAQ8L0K.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/G2KH4ZyaIAQ8L0K.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/G2KH4ZyaIAQ8L0K.jpg"
     },
     "tags": [
       "minimal",
@@ -30582,9 +30582,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f5f3f929b2c0.webp",
-      "preview": "/api/wallpaper/misc/gas-station.jpg",
-      "original": "/api/wallpaper/misc/gas-station.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gas-station.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gas-station.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gas-station.jpg"
     },
     "tags": [
       "minimal",
@@ -30631,9 +30631,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bc010c6dc57a.webp",
-      "preview": "/api/wallpaper/misc/GGbQ2GOaIAAMSDZ.jpg",
-      "original": "/api/wallpaper/misc/GGbQ2GOaIAAMSDZ.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/GGbQ2GOaIAAMSDZ.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/GGbQ2GOaIAAMSDZ.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/GGbQ2GOaIAAMSDZ.jpg"
     },
     "tags": [
       "minimal",
@@ -30679,8 +30679,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-4df0cf241471.webp",
-      "preview": "/api/wallpaper/misc/glass-sphere.jpg",
-      "original": "/api/wallpaper/misc/glass-sphere.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/glass-sphere.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/glass-sphere.jpg"
     },
     "tags": [
       "minimal",
@@ -30725,9 +30725,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b4585fb87882.webp",
-      "preview": "/api/wallpaper/misc/goldfish.jpg",
-      "original": "/api/wallpaper/misc/goldfish.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/goldfish.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/goldfish.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/goldfish.jpg"
     },
     "tags": [
       "minimal",
@@ -30773,9 +30773,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bea4f92ef70a.webp",
-      "preview": "/api/wallpaper/misc/green-sun.jpg",
-      "original": "/api/wallpaper/misc/green-sun.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/green-sun.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/green-sun.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/green-sun.jpg"
     },
     "tags": [
       "minimal",
@@ -30822,9 +30822,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8ffdc3f8aed0.webp",
-      "preview": "/api/wallpaper/misc/Groot.jpg",
-      "original": "/api/wallpaper/misc/Groot.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Groot.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Groot.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Groot.jpg"
     },
     "tags": [
       "minimal",
@@ -30869,9 +30869,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f27994800ca6.webp",
-      "preview": "/api/wallpaper/misc/gruvbox_code.png",
-      "original": "/api/wallpaper/misc/gruvbox_code.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_code.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_code.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_code.png"
     },
     "tags": [
       "minimal",
@@ -30917,9 +30917,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-61ffaada5422.webp",
-      "preview": "/api/wallpaper/misc/gruvbox_room.png",
-      "original": "/api/wallpaper/misc/gruvbox_room.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_room.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_room.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_room.png"
     },
     "tags": [
       "minimal",
@@ -30965,9 +30965,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a5fa48877507.webp",
-      "preview": "/api/wallpaper/misc/gruvbox_witcher.png",
-      "original": "/api/wallpaper/misc/gruvbox_witcher.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_witcher.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_witcher.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/gruvbox_witcher.png"
     },
     "tags": [
       "minimal",
@@ -31014,9 +31014,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a98aed2454c5.webp",
-      "preview": "/api/wallpaper/misc/guitar.png",
-      "original": "/api/wallpaper/misc/guitar.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/guitar.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/guitar.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/guitar.png"
     },
     "tags": [
       "minimal",
@@ -31061,9 +31061,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4dff6805bce7.webp",
-      "preview": "/api/wallpaper/misc/GWCFepSXoAAFdcC.jpg",
-      "original": "/api/wallpaper/misc/GWCFepSXoAAFdcC.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/GWCFepSXoAAFdcC.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/GWCFepSXoAAFdcC.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/GWCFepSXoAAFdcC.jpg"
     },
     "tags": [
       "minimal",
@@ -31108,9 +31108,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-96c75d393bf9.webp",
-      "preview": "/api/wallpaper/misc/haskell.png",
-      "original": "/api/wallpaper/misc/haskell.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/haskell.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/haskell.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/haskell.png"
     },
     "tags": [
       "minimal",
@@ -31155,9 +31155,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-393527a93e97.webp",
-      "preview": "/api/wallpaper/misc/hello-worlds.png",
-      "original": "/api/wallpaper/misc/hello-worlds.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/hello-worlds.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/hello-worlds.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/hello-worlds.png"
     },
     "tags": [
       "hello world",
@@ -31204,9 +31204,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e7f0fdaaa03f.webp",
-      "preview": "/api/wallpaper/misc/hill-house.png",
-      "original": "/api/wallpaper/misc/hill-house.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/hill-house.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/hill-house.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/hill-house.png"
     },
     "tags": [
       "purple",
@@ -31255,9 +31255,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ee9d1524dd8c.webp",
-      "preview": "/api/wallpaper/misc/house-art.webp",
-      "original": "/api/wallpaper/misc/house-art.webp"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/house-art.webp?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/house-art.webp?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/house-art.webp"
     },
     "tags": [
       "minimal",
@@ -31302,9 +31302,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ef0714dc4366.webp",
-      "preview": "/api/wallpaper/misc/ibmbios8x8_intel.png",
-      "original": "/api/wallpaper/misc/ibmbios8x8_intel.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ibmbios8x8_intel.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ibmbios8x8_intel.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ibmbios8x8_intel.png"
     },
     "tags": [
       "minimal",
@@ -31349,9 +31349,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-77674994fa28.webp",
-      "preview": "/api/wallpaper/misc/ign_colorful.png",
-      "original": "/api/wallpaper/misc/ign_colorful.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ign_colorful.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ign_colorful.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ign_colorful.png"
     },
     "tags": [
       "minimal",
@@ -31398,9 +31398,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fcb34af011d6.webp",
-      "preview": "/api/wallpaper/misc/II.png",
-      "original": "/api/wallpaper/misc/II.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/II.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/II.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/II.png"
     },
     "tags": [
       "minimal",
@@ -31445,9 +31445,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e6c307da62f6.webp",
-      "preview": "/api/wallpaper/misc/ink_wave.png",
-      "original": "/api/wallpaper/misc/ink_wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ink_wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ink_wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ink_wave.png"
     },
     "tags": [
       "wave",
@@ -31495,9 +31495,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-075097fec763.webp",
-      "preview": "/api/wallpaper/misc/interstellar_wallpaper.png",
-      "original": "/api/wallpaper/misc/interstellar_wallpaper.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/interstellar_wallpaper.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/interstellar_wallpaper.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/interstellar_wallpaper.png"
     },
     "tags": [
       "minimal",
@@ -31542,9 +31542,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d4fb9dcc5489.webp",
-      "preview": "/api/wallpaper/misc/Jurassic-dino.jpg",
-      "original": "/api/wallpaper/misc/Jurassic-dino.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Jurassic-dino.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Jurassic-dino.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Jurassic-dino.jpg"
     },
     "tags": [
       "minimal",
@@ -31589,9 +31589,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9226948e1fdb.webp",
-      "preview": "/api/wallpaper/misc/knight.png",
-      "original": "/api/wallpaper/misc/knight.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/knight.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/knight.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/knight.png"
     },
     "tags": [
       "misc",
@@ -31639,9 +31639,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a5d914b076dc.webp",
-      "preview": "/api/wallpaper/misc/Kratos-gow-red.jpg",
-      "original": "/api/wallpaper/misc/Kratos-gow-red.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Kratos-gow-red.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Kratos-gow-red.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Kratos-gow-red.jpg"
     },
     "tags": [
       "minimal",
@@ -31686,9 +31686,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-be5a612f8a20.webp",
-      "preview": "/api/wallpaper/misc/lana_silhouette.png",
-      "original": "/api/wallpaper/misc/lana_silhouette.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lana_silhouette.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lana_silhouette.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lana_silhouette.png"
     },
     "tags": [
       "minimal",
@@ -31733,9 +31733,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ff29c67ca364.webp",
-      "preview": "/api/wallpaper/misc/LH2yKVV.png",
-      "original": "/api/wallpaper/misc/LH2yKVV.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/LH2yKVV.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/LH2yKVV.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/LH2yKVV.png"
     },
     "tags": [
       "minimal",
@@ -31780,9 +31780,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d2b765b95c30.webp",
-      "preview": "/api/wallpaper/misc/lofi.jpg",
-      "original": "/api/wallpaper/misc/lofi.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lofi.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lofi.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lofi.jpg"
     },
     "tags": [
       "comic",
@@ -31830,9 +31830,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-481b5440a92d.webp",
-      "preview": "/api/wallpaper/misc/lofi_cat.png",
-      "original": "/api/wallpaper/misc/lofi_cat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lofi_cat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lofi_cat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/lofi_cat.png"
     },
     "tags": [
       "lofi",
@@ -31879,9 +31879,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-36507e8d5ed1.webp",
-      "preview": "/api/wallpaper/misc/Luffy_from_One_Piece_5160x2160.jpeg",
-      "original": "/api/wallpaper/misc/Luffy_from_One_Piece_5160x2160.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Luffy_from_One_Piece_5160x2160.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Luffy_from_One_Piece_5160x2160.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Luffy_from_One_Piece_5160x2160.jpeg"
     },
     "tags": [
       "minimal",
@@ -31927,9 +31927,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ef465bbb655b.webp",
-      "preview": "/api/wallpaper/misc/man-colors.jpg",
-      "original": "/api/wallpaper/misc/man-colors.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/man-colors.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/man-colors.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/man-colors.jpg"
     },
     "tags": [
       "minimal",
@@ -31975,9 +31975,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-64b76df4be28.webp",
-      "preview": "/api/wallpaper/misc/mecha-nostalgia.png",
-      "original": "/api/wallpaper/misc/mecha-nostalgia.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mecha-nostalgia.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mecha-nostalgia.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mecha-nostalgia.png"
     },
     "tags": [
       "minimal",
@@ -32023,9 +32023,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5e8409fd6860.webp",
-      "preview": "/api/wallpaper/misc/minim_blocks.png",
-      "original": "/api/wallpaper/misc/minim_blocks.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/minim_blocks.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/minim_blocks.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/minim_blocks.png"
     },
     "tags": [
       "minimalist",
@@ -32072,9 +32072,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-99dbd37ab53b.webp",
-      "preview": "/api/wallpaper/misc/Mint1.png",
-      "original": "/api/wallpaper/misc/Mint1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Mint1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Mint1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Mint1.png"
     },
     "tags": [
       "minimal",
@@ -32119,9 +32119,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c34289f54361.webp",
-      "preview": "/api/wallpaper/misc/mobile-pacman.jpg",
-      "original": "/api/wallpaper/misc/mobile-pacman.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mobile-pacman.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mobile-pacman.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mobile-pacman.jpg"
     },
     "tags": [
       "minimal",
@@ -32167,9 +32167,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e9404fed2c56.webp",
-      "preview": "/api/wallpaper/misc/mobile-spiral.jpg",
-      "original": "/api/wallpaper/misc/mobile-spiral.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mobile-spiral.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mobile-spiral.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mobile-spiral.jpg"
     },
     "tags": [
       "minimal",
@@ -32214,9 +32214,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2bf3aac707e5.webp",
-      "preview": "/api/wallpaper/misc/mocha_steampunk.jpg",
-      "original": "/api/wallpaper/misc/mocha_steampunk.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mocha_steampunk.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mocha_steampunk.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mocha_steampunk.jpg"
     },
     "tags": [
       "minimal",
@@ -32262,9 +32262,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0295a6e76293.webp",
-      "preview": "/api/wallpaper/misc/mushroom-purple.png",
-      "original": "/api/wallpaper/misc/mushroom-purple.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mushroom-purple.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mushroom-purple.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/mushroom-purple.png"
     },
     "tags": [
       "minimal",
@@ -32311,9 +32311,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8e673d12de42.webp",
-      "preview": "/api/wallpaper/misc/my-neighbor-totoro-sunflowers.png",
-      "original": "/api/wallpaper/misc/my-neighbor-totoro-sunflowers.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/my-neighbor-totoro-sunflowers.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/my-neighbor-totoro-sunflowers.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/my-neighbor-totoro-sunflowers.png"
     },
     "tags": [
       "minimal",
@@ -32359,9 +32359,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-040735f83c8f.webp",
-      "preview": "/api/wallpaper/misc/Nepal_5160x2160.png",
-      "original": "/api/wallpaper/misc/Nepal_5160x2160.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Nepal_5160x2160.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Nepal_5160x2160.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Nepal_5160x2160.png"
     },
     "tags": [
       "minimal",
@@ -32406,9 +32406,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cb2dd04c5e97.webp",
-      "preview": "/api/wallpaper/misc/nixos-declarative.jpg",
-      "original": "/api/wallpaper/misc/nixos-declarative.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/nixos-declarative.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/nixos-declarative.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/nixos-declarative.jpg"
     },
     "tags": [
       "minimal",
@@ -32453,9 +32453,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-959616335f8b.webp",
-      "preview": "/api/wallpaper/misc/ocean_with_cloud.png",
-      "original": "/api/wallpaper/misc/ocean_with_cloud.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ocean_with_cloud.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ocean_with_cloud.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ocean_with_cloud.png"
     },
     "tags": [
       "clouds",
@@ -32502,9 +32502,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bc5935fca6b4.webp",
-      "preview": "/api/wallpaper/misc/one-piece-luffy.jpg",
-      "original": "/api/wallpaper/misc/one-piece-luffy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/one-piece-luffy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/one-piece-luffy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/one-piece-luffy.jpg"
     },
     "tags": [
       "luffy",
@@ -32551,9 +32551,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4cc46081c8c9.webp",
-      "preview": "/api/wallpaper/misc/onepiece.png",
-      "original": "/api/wallpaper/misc/onepiece.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/onepiece.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/onepiece.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/onepiece.png"
     },
     "tags": [
       "minimal",
@@ -32599,9 +32599,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4aea978095d5.webp",
-      "preview": "/api/wallpaper/misc/orange-cube.jpg",
-      "original": "/api/wallpaper/misc/orange-cube.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/orange-cube.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/orange-cube.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/orange-cube.jpg"
     },
     "tags": [
       "minimal",
@@ -32647,9 +32647,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-19ee4a20f65a.webp",
-      "preview": "/api/wallpaper/misc/pastel-window.png",
-      "original": "/api/wallpaper/misc/pastel-window.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pastel-window.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pastel-window.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pastel-window.png"
     },
     "tags": [
       "minimal",
@@ -32696,9 +32696,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e7a876f58298.webp",
-      "preview": "/api/wallpaper/misc/pink-clouds.png",
-      "original": "/api/wallpaper/misc/pink-clouds.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pink-clouds.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pink-clouds.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pink-clouds.png"
     },
     "tags": [
       "pink",
@@ -32746,9 +32746,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-356f9e9cb707.webp",
-      "preview": "/api/wallpaper/misc/pink-katana.png",
-      "original": "/api/wallpaper/misc/pink-katana.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pink-katana.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pink-katana.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pink-katana.png"
     },
     "tags": [
       "minimal",
@@ -32795,9 +32795,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-00e49973d383.webp",
-      "preview": "/api/wallpaper/misc/pixiv_73483903.png",
-      "original": "/api/wallpaper/misc/pixiv_73483903.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pixiv_73483903.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pixiv_73483903.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/pixiv_73483903.png"
     },
     "tags": [
       "minimal",
@@ -32843,9 +32843,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c1aecaed2bb.webp",
-      "preview": "/api/wallpaper/misc/plain-wallpaper.png",
-      "original": "/api/wallpaper/misc/plain-wallpaper.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/plain-wallpaper.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/plain-wallpaper.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/plain-wallpaper.png"
     },
     "tags": [
       "minimal",
@@ -32891,9 +32891,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e8637c39fe30.webp",
-      "preview": "/api/wallpaper/misc/plant.png",
-      "original": "/api/wallpaper/misc/plant.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/plant.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/plant.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/plant.png"
     },
     "tags": [
       "minimal",
@@ -32939,9 +32939,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f2acbcf4bf3e.webp",
-      "preview": "/api/wallpaper/misc/polar_catppuccin.png",
-      "original": "/api/wallpaper/misc/polar_catppuccin.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/polar_catppuccin.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/polar_catppuccin.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/polar_catppuccin.png"
     },
     "tags": [
       "minimal",
@@ -32988,9 +32988,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ccf43a566150.webp",
-      "preview": "/api/wallpaper/misc/purple-bomb.png",
-      "original": "/api/wallpaper/misc/purple-bomb.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/purple-bomb.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/purple-bomb.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/purple-bomb.png"
     },
     "tags": [
       "minimal",
@@ -33036,9 +33036,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-12e48c924e2d.webp",
-      "preview": "/api/wallpaper/misc/purple-crystal.png",
-      "original": "/api/wallpaper/misc/purple-crystal.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/purple-crystal.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/purple-crystal.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/purple-crystal.png"
     },
     "tags": [
       "crystal",
@@ -33085,9 +33085,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-26a59b3057f1.webp",
-      "preview": "/api/wallpaper/misc/python-minim.png",
-      "original": "/api/wallpaper/misc/python-minim.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/python-minim.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/python-minim.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/python-minim.png"
     },
     "tags": [
       "minimal",
@@ -33133,9 +33133,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-da2977934583.webp",
-      "preview": "/api/wallpaper/misc/rbaOz2Xi.png",
-      "original": "/api/wallpaper/misc/rbaOz2Xi.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/rbaOz2Xi.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/rbaOz2Xi.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/rbaOz2Xi.png"
     },
     "tags": [
       "minimal",
@@ -33180,9 +33180,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2bd9fba3d11e.webp",
-      "preview": "/api/wallpaper/misc/robot.jpg",
-      "original": "/api/wallpaper/misc/robot.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/robot.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/robot.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/robot.jpg"
     },
     "tags": [
       "robot",
@@ -33229,9 +33229,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-698453a157e8.webp",
-      "preview": "/api/wallpaper/misc/rocket.png",
-      "original": "/api/wallpaper/misc/rocket.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/rocket.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/rocket.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/rocket.png"
     },
     "tags": [
       "misc",
@@ -33279,9 +33279,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ddabdc55d9e5.webp",
-      "preview": "/api/wallpaper/misc/room.jpg",
-      "original": "/api/wallpaper/misc/room.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/room.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/room.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/room.jpg"
     },
     "tags": [
       "minimal",
@@ -33328,9 +33328,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7aef82245511.webp",
-      "preview": "/api/wallpaper/misc/s4vitar.png",
-      "original": "/api/wallpaper/misc/s4vitar.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/s4vitar.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/s4vitar.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/s4vitar.png"
     },
     "tags": [
       "hack",
@@ -33378,9 +33378,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4b006ffb9c48.webp",
-      "preview": "/api/wallpaper/misc/s4vitar_old.png",
-      "original": "/api/wallpaper/misc/s4vitar_old.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/s4vitar_old.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/s4vitar_old.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/s4vitar_old.png"
     },
     "tags": [
       "hack",
@@ -33428,9 +33428,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8f07b9741bb4.webp",
-      "preview": "/api/wallpaper/misc/shiny_purple.png",
-      "original": "/api/wallpaper/misc/shiny_purple.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/shiny_purple.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/shiny_purple.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/shiny_purple.png"
     },
     "tags": [
       "minimal",
@@ -33476,9 +33476,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-80743a124487.webp",
-      "preview": "/api/wallpaper/misc/skyline.png",
-      "original": "/api/wallpaper/misc/skyline.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/skyline.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/skyline.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/skyline.png"
     },
     "tags": [
       "sky",
@@ -33524,9 +33524,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8dd7438ac201.webp",
-      "preview": "/api/wallpaper/misc/smooth_blue.png",
-      "original": "/api/wallpaper/misc/smooth_blue.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/smooth_blue.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/smooth_blue.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/smooth_blue.png"
     },
     "tags": [
       "minimal",
@@ -33571,9 +33571,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b7f70f0aa61d.webp",
-      "preview": "/api/wallpaper/misc/smooth_pink.png",
-      "original": "/api/wallpaper/misc/smooth_pink.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/smooth_pink.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/smooth_pink.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/smooth_pink.png"
     },
     "tags": [
       "minimal",
@@ -33620,8 +33620,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-921cc4254f3a.webp",
-      "preview": "/api/wallpaper/misc/spider-man-miles.jpg",
-      "original": "/api/wallpaper/misc/spider-man-miles.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/spider-man-miles.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/spider-man-miles.jpg"
     },
     "tags": [
       "minimal",
@@ -33666,9 +33666,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4cfad7bae443.webp",
-      "preview": "/api/wallpaper/misc/Spider-man.jpg",
-      "original": "/api/wallpaper/misc/Spider-man.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Spider-man.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Spider-man.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Spider-man.jpg"
     },
     "tags": [
       "minimal",
@@ -33713,9 +33713,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-68da5544e614.webp",
-      "preview": "/api/wallpaper/misc/steampunk_portal.png",
-      "original": "/api/wallpaper/misc/steampunk_portal.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/steampunk_portal.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/steampunk_portal.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/steampunk_portal.png"
     },
     "tags": [
       "minimal",
@@ -33761,9 +33761,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cbebaa1246e9.webp",
-      "preview": "/api/wallpaper/misc/sword-samurai.jpg",
-      "original": "/api/wallpaper/misc/sword-samurai.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/sword-samurai.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/sword-samurai.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/sword-samurai.jpg"
     },
     "tags": [
       "minimal",
@@ -33808,9 +33808,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-973614e2812b.webp",
-      "preview": "/api/wallpaper/misc/sword.png",
-      "original": "/api/wallpaper/misc/sword.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/sword.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/sword.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/sword.png"
     },
     "tags": [
       "minimal",
@@ -33855,9 +33855,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-34c7175ae42e.webp",
-      "preview": "/api/wallpaper/misc/taza.png",
-      "original": "/api/wallpaper/misc/taza.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/taza.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/taza.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/taza.png"
     },
     "tags": [
       "minimal",
@@ -33904,9 +33904,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-52c30d39de74.webp",
-      "preview": "/api/wallpaper/misc/TokyoSimplistic.jpg",
-      "original": "/api/wallpaper/misc/TokyoSimplistic.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/TokyoSimplistic.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/TokyoSimplistic.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/TokyoSimplistic.jpg"
     },
     "tags": [
       "minimal",
@@ -33952,9 +33952,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-509798da944c.webp",
-      "preview": "/api/wallpaper/misc/tree-house.png",
-      "original": "/api/wallpaper/misc/tree-house.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/tree-house.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/tree-house.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/tree-house.png"
     },
     "tags": [
       "tree",
@@ -34002,9 +34002,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-79a90e70323f.webp",
-      "preview": "/api/wallpaper/misc/trees.png",
-      "original": "/api/wallpaper/misc/trees.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/trees.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/trees.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/trees.png"
     },
     "tags": [
       "misc",
@@ -34052,9 +34052,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-608403ada475.webp",
-      "preview": "/api/wallpaper/misc/Trex-moon.jpg",
-      "original": "/api/wallpaper/misc/Trex-moon.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Trex-moon.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Trex-moon.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Trex-moon.jpg"
     },
     "tags": [
       "sky",
@@ -34100,9 +34100,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ad28d253b64b.webp",
-      "preview": "/api/wallpaper/misc/Trex.jpg",
-      "original": "/api/wallpaper/misc/Trex.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Trex.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Trex.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Trex.jpg"
     },
     "tags": [
       "minimal",
@@ -34147,9 +34147,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1c07f7bd61f3.webp",
-      "preview": "/api/wallpaper/misc/trigonometry.png",
-      "original": "/api/wallpaper/misc/trigonometry.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/trigonometry.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/trigonometry.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/trigonometry.png"
     },
     "tags": [
       "minimal",
@@ -34196,9 +34196,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-938a625c37f2.webp",
-      "preview": "/api/wallpaper/misc/tux-magenta-pink.png",
-      "original": "/api/wallpaper/misc/tux-magenta-pink.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/tux-magenta-pink.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/tux-magenta-pink.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/tux-magenta-pink.png"
     },
     "tags": [
       "minimal",
@@ -34243,9 +34243,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dde3657eb4e5.webp",
-      "preview": "/api/wallpaper/misc/ubuntu-magenta-blue.png",
-      "original": "/api/wallpaper/misc/ubuntu-magenta-blue.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ubuntu-magenta-blue.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ubuntu-magenta-blue.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ubuntu-magenta-blue.png"
     },
     "tags": [
       "minimal",
@@ -34290,9 +34290,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-281adab3084d.webp",
-      "preview": "/api/wallpaper/misc/ubuntu-magenta-pink.png",
-      "original": "/api/wallpaper/misc/ubuntu-magenta-pink.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ubuntu-magenta-pink.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ubuntu-magenta-pink.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ubuntu-magenta-pink.png"
     },
     "tags": [
       "minimal",
@@ -34337,9 +34337,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7f7bbec11164.webp",
-      "preview": "/api/wallpaper/misc/uj21s0by4v271.jpg",
-      "original": "/api/wallpaper/misc/uj21s0by4v271.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/uj21s0by4v271.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/uj21s0by4v271.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/uj21s0by4v271.jpg"
     },
     "tags": [
       "minimal",
@@ -34384,9 +34384,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-601434e67b5b.webp",
-      "preview": "/api/wallpaper/misc/ultrawide_island.png",
-      "original": "/api/wallpaper/misc/ultrawide_island.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ultrawide_island.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ultrawide_island.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/ultrawide_island.png"
     },
     "tags": [
       "minimal",
@@ -34432,9 +34432,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ee56df8e71c1.webp",
-      "preview": "/api/wallpaper/misc/vader.png",
-      "original": "/api/wallpaper/misc/vader.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/vader.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/vader.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/vader.png"
     },
     "tags": [
       "darth vader",
@@ -34481,9 +34481,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-275bd1fa9662.webp",
-      "preview": "/api/wallpaper/misc/van.png",
-      "original": "/api/wallpaper/misc/van.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/van.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/van.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/van.png"
     },
     "tags": [
       "minimal",
@@ -34530,9 +34530,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-31620383aa6a.webp",
-      "preview": "/api/wallpaper/misc/various-os-1-4k.png",
-      "original": "/api/wallpaper/misc/various-os-1-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-1-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-1-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-1-4k.png"
     },
     "tags": [
       "minimal",
@@ -34577,9 +34577,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fd2278c56b58.webp",
-      "preview": "/api/wallpaper/misc/various-os-2-4k.png",
-      "original": "/api/wallpaper/misc/various-os-2-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-2-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-2-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-2-4k.png"
     },
     "tags": [
       "minimal",
@@ -34624,9 +34624,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-671d63e89f17.webp",
-      "preview": "/api/wallpaper/misc/various-os-3-4k.png",
-      "original": "/api/wallpaper/misc/various-os-3-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-3-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-3-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/various-os-3-4k.png"
     },
     "tags": [
       "minimal",
@@ -34671,9 +34671,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-eea843097dbb.webp",
-      "preview": "/api/wallpaper/misc/venom-crystal.jpg",
-      "original": "/api/wallpaper/misc/venom-crystal.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/venom-crystal.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/venom-crystal.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/venom-crystal.jpg"
     },
     "tags": [
       "minimal",
@@ -34718,9 +34718,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8c8956ef0dc3.webp",
-      "preview": "/api/wallpaper/misc/void-magenta-blue.png",
-      "original": "/api/wallpaper/misc/void-magenta-blue.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/void-magenta-blue.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/void-magenta-blue.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/void-magenta-blue.png"
     },
     "tags": [
       "minimal",
@@ -34765,9 +34765,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ce46a336a62d.webp",
-      "preview": "/api/wallpaper/misc/void-magenta-pink.png",
-      "original": "/api/wallpaper/misc/void-magenta-pink.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/void-magenta-pink.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/void-magenta-pink.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/void-magenta-pink.png"
     },
     "tags": [
       "minimal",
@@ -34812,9 +34812,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7184dcd5b6e5.webp",
-      "preview": "/api/wallpaper/misc/wall-gruv.png",
-      "original": "/api/wallpaper/misc/wall-gruv.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wall-gruv.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wall-gruv.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wall-gruv.png"
     },
     "tags": [
       "minimal",
@@ -34859,9 +34859,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e605148b3634.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-0qrgwr.png",
-      "original": "/api/wallpaper/misc/wallhaven-0qrgwr.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-0qrgwr.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-0qrgwr.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-0qrgwr.png"
     },
     "tags": [
       "minimal",
@@ -34907,9 +34907,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9da7e1a8604a.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-1pww8g.png",
-      "original": "/api/wallpaper/misc/wallhaven-1pww8g.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-1pww8g.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-1pww8g.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-1pww8g.png"
     },
     "tags": [
       "minimal",
@@ -34954,9 +34954,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-252c69b496d7.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-1q3ve1.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-1q3ve1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-1q3ve1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-1q3ve1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-1q3ve1.jpg"
     },
     "tags": [
       "minimal",
@@ -35001,9 +35001,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9dbb9bcdb4a1.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-5g3pl8.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-5g3pl8.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-5g3pl8.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-5g3pl8.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-5g3pl8.jpg"
     },
     "tags": [
       "minimal",
@@ -35048,9 +35048,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9f45dce5178c.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-5wx7x5.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-5wx7x5.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-5wx7x5.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-5wx7x5.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-5wx7x5.jpg"
     },
     "tags": [
       "minimal",
@@ -35095,9 +35095,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e078f9827943.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-6d7yxx.png",
-      "original": "/api/wallpaper/misc/wallhaven-6d7yxx.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6d7yxx.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6d7yxx.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6d7yxx.png"
     },
     "tags": [
       "minimal",
@@ -35142,9 +35142,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-41b258fc4e21.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-6dlpr7.png",
-      "original": "/api/wallpaper/misc/wallhaven-6dlpr7.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6dlpr7.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6dlpr7.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6dlpr7.png"
     },
     "tags": [
       "minimal",
@@ -35189,9 +35189,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5aa5f57f70c0.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-6dvkpl.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-6dvkpl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6dvkpl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6dvkpl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6dvkpl.jpg"
     },
     "tags": [
       "minimal",
@@ -35236,9 +35236,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-61d0a564bdf8.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-6lkl5q.png",
-      "original": "/api/wallpaper/misc/wallhaven-6lkl5q.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6lkl5q.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6lkl5q.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-6lkl5q.png"
     },
     "tags": [
       "minimal",
@@ -35283,9 +35283,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ebc6e301b7ed.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-85meoy.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-85meoy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-85meoy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-85meoy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-85meoy.jpg"
     },
     "tags": [
       "minimal",
@@ -35330,9 +35330,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-51bfe6b71083.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-9dl5y1.png",
-      "original": "/api/wallpaper/misc/wallhaven-9dl5y1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-9dl5y1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-9dl5y1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-9dl5y1.png"
     },
     "tags": [
       "minimal",
@@ -35377,9 +35377,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e02b5ff66601.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-9drjlw.png",
-      "original": "/api/wallpaper/misc/wallhaven-9drjlw.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-9drjlw.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-9drjlw.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-9drjlw.png"
     },
     "tags": [
       "minimal",
@@ -35424,9 +35424,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-875cfc106d05.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-d6e1pg.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-d6e1pg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-d6e1pg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-d6e1pg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-d6e1pg.jpg"
     },
     "tags": [
       "minimal",
@@ -35471,9 +35471,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b74e9f5925cd.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-e7m8zl.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-e7m8zl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-e7m8zl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-e7m8zl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-e7m8zl.jpg"
     },
     "tags": [
       "minimal",
@@ -35518,9 +35518,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5a564189aee8.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-exj7kl.png",
-      "original": "/api/wallpaper/misc/wallhaven-exj7kl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-exj7kl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-exj7kl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-exj7kl.png"
     },
     "tags": [
       "minimal",
@@ -35565,9 +35565,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e91e74835db2.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-exqx9k.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-exqx9k.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-exqx9k.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-exqx9k.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-exqx9k.jpg"
     },
     "tags": [
       "minimal",
@@ -35612,9 +35612,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-917f079cf323.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-gpo1g3.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-gpo1g3.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gpo1g3.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gpo1g3.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gpo1g3.jpg"
     },
     "tags": [
       "minimal",
@@ -35659,9 +35659,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b2dd83772b37.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-gpwmed.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-gpwmed.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gpwmed.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gpwmed.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gpwmed.jpg"
     },
     "tags": [
       "minimal",
@@ -35706,9 +35706,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ac8fd93e7a05.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-gw87kd.png",
-      "original": "/api/wallpaper/misc/wallhaven-gw87kd.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gw87kd.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gw87kd.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-gw87kd.png"
     },
     "tags": [
       "minimal",
@@ -35753,9 +35753,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-068e73a929ee.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-jexqqm.png",
-      "original": "/api/wallpaper/misc/wallhaven-jexqqm.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-jexqqm.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-jexqqm.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-jexqqm.png"
     },
     "tags": [
       "minimal",
@@ -35800,9 +35800,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-314e5c1c154c.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-kwwzq7.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-kwwzq7.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kwwzq7.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kwwzq7.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kwwzq7.jpg"
     },
     "tags": [
       "minimal",
@@ -35847,9 +35847,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f95045c82090.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-kx5z9m.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-kx5z9m.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kx5z9m.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kx5z9m.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kx5z9m.jpg"
     },
     "tags": [
       "minimal",
@@ -35894,9 +35894,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1d41a0132ff7.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-kxkdp7.png",
-      "original": "/api/wallpaper/misc/wallhaven-kxkdp7.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kxkdp7.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kxkdp7.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kxkdp7.png"
     },
     "tags": [
       "minimal",
@@ -35941,9 +35941,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ddc0fd6a2157.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-kxy5e1.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-kxy5e1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kxy5e1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kxy5e1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-kxy5e1.jpg"
     },
     "tags": [
       "minimal",
@@ -35988,9 +35988,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5812159acb80.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-lmxwdl.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-lmxwdl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-lmxwdl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-lmxwdl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-lmxwdl.jpg"
     },
     "tags": [
       "minimal",
@@ -36035,9 +36035,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ba5aca6a2819.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-ly353y.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-ly353y.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-ly353y.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-ly353y.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-ly353y.jpg"
     },
     "tags": [
       "minimal",
@@ -36082,9 +36082,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ab1a33f71826.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-m35zw8.png",
-      "original": "/api/wallpaper/misc/wallhaven-m35zw8.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-m35zw8.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-m35zw8.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-m35zw8.png"
     },
     "tags": [
       "minimal",
@@ -36129,9 +36129,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1b3d58ce0cbf.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-ml3ek1.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-ml3ek1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-ml3ek1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-ml3ek1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-ml3ek1.jpg"
     },
     "tags": [
       "minimal",
@@ -36176,9 +36176,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-400370272492.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-o5o827.png",
-      "original": "/api/wallpaper/misc/wallhaven-o5o827.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-o5o827.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-o5o827.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-o5o827.png"
     },
     "tags": [
       "minimal",
@@ -36223,9 +36223,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6f88cf3f6ac4.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-o5oomm.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-o5oomm.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-o5oomm.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-o5oomm.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-o5oomm.jpg"
     },
     "tags": [
       "minimal",
@@ -36270,9 +36270,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-11a3bfd53765.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-og3p6m.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-og3p6m.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-og3p6m.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-og3p6m.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-og3p6m.jpg"
     },
     "tags": [
       "minimal",
@@ -36317,9 +36317,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3f592e37c48e.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-p9zv13.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-p9zv13.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-p9zv13.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-p9zv13.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-p9zv13.jpg"
     },
     "tags": [
       "minimal",
@@ -36364,9 +36364,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bdf0292a6a96.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-q62rz5.png",
-      "original": "/api/wallpaper/misc/wallhaven-q62rz5.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-q62rz5.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-q62rz5.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-q62rz5.png"
     },
     "tags": [
       "minimal",
@@ -36411,9 +36411,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fb67708c75a1.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-qzwr9d.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-qzwr9d.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-qzwr9d.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-qzwr9d.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-qzwr9d.jpg"
     },
     "tags": [
       "minimal",
@@ -36458,9 +36458,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7b7ede5d001a.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-r77gz7.png",
-      "original": "/api/wallpaper/misc/wallhaven-r77gz7.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-r77gz7.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-r77gz7.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-r77gz7.png"
     },
     "tags": [
       "minimal",
@@ -36505,9 +36505,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d050a730faf9.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-rqrrkj.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-rqrrkj.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rqrrkj.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rqrrkj.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rqrrkj.jpg"
     },
     "tags": [
       "minimal",
@@ -36553,8 +36553,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-1aaf0d97e959.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-rrpvd7.png",
-      "original": "/api/wallpaper/misc/wallhaven-rrpvd7.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rrpvd7.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rrpvd7.png"
     },
     "tags": [
       "minimal",
@@ -36600,9 +36600,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-50413eba7325.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-rrv7x7.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-rrv7x7.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rrv7x7.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rrv7x7.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-rrv7x7.jpg"
     },
     "tags": [
       "minimal",
@@ -36647,9 +36647,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-affd09373c22.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-v9kmm3.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-v9kmm3.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-v9kmm3.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-v9kmm3.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-v9kmm3.jpg"
     },
     "tags": [
       "minimal",
@@ -36694,9 +36694,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-070b344b6a50.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-w5el6r.png",
-      "original": "/api/wallpaper/misc/wallhaven-w5el6r.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-w5el6r.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-w5el6r.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-w5el6r.png"
     },
     "tags": [
       "minimal",
@@ -36741,9 +36741,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3c70bd5d33a4.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-w5q8px.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-w5q8px.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-w5q8px.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-w5q8px.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-w5q8px.jpg"
     },
     "tags": [
       "minimal",
@@ -36788,9 +36788,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8a633355ded8.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-wewl9r.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-wewl9r.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-wewl9r.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-wewl9r.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-wewl9r.jpg"
     },
     "tags": [
       "minimal",
@@ -36835,9 +36835,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f25fd1c1e44b.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-x67oxo.png",
-      "original": "/api/wallpaper/misc/wallhaven-x67oxo.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-x67oxo.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-x67oxo.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-x67oxo.png"
     },
     "tags": [
       "minimal",
@@ -36883,9 +36883,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-acd55b1dd76a.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-yqm7x7.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-yqm7x7.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-yqm7x7.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-yqm7x7.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-yqm7x7.jpg"
     },
     "tags": [
       "minimal",
@@ -36930,9 +36930,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b774f3d4f51e.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-yxzjpg.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-yxzjpg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-yxzjpg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-yxzjpg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-yxzjpg.jpg"
     },
     "tags": [
       "minimal",
@@ -36977,9 +36977,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1677998f23fd.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-z8xwxj_1920x1080.png",
-      "original": "/api/wallpaper/misc/wallhaven-z8xwxj_1920x1080.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-z8xwxj_1920x1080.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-z8xwxj_1920x1080.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-z8xwxj_1920x1080.png"
     },
     "tags": [
       "minimal",
@@ -37024,9 +37024,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-02b76b54b4e0.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-zpxjjo.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-zpxjjo.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zpxjjo.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zpxjjo.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zpxjjo.jpg"
     },
     "tags": [
       "minimal",
@@ -37071,9 +37071,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8846ef300e88.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-zy1xjw.png",
-      "original": "/api/wallpaper/misc/wallhaven-zy1xjw.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zy1xjw.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zy1xjw.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zy1xjw.png"
     },
     "tags": [
       "minimal",
@@ -37118,9 +37118,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4509b1201978.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-zy3peo_1920x1080.png",
-      "original": "/api/wallpaper/misc/wallhaven-zy3peo_1920x1080.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zy3peo_1920x1080.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zy3peo_1920x1080.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zy3peo_1920x1080.png"
     },
     "tags": [
       "minimal",
@@ -37165,9 +37165,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2ffd94cbf9b9.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-zyeqev.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-zyeqev.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zyeqev.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zyeqev.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zyeqev.jpg"
     },
     "tags": [
       "minimal",
@@ -37212,9 +37212,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0c14f230fa8f.webp",
-      "preview": "/api/wallpaper/misc/wallhaven-zyryev.jpg",
-      "original": "/api/wallpaper/misc/wallhaven-zyryev.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zyryev.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zyryev.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallhaven-zyryev.jpg"
     },
     "tags": [
       "minimal",
@@ -37259,9 +37259,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cb2f354cc90a.webp",
-      "preview": "/api/wallpaper/misc/wallpape.jpg",
-      "original": "/api/wallpaper/misc/wallpape.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallpape.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallpape.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wallpape.jpg"
     },
     "tags": [
       "minimal",
@@ -37306,9 +37306,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-055ab50f216b.webp",
-      "preview": "/api/wallpaper/misc/wide_lines.png",
-      "original": "/api/wallpaper/misc/wide_lines.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wide_lines.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wide_lines.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wide_lines.png"
     },
     "tags": [
       "minimal",
@@ -37354,9 +37354,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-47626e2ae453.webp",
-      "preview": "/api/wallpaper/misc/windows-magenta-blue.png",
-      "original": "/api/wallpaper/misc/windows-magenta-blue.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windows-magenta-blue.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windows-magenta-blue.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windows-magenta-blue.png"
     },
     "tags": [
       "minimal",
@@ -37401,9 +37401,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3296a1cee175.webp",
-      "preview": "/api/wallpaper/misc/windows-magenta-pink.png",
-      "original": "/api/wallpaper/misc/windows-magenta-pink.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windows-magenta-pink.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windows-magenta-pink.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windows-magenta-pink.png"
     },
     "tags": [
       "minimal",
@@ -37448,9 +37448,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-db5d9505cef1.webp",
-      "preview": "/api/wallpaper/misc/windoze.jpg",
-      "original": "/api/wallpaper/misc/windoze.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windoze.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windoze.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/windoze.jpg"
     },
     "tags": [
       "minimal",
@@ -37495,9 +37495,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a38e6f2d9cce.webp",
-      "preview": "/api/wallpaper/misc/wolverine.jpg",
-      "original": "/api/wallpaper/misc/wolverine.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wolverine.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wolverine.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wolverine.jpg"
     },
     "tags": [
       "minimal",
@@ -37542,9 +37542,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-813c021827be.webp",
-      "preview": "/api/wallpaper/misc/wp7164600-avogado6-wallpapers.png",
-      "original": "/api/wallpaper/misc/wp7164600-avogado6-wallpapers.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wp7164600-avogado6-wallpapers.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wp7164600-avogado6-wallpapers.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/wp7164600-avogado6-wallpapers.png"
     },
     "tags": [
       "minimal",
@@ -37589,9 +37589,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-38c58858c989.webp",
-      "preview": "/api/wallpaper/misc/xbKG64E.png",
-      "original": "/api/wallpaper/misc/xbKG64E.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/xbKG64E.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/xbKG64E.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/xbKG64E.png"
     },
     "tags": [
       "minimal",
@@ -37637,8 +37637,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-90b8146b79a6.webp",
-      "preview": "/api/wallpaper/misc/yellow_kyoto.jpg",
-      "original": "/api/wallpaper/misc/yellow_kyoto.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/yellow_kyoto.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/yellow_kyoto.jpg"
     },
     "tags": [
       "minimal",
@@ -37684,9 +37684,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8f93863cea56.webp",
-      "preview": "/api/wallpaper/misc/Z5hj_CoA.png",
-      "original": "/api/wallpaper/misc/Z5hj_CoA.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Z5hj_CoA.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Z5hj_CoA.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/Z5hj_CoA.png"
     },
     "tags": [
       "minimal",
@@ -37731,9 +37731,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e48b021bb102.webp",
-      "preview": "/api/wallpaper/misc/zorin-magenta-blue.png",
-      "original": "/api/wallpaper/misc/zorin-magenta-blue.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/misc/zorin-magenta-blue.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/misc/zorin-magenta-blue.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/misc/zorin-magenta-blue.png"
     },
     "tags": [
       "minimal",
@@ -37778,9 +37778,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ea123ffab833.webp",
-      "preview": "/api/wallpaper/mocha/--.png",
-      "original": "/api/wallpaper/mocha/--.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/--.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/--.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/--.png"
     },
     "tags": [
       "minimal",
@@ -37826,8 +37826,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-3a1b87ef6c46.webp",
-      "preview": "/api/wallpaper/mocha/00146.jpg",
-      "original": "/api/wallpaper/mocha/00146.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/00146.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/00146.jpg"
     },
     "tags": [
       "minimal",
@@ -37872,9 +37872,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b072fd6095a8.webp",
-      "preview": "/api/wallpaper/mocha/0071.jpg",
-      "original": "/api/wallpaper/mocha/0071.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0071.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0071.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0071.jpg"
     },
     "tags": [
       "minimal",
@@ -37919,9 +37919,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-44e669d884c9.webp",
-      "preview": "/api/wallpaper/mocha/01xx5kx.png",
-      "original": "/api/wallpaper/mocha/01xx5kx.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/01xx5kx.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/01xx5kx.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/01xx5kx.png"
     },
     "tags": [
       "minimal",
@@ -37966,9 +37966,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e2c0afd190f9.webp",
-      "preview": "/api/wallpaper/mocha/03. One Dark.png",
-      "original": "/api/wallpaper/mocha/03. One Dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/03.%20One%20Dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/03.%20One%20Dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/03.%20One%20Dark.png"
     },
     "tags": [
       "minimal",
@@ -38013,9 +38013,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a2e2cc911ea7.webp",
-      "preview": "/api/wallpaper/mocha/0415.jpg",
-      "original": "/api/wallpaper/mocha/0415.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0415.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0415.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0415.jpg"
     },
     "tags": [
       "minimal",
@@ -38060,9 +38060,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0d7d671bd2a8.webp",
-      "preview": "/api/wallpaper/mocha/05. One Dark.png",
-      "original": "/api/wallpaper/mocha/05. One Dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/05.%20One%20Dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/05.%20One%20Dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/05.%20One%20Dark.png"
     },
     "tags": [
       "minimal",
@@ -38107,9 +38107,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-98338973fd79.webp",
-      "preview": "/api/wallpaper/mocha/06. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/06. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/06.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/06.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/06.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -38154,9 +38154,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d4fedfad16cd.webp",
-      "preview": "/api/wallpaper/mocha/07. Abyssal Wave.png",
-      "original": "/api/wallpaper/mocha/07. Abyssal Wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/07.%20Abyssal%20Wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/07.%20Abyssal%20Wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/07.%20Abyssal%20Wave.png"
     },
     "tags": [
       "minimal",
@@ -38202,9 +38202,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4f5943453d76.webp",
-      "preview": "/api/wallpaper/mocha/07. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/07. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/07.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/07.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/07.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -38249,9 +38249,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4c3b2c149820.webp",
-      "preview": "/api/wallpaper/mocha/0qk1466.jpg",
-      "original": "/api/wallpaper/mocha/0qk1466.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0qk1466.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0qk1466.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/0qk1466.jpg"
     },
     "tags": [
       "minimal",
@@ -38296,9 +38296,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c1f2911be5d6.webp",
-      "preview": "/api/wallpaper/mocha/10. Abyssal Wave.png",
-      "original": "/api/wallpaper/mocha/10. Abyssal Wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/10.%20Abyssal%20Wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/10.%20Abyssal%20Wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/10.%20Abyssal%20Wave.png"
     },
     "tags": [
       "minimal",
@@ -38344,9 +38344,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f0f4358ce515.webp",
-      "preview": "/api/wallpaper/mocha/10. One Dark.png",
-      "original": "/api/wallpaper/mocha/10. One Dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/10.%20One%20Dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/10.%20One%20Dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/10.%20One%20Dark.png"
     },
     "tags": [
       "minimal",
@@ -38391,9 +38391,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bebde5ba7c6f.webp",
-      "preview": "/api/wallpaper/mocha/11. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/11. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/11.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/11.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/11.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -38438,9 +38438,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-92d28a6baba1.webp",
-      "preview": "/api/wallpaper/mocha/13. Abyssal Wave.png",
-      "original": "/api/wallpaper/mocha/13. Abyssal Wave.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/13.%20Abyssal%20Wave.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/13.%20Abyssal%20Wave.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/13.%20Abyssal%20Wave.png"
     },
     "tags": [
       "minimal",
@@ -38486,9 +38486,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f651efc20959.webp",
-      "preview": "/api/wallpaper/mocha/1383227.png",
-      "original": "/api/wallpaper/mocha/1383227.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1383227.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1383227.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1383227.png"
     },
     "tags": [
       "minimal",
@@ -38533,9 +38533,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-25ad4d1698a2.webp",
-      "preview": "/api/wallpaper/mocha/1390766.png",
-      "original": "/api/wallpaper/mocha/1390766.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1390766.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1390766.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1390766.png"
     },
     "tags": [
       "minimal",
@@ -38580,9 +38580,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-739567779f7f.webp",
-      "preview": "/api/wallpaper/mocha/14. Catppuccin Latte.jpg",
-      "original": "/api/wallpaper/mocha/14. Catppuccin Latte.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20Catppuccin%20Latte.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20Catppuccin%20Latte.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20Catppuccin%20Latte.jpg"
     },
     "tags": [
       "minimal",
@@ -38627,9 +38627,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ff0155c00908.webp",
-      "preview": "/api/wallpaper/mocha/14. Catppuccin Mocha.jpg",
-      "original": "/api/wallpaper/mocha/14. Catppuccin Mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20Catppuccin%20Mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20Catppuccin%20Mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20Catppuccin%20Mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -38674,9 +38674,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-853481405d4a.webp",
-      "preview": "/api/wallpaper/mocha/14. One Dark.png",
-      "original": "/api/wallpaper/mocha/14. One Dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20One%20Dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20One%20Dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/14.%20One%20Dark.png"
     },
     "tags": [
       "minimal",
@@ -38721,9 +38721,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e1324e272bd2.webp",
-      "preview": "/api/wallpaper/mocha/15. One Dark.png",
-      "original": "/api/wallpaper/mocha/15. One Dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/15.%20One%20Dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/15.%20One%20Dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/15.%20One%20Dark.png"
     },
     "tags": [
       "minimal",
@@ -38768,9 +38768,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9f0b4c84c09a.webp",
-      "preview": "/api/wallpaper/mocha/17. Catppuccin Mocha.jpg",
-      "original": "/api/wallpaper/mocha/17. Catppuccin Mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/17.%20Catppuccin%20Mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/17.%20Catppuccin%20Mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/17.%20Catppuccin%20Mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -38815,9 +38815,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-aeabdb317912.webp",
-      "preview": "/api/wallpaper/mocha/17. One Dark.jpg",
-      "original": "/api/wallpaper/mocha/17. One Dark.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/17.%20One%20Dark.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/17.%20One%20Dark.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/17.%20One%20Dark.jpg"
     },
     "tags": [
       "minimal",
@@ -38862,9 +38862,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-082aa1ec9496.webp",
-      "preview": "/api/wallpaper/mocha/1723307794_grim.png",
-      "original": "/api/wallpaper/mocha/1723307794_grim.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1723307794_grim.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1723307794_grim.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/1723307794_grim.png"
     },
     "tags": [
       "minimal",
@@ -38909,9 +38909,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d8a46794815a.webp",
-      "preview": "/api/wallpaper/mocha/24. Catppuccin Mocha.jpg",
-      "original": "/api/wallpaper/mocha/24. Catppuccin Mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/24.%20Catppuccin%20Mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/24.%20Catppuccin%20Mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/24.%20Catppuccin%20Mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -38956,9 +38956,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6b49a6eeb06a.webp",
-      "preview": "/api/wallpaper/mocha/25. Catppuccin Mocha.jpg",
-      "original": "/api/wallpaper/mocha/25. Catppuccin Mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/25.%20Catppuccin%20Mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/25.%20Catppuccin%20Mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/25.%20Catppuccin%20Mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -39003,9 +39003,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-21644c2c3c67.webp",
-      "preview": "/api/wallpaper/mocha/26. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/26. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/26.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/26.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/26.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -39050,9 +39050,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fad12cc80ba1.webp",
-      "preview": "/api/wallpaper/mocha/27. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/27. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/27.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/27.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/27.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -39097,9 +39097,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9eb2300f35ac.webp",
-      "preview": "/api/wallpaper/mocha/28. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/28. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/28.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/28.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/28.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -39144,9 +39144,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-db9c017e2363.webp",
-      "preview": "/api/wallpaper/mocha/2dc.jpg",
-      "original": "/api/wallpaper/mocha/2dc.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/2dc.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/2dc.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/2dc.jpg"
     },
     "tags": [
       "minimal",
@@ -39191,9 +39191,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1a5b57a38c75.webp",
-      "preview": "/api/wallpaper/mocha/30. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/30. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/30.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/30.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/30.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -39238,9 +39238,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c1c42a006d9.webp",
-      "preview": "/api/wallpaper/mocha/32. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/32. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/32.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/32.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/32.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -39285,9 +39285,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0954b260300d.webp",
-      "preview": "/api/wallpaper/mocha/33. Catppuccin Mocha.jpg",
-      "original": "/api/wallpaper/mocha/33. Catppuccin Mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/33.%20Catppuccin%20Mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/33.%20Catppuccin%20Mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/33.%20Catppuccin%20Mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -39332,9 +39332,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c28d9412df7a.webp",
-      "preview": "/api/wallpaper/mocha/34. Catppuccin Mocha.png",
-      "original": "/api/wallpaper/mocha/34. Catppuccin Mocha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/34.%20Catppuccin%20Mocha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/34.%20Catppuccin%20Mocha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/34.%20Catppuccin%20Mocha.png"
     },
     "tags": [
       "minimal",
@@ -39379,9 +39379,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0ec861028ca3.webp",
-      "preview": "/api/wallpaper/mocha/35. Catppuccin Mocha.jpg",
-      "original": "/api/wallpaper/mocha/35. Catppuccin Mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/35.%20Catppuccin%20Mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/35.%20Catppuccin%20Mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/35.%20Catppuccin%20Mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -39426,9 +39426,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1b1933be8b10.webp",
-      "preview": "/api/wallpaper/mocha/3_1_catppuccin-mocha.jpg",
-      "original": "/api/wallpaper/mocha/3_1_catppuccin-mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/3_1_catppuccin-mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/3_1_catppuccin-mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/3_1_catppuccin-mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -39474,8 +39474,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-536058d7c542.webp",
-      "preview": "/api/wallpaper/mocha/5p8bf8f.png",
-      "original": "/api/wallpaper/mocha/5p8bf8f.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/5p8bf8f.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/5p8bf8f.png"
     },
     "tags": [
       "minimal",
@@ -39520,9 +39520,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7ef205f67a5d.webp",
-      "preview": "/api/wallpaper/mocha/6r1bjvt.png",
-      "original": "/api/wallpaper/mocha/6r1bjvt.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/6r1bjvt.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/6r1bjvt.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/6r1bjvt.png"
     },
     "tags": [
       "minimal",
@@ -39567,9 +39567,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e37a051d2119.webp",
-      "preview": "/api/wallpaper/mocha/a_black_and_white_logo.png",
-      "original": "/api/wallpaper/mocha/a_black_and_white_logo.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_black_and_white_logo.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_black_and_white_logo.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_black_and_white_logo.png"
     },
     "tags": [
       "minimal",
@@ -39614,9 +39614,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-08282dedaa23.webp",
-      "preview": "/api/wallpaper/mocha/a_black_background_with_white_dots.png",
-      "original": "/api/wallpaper/mocha/a_black_background_with_white_dots.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_black_background_with_white_dots.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_black_background_with_white_dots.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_black_background_with_white_dots.png"
     },
     "tags": [
       "minimal",
@@ -39661,9 +39661,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-37d21903d48e.webp",
-      "preview": "/api/wallpaper/mocha/a_blue_and_pink_swirls_on_a_black_background.png",
-      "original": "/api/wallpaper/mocha/a_blue_and_pink_swirls_on_a_black_background.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_blue_and_pink_swirls_on_a_black_background.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_blue_and_pink_swirls_on_a_black_background.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_blue_and_pink_swirls_on_a_black_background.png"
     },
     "tags": [
       "minimal",
@@ -39708,9 +39708,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f18988ee12f4.webp",
-      "preview": "/api/wallpaper/mocha/a_blue_yin_yang_symbol.jpg",
-      "original": "/api/wallpaper/mocha/a_blue_yin_yang_symbol.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_blue_yin_yang_symbol.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_blue_yin_yang_symbol.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_blue_yin_yang_symbol.jpg"
     },
     "tags": [
       "minimal",
@@ -39755,9 +39755,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b139006c1dd0.webp",
-      "preview": "/api/wallpaper/mocha/a_cartoon_of_a_girl_holding_a_sword.png",
-      "original": "/api/wallpaper/mocha/a_cartoon_of_a_girl_holding_a_sword.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_girl_holding_a_sword.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_girl_holding_a_sword.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_girl_holding_a_sword.png"
     },
     "tags": [
       "minimal",
@@ -39802,9 +39802,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e2a67ecc0746.webp",
-      "preview": "/api/wallpaper/mocha/a_cartoon_of_a_lamp_post.jpg",
-      "original": "/api/wallpaper/mocha/a_cartoon_of_a_lamp_post.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_lamp_post.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_lamp_post.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_lamp_post.jpg"
     },
     "tags": [
       "minimal",
@@ -39849,9 +39849,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9244f9373d15.webp",
-      "preview": "/api/wallpaper/mocha/a_cartoon_of_a_person_with_their_hands_on_their_face.png",
-      "original": "/api/wallpaper/mocha/a_cartoon_of_a_person_with_their_hands_on_their_face.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_person_with_their_hands_on_their_face.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_person_with_their_hands_on_their_face.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cartoon_of_a_person_with_their_hands_on_their_face.png"
     },
     "tags": [
       "minimal",
@@ -39896,9 +39896,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-18d006eb4345.webp",
-      "preview": "/api/wallpaper/mocha/a_cat_walking_on_a_hill.png",
-      "original": "/api/wallpaper/mocha/a_cat_walking_on_a_hill.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cat_walking_on_a_hill.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cat_walking_on_a_hill.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_cat_walking_on_a_hill.png"
     },
     "tags": [
       "minimal",
@@ -39944,9 +39944,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a2e3518a5c23.webp",
-      "preview": "/api/wallpaper/mocha/a_close_up_of_a_moon.png",
-      "original": "/api/wallpaper/mocha/a_close_up_of_a_moon.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_close_up_of_a_moon.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_close_up_of_a_moon.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_close_up_of_a_moon.png"
     },
     "tags": [
       "minimal",
@@ -39992,9 +39992,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-01f584568692.webp",
-      "preview": "/api/wallpaper/mocha/a_close_up_of_a_wallpaper.png",
-      "original": "/api/wallpaper/mocha/a_close_up_of_a_wallpaper.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_close_up_of_a_wallpaper.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_close_up_of_a_wallpaper.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_close_up_of_a_wallpaper.png"
     },
     "tags": [
       "minimal",
@@ -40039,9 +40039,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-65acd969f4f3.webp",
-      "preview": "/api/wallpaper/mocha/a_colorful_mask_on_a_black_background.jpg",
-      "original": "/api/wallpaper/mocha/a_colorful_mask_on_a_black_background.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_colorful_mask_on_a_black_background.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_colorful_mask_on_a_black_background.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_colorful_mask_on_a_black_background.jpg"
     },
     "tags": [
       "minimal",
@@ -40086,9 +40086,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cf7c8059ca53.webp",
-      "preview": "/api/wallpaper/mocha/a_drawing_of_a_city.jpg",
-      "original": "/api/wallpaper/mocha/a_drawing_of_a_city.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_drawing_of_a_city.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_drawing_of_a_city.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_drawing_of_a_city.jpg"
     },
     "tags": [
       "minimal",
@@ -40133,9 +40133,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-87411687bf11.webp",
-      "preview": "/api/wallpaper/mocha/a_fish_with_long_tail.png",
-      "original": "/api/wallpaper/mocha/a_fish_with_long_tail.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_fish_with_long_tail.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_fish_with_long_tail.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_fish_with_long_tail.png"
     },
     "tags": [
       "minimal",
@@ -40180,9 +40180,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d75efd2e9ade.webp",
-      "preview": "/api/wallpaper/mocha/a_group_of_buildings_with_neon_lights.png",
-      "original": "/api/wallpaper/mocha/a_group_of_buildings_with_neon_lights.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_group_of_buildings_with_neon_lights.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_group_of_buildings_with_neon_lights.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_group_of_buildings_with_neon_lights.png"
     },
     "tags": [
       "minimal",
@@ -40227,9 +40227,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d27546f85928.webp",
-      "preview": "/api/wallpaper/mocha/a_group_of_people_on_a_street.png",
-      "original": "/api/wallpaper/mocha/a_group_of_people_on_a_street.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_group_of_people_on_a_street.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_group_of_people_on_a_street.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_group_of_people_on_a_street.png"
     },
     "tags": [
       "minimal",
@@ -40275,9 +40275,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-74c7423aa20d.webp",
-      "preview": "/api/wallpaper/mocha/a_land_forgotten_by_the_gods.png",
-      "original": "/api/wallpaper/mocha/a_land_forgotten_by_the_gods.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_land_forgotten_by_the_gods.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_land_forgotten_by_the_gods.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_land_forgotten_by_the_gods.png"
     },
     "tags": [
       "minimal",
@@ -40322,9 +40322,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-adbfc5cb9396.webp",
-      "preview": "/api/wallpaper/mocha/a_logo_with_lines_and_rays.jpg",
-      "original": "/api/wallpaper/mocha/a_logo_with_lines_and_rays.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_logo_with_lines_and_rays.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_logo_with_lines_and_rays.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_logo_with_lines_and_rays.jpg"
     },
     "tags": [
       "minimal",
@@ -40370,8 +40370,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-db658a2227ca.webp",
-      "preview": "/api/wallpaper/mocha/A_Red_Face_Glowing_by_Merlin_Lightpainting.jpg",
-      "original": "/api/wallpaper/mocha/A_Red_Face_Glowing_by_Merlin_Lightpainting.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/A_Red_Face_Glowing_by_Merlin_Lightpainting.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/A_Red_Face_Glowing_by_Merlin_Lightpainting.jpg"
     },
     "tags": [
       "minimal",
@@ -40416,9 +40416,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-40527f841e1b.webp",
-      "preview": "/api/wallpaper/mocha/a_screenshot_of_a_computer.png",
-      "original": "/api/wallpaper/mocha/a_screenshot_of_a_computer.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_screenshot_of_a_computer.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_screenshot_of_a_computer.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_screenshot_of_a_computer.png"
     },
     "tags": [
       "minimal",
@@ -40463,9 +40463,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-252ae85a46df.webp",
-      "preview": "/api/wallpaper/mocha/a_silhouette_of_a_person_standing_in_a_room_with_a_window.png",
-      "original": "/api/wallpaper/mocha/a_silhouette_of_a_person_standing_in_a_room_with_a_window.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_silhouette_of_a_person_standing_in_a_room_with_a_window.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_silhouette_of_a_person_standing_in_a_room_with_a_window.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_silhouette_of_a_person_standing_in_a_room_with_a_window.png"
     },
     "tags": [
       "minimal",
@@ -40510,9 +40510,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-edd7fb46d820.webp",
-      "preview": "/api/wallpaper/mocha/a_street_with_signs_and_lights_01.png",
-      "original": "/api/wallpaper/mocha/a_street_with_signs_and_lights_01.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_street_with_signs_and_lights_01.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_street_with_signs_and_lights_01.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_street_with_signs_and_lights_01.png"
     },
     "tags": [
       "minimal",
@@ -40558,9 +40558,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ac7b6d6c71c8.webp",
-      "preview": "/api/wallpaper/mocha/a_triangle_shaped_object.png",
-      "original": "/api/wallpaper/mocha/a_triangle_shaped_object.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_triangle_shaped_object.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_triangle_shaped_object.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_triangle_shaped_object.png"
     },
     "tags": [
       "minimal",
@@ -40605,9 +40605,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-92a6371f9368.webp",
-      "preview": "/api/wallpaper/mocha/a_video_game_screen_capture.jpg",
-      "original": "/api/wallpaper/mocha/a_video_game_screen_capture.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_video_game_screen_capture.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_video_game_screen_capture.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_video_game_screen_capture.jpg"
     },
     "tags": [
       "minimal",
@@ -40652,9 +40652,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-301a9e5cad62.webp",
-      "preview": "/api/wallpaper/mocha/a_white_drawing_of_a_person_with_a_mask_on_his_head.png",
-      "original": "/api/wallpaper/mocha/a_white_drawing_of_a_person_with_a_mask_on_his_head.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_white_drawing_of_a_person_with_a_mask_on_his_head.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_white_drawing_of_a_person_with_a_mask_on_his_head.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/a_white_drawing_of_a_person_with_a_mask_on_his_head.png"
     },
     "tags": [
       "minimal",
@@ -40699,9 +40699,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f1da769c1742.webp",
-      "preview": "/api/wallpaper/mocha/adventure-time.jpg",
-      "original": "/api/wallpaper/mocha/adventure-time.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/adventure-time.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/adventure-time.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/adventure-time.jpg"
     },
     "tags": [
       "minimal",
@@ -40746,9 +40746,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-430e70275df5.webp",
-      "preview": "/api/wallpaper/mocha/alley.png",
-      "original": "/api/wallpaper/mocha/alley.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/alley.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/alley.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/alley.png"
     },
     "tags": [
       "minimal",
@@ -40793,9 +40793,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7b57a8ff5bd4.webp",
-      "preview": "/api/wallpaper/mocha/alone.png",
-      "original": "/api/wallpaper/mocha/alone.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/alone.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/alone.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/alone.png"
     },
     "tags": [
       "minimal",
@@ -40934,9 +40934,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-31afd62d128b.webp",
-      "preview": "/api/wallpaper/mocha/amdsterdam.jpg",
-      "original": "/api/wallpaper/mocha/amdsterdam.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/amdsterdam.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/amdsterdam.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/amdsterdam.jpg"
     },
     "tags": [
       "minimal",
@@ -40981,9 +40981,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-14d8b2191cf0.webp",
-      "preview": "/api/wallpaper/mocha/anime-skull-1.png",
-      "original": "/api/wallpaper/mocha/anime-skull-1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/anime-skull-1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/anime-skull-1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/anime-skull-1.png"
     },
     "tags": [
       "minimal",
@@ -41028,9 +41028,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f0dae59f203f.webp",
-      "preview": "/api/wallpaper/mocha/anime_rock_band.png",
-      "original": "/api/wallpaper/mocha/anime_rock_band.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/anime_rock_band.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/anime_rock_band.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/anime_rock_band.png"
     },
     "tags": [
       "minimal",
@@ -41076,9 +41076,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1d4e68443a8d.webp",
-      "preview": "/api/wallpaper/mocha/animegirl2.jpg",
-      "original": "/api/wallpaper/mocha/animegirl2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/animegirl2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/animegirl2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/animegirl2.jpg"
     },
     "tags": [
       "minimal",
@@ -41123,9 +41123,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e6614021cd11.webp",
-      "preview": "/api/wallpaper/mocha/apex_octane.jpg",
-      "original": "/api/wallpaper/mocha/apex_octane.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apex_octane.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apex_octane.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apex_octane.jpg"
     },
     "tags": [
       "minimal",
@@ -41170,9 +41170,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ceb8f9032899.webp",
-      "preview": "/api/wallpaper/mocha/apple-black-4k.png",
-      "original": "/api/wallpaper/mocha/apple-black-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apple-black-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apple-black-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apple-black-4k.png"
     },
     "tags": [
       "minimal",
@@ -41217,9 +41217,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-86cf1e2dac17.webp",
-      "preview": "/api/wallpaper/mocha/apple-blue-black-1920x1080.png",
-      "original": "/api/wallpaper/mocha/apple-blue-black-1920x1080.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apple-blue-black-1920x1080.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apple-blue-black-1920x1080.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/apple-blue-black-1920x1080.png"
     },
     "tags": [
       "minimal",
@@ -41264,9 +41264,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-75a4c3db0ca5.webp",
-      "preview": "/api/wallpaper/mocha/arch-nord-dark.png",
-      "original": "/api/wallpaper/mocha/arch-nord-dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch-nord-dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch-nord-dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch-nord-dark.png"
     },
     "tags": [
       "minimal",
@@ -41311,9 +41311,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7bb46cb0d1f6.webp",
-      "preview": "/api/wallpaper/mocha/arch-nord-light.png",
-      "original": "/api/wallpaper/mocha/arch-nord-light.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch-nord-light.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch-nord-light.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch-nord-light.png"
     },
     "tags": [
       "minimal",
@@ -41359,8 +41359,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-7ed224521989.webp",
-      "preview": "/api/wallpaper/mocha/arch.png",
-      "original": "/api/wallpaper/mocha/arch.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/arch.png"
     },
     "tags": [
       "minimal",
@@ -41405,9 +41405,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a3e6a85f0a00.webp",
-      "preview": "/api/wallpaper/mocha/ascii.png",
-      "original": "/api/wallpaper/mocha/ascii.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ascii.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ascii.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ascii.png"
     },
     "tags": [
       "minimal",
@@ -41452,9 +41452,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-49d1e199db09.webp",
-      "preview": "/api/wallpaper/mocha/ascii_1.png",
-      "original": "/api/wallpaper/mocha/ascii_1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ascii_1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ascii_1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ascii_1.png"
     },
     "tags": [
       "minimal",
@@ -41499,9 +41499,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-47b90caacad6.webp",
-      "preview": "/api/wallpaper/mocha/astronaut-3.jpg",
-      "original": "/api/wallpaper/mocha/astronaut-3.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/astronaut-3.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/astronaut-3.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/astronaut-3.jpg"
     },
     "tags": [
       "minimal",
@@ -41546,9 +41546,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a465d9ce48eb.webp",
-      "preview": "/api/wallpaper/mocha/asuka-in-gray-back.jpg",
-      "original": "/api/wallpaper/mocha/asuka-in-gray-back.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/asuka-in-gray-back.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/asuka-in-gray-back.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/asuka-in-gray-back.jpg"
     },
     "tags": [
       "minimal",
@@ -41593,9 +41593,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3aacb9615b23.webp",
-      "preview": "/api/wallpaper/mocha/avatar_glow_forest.png",
-      "original": "/api/wallpaper/mocha/avatar_glow_forest.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/avatar_glow_forest.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/avatar_glow_forest.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/avatar_glow_forest.png"
     },
     "tags": [
       "minimal",
@@ -41641,9 +41641,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6cfa9f3298ab.webp",
-      "preview": "/api/wallpaper/mocha/b-198.jpg",
-      "original": "/api/wallpaper/mocha/b-198.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/b-198.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/b-198.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/b-198.jpg"
     },
     "tags": [
       "minimal",
@@ -41688,9 +41688,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-25000a891a12.webp",
-      "preview": "/api/wallpaper/mocha/based.png",
-      "original": "/api/wallpaper/mocha/based.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/based.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/based.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/based.png"
     },
     "tags": [
       "minimal",
@@ -41735,9 +41735,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a7f0f635a415.webp",
-      "preview": "/api/wallpaper/mocha/Bass.png",
-      "original": "/api/wallpaper/mocha/Bass.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bass.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bass.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bass.png"
     },
     "tags": [
       "minimal",
@@ -41782,9 +41782,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-352d57405e51.webp",
-      "preview": "/api/wallpaper/mocha/bg.png",
-      "original": "/api/wallpaper/mocha/bg.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bg.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bg.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bg.png"
     },
     "tags": [
       "minimal",
@@ -41829,9 +41829,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-727e3af3f268.webp",
-      "preview": "/api/wallpaper/mocha/biking-sunset.jpg",
-      "original": "/api/wallpaper/mocha/biking-sunset.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/biking-sunset.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/biking-sunset.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/biking-sunset.jpg"
     },
     "tags": [
       "minimal",
@@ -41877,9 +41877,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-72edcba9a93d.webp",
-      "preview": "/api/wallpaper/mocha/bkg3_bkg5.png",
-      "original": "/api/wallpaper/mocha/bkg3_bkg5.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bkg3_bkg5.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bkg3_bkg5.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bkg3_bkg5.png"
     },
     "tags": [
       "minimal",
@@ -41924,9 +41924,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-542c6950108a.webp",
-      "preview": "/api/wallpaper/mocha/black5_unicat.png",
-      "original": "/api/wallpaper/mocha/black5_unicat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/black5_unicat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/black5_unicat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/black5_unicat.png"
     },
     "tags": [
       "minimal",
@@ -41971,9 +41971,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d1ac459ef8fe.webp",
-      "preview": "/api/wallpaper/mocha/blobgirl.png",
-      "original": "/api/wallpaper/mocha/blobgirl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blobgirl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blobgirl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blobgirl.png"
     },
     "tags": [
       "minimal",
@@ -42018,9 +42018,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ac89c0b689e2.webp",
-      "preview": "/api/wallpaper/mocha/blue-kaiju.png",
-      "original": "/api/wallpaper/mocha/blue-kaiju.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue-kaiju.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue-kaiju.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue-kaiju.png"
     },
     "tags": [
       "minimal",
@@ -42065,9 +42065,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-24041263af92.webp",
-      "preview": "/api/wallpaper/mocha/blue-landscape.png",
-      "original": "/api/wallpaper/mocha/blue-landscape.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue-landscape.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue-landscape.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue-landscape.png"
     },
     "tags": [
       "minimal",
@@ -42112,9 +42112,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5a4f6fb508cf.webp",
-      "preview": "/api/wallpaper/mocha/blue_bkg5.png",
-      "original": "/api/wallpaper/mocha/blue_bkg5.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue_bkg5.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue_bkg5.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/blue_bkg5.png"
     },
     "tags": [
       "minimal",
@@ -42159,9 +42159,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c29b266423f7.webp",
-      "preview": "/api/wallpaper/mocha/Bocchi.png",
-      "original": "/api/wallpaper/mocha/Bocchi.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bocchi.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bocchi.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bocchi.png"
     },
     "tags": [
       "minimal",
@@ -42206,9 +42206,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-01876e0a82db.webp",
-      "preview": "/api/wallpaper/mocha/Bridge.jpg",
-      "original": "/api/wallpaper/mocha/Bridge.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bridge.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bridge.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Bridge.jpg"
     },
     "tags": [
       "minimal",
@@ -42254,9 +42254,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fcc05cff0eb7.webp",
-      "preview": "/api/wallpaper/mocha/bridge.png",
-      "original": "/api/wallpaper/mocha/bridge.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bridge.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bridge.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bridge.png"
     },
     "tags": [
       "minimal",
@@ -42302,9 +42302,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fe8785a40c95.webp",
-      "preview": "/api/wallpaper/mocha/bsod.png",
-      "original": "/api/wallpaper/mocha/bsod.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bsod.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bsod.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bsod.png"
     },
     "tags": [
       "minimal",
@@ -42349,9 +42349,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e969a437980e.webp",
-      "preview": "/api/wallpaper/mocha/butterFly.png",
-      "original": "/api/wallpaper/mocha/butterFly.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/butterFly.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/butterFly.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/butterFly.png"
     },
     "tags": [
       "minimal",
@@ -42396,9 +42396,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-38801225bfb5.webp",
-      "preview": "/api/wallpaper/mocha/buttons.png",
-      "original": "/api/wallpaper/mocha/buttons.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/buttons.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/buttons.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/buttons.png"
     },
     "tags": [
       "minimal",
@@ -42443,9 +42443,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-52489a824c29.webp",
-      "preview": "/api/wallpaper/mocha/bvnbbvn.jpg",
-      "original": "/api/wallpaper/mocha/bvnbbvn.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bvnbbvn.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bvnbbvn.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/bvnbbvn.jpg"
     },
     "tags": [
       "minimal",
@@ -42490,9 +42490,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1357c167161e.webp",
-      "preview": "/api/wallpaper/mocha/cabin.jpg",
-      "original": "/api/wallpaper/mocha/cabin.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cabin.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cabin.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cabin.jpg"
     },
     "tags": [
       "minimal",
@@ -42537,9 +42537,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3a66174a6448.webp",
-      "preview": "/api/wallpaper/mocha/cabin.png",
-      "original": "/api/wallpaper/mocha/cabin.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cabin.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cabin.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cabin.png"
     },
     "tags": [
       "mocha",
@@ -42586,9 +42586,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0be162c28f93.webp",
-      "preview": "/api/wallpaper/mocha/cafe-girls.png",
-      "original": "/api/wallpaper/mocha/cafe-girls.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cafe-girls.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cafe-girls.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cafe-girls.png"
     },
     "tags": [
       "minimal",
@@ -42633,9 +42633,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7db8a2e78266.webp",
-      "preview": "/api/wallpaper/mocha/car-2.png",
-      "original": "/api/wallpaper/mocha/car-2.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/car-2.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/car-2.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/car-2.png"
     },
     "tags": [
       "minimal",
@@ -42681,8 +42681,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-3fede02c6f36.webp",
-      "preview": "/api/wallpaper/mocha/car-3.png",
-      "original": "/api/wallpaper/mocha/car-3.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/car-3.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/car-3.png"
     },
     "tags": [
       "minimal",
@@ -42727,9 +42727,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-12440ebf3af0.webp",
-      "preview": "/api/wallpaper/mocha/cartoon-castle.png",
-      "original": "/api/wallpaper/mocha/cartoon-castle.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cartoon-castle.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cartoon-castle.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cartoon-castle.png"
     },
     "tags": [
       "minimal",
@@ -42774,9 +42774,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0ac3a5d3d573.webp",
-      "preview": "/api/wallpaper/mocha/cat-sound.png",
-      "original": "/api/wallpaper/mocha/cat-sound.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat-sound.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat-sound.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat-sound.png"
     },
     "tags": [
       "minimal",
@@ -42821,9 +42821,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f15563df257e.webp",
-      "preview": "/api/wallpaper/mocha/cat.png",
-      "original": "/api/wallpaper/mocha/cat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat.png"
     },
     "tags": [
       "minimal",
@@ -42868,9 +42868,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b3e9c6912564.webp",
-      "preview": "/api/wallpaper/mocha/cat11.png",
-      "original": "/api/wallpaper/mocha/cat11.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat11.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat11.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat11.png"
     },
     "tags": [
       "minimal",
@@ -42915,9 +42915,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6260be19c806.webp",
-      "preview": "/api/wallpaper/mocha/cat_anime-girl.png",
-      "original": "/api/wallpaper/mocha/cat_anime-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_anime-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_anime-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_anime-girl.png"
     },
     "tags": [
       "mocha",
@@ -42964,9 +42964,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a8eac70beb0c.webp",
-      "preview": "/api/wallpaper/mocha/cat_bunnies.png",
-      "original": "/api/wallpaper/mocha/cat_bunnies.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_bunnies.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_bunnies.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_bunnies.png"
     },
     "tags": [
       "minimal",
@@ -43011,9 +43011,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7fa76b4f94bb.webp",
-      "preview": "/api/wallpaper/mocha/cat_colors.png",
-      "original": "/api/wallpaper/mocha/cat_colors.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_colors.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_colors.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_colors.png"
     },
     "tags": [
       "minimal",
@@ -43058,9 +43058,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-87de6c8eefff.webp",
-      "preview": "/api/wallpaper/mocha/cat_firewatch.png",
-      "original": "/api/wallpaper/mocha/cat_firewatch.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_firewatch.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_firewatch.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_firewatch.png"
     },
     "tags": [
       "minimal",
@@ -43105,9 +43105,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cbb22dbea30a.webp",
-      "preview": "/api/wallpaper/mocha/cat_leaves.png",
-      "original": "/api/wallpaper/mocha/cat_leaves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_leaves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_leaves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cat_leaves.png"
     },
     "tags": [
       "minimal",
@@ -43152,9 +43152,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6180d05629de.webp",
-      "preview": "/api/wallpaper/mocha/Catpuccin_Omori_Q.png",
-      "original": "/api/wallpaper/mocha/Catpuccin_Omori_Q.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Catpuccin_Omori_Q.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Catpuccin_Omori_Q.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Catpuccin_Omori_Q.png"
     },
     "tags": [
       "minimal",
@@ -43199,9 +43199,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a2e653ab62c0.webp",
-      "preview": "/api/wallpaper/mocha/cats-computer-simple-background-minimalism-monochrome-2283948-wallhere.com.jpg",
-      "original": "/api/wallpaper/mocha/cats-computer-simple-background-minimalism-monochrome-2283948-wallhere.com.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cats-computer-simple-background-minimalism-monochrome-2283948-wallhere.com.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cats-computer-simple-background-minimalism-monochrome-2283948-wallhere.com.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cats-computer-simple-background-minimalism-monochrome-2283948-wallhere.com.jpg"
     },
     "tags": [
       "minimal",
@@ -43246,9 +43246,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b7aabddc614b.webp",
-      "preview": "/api/wallpaper/mocha/cave-story-cat-mocha.jpg",
-      "original": "/api/wallpaper/mocha/cave-story-cat-mocha.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cave-story-cat-mocha.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cave-story-cat-mocha.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cave-story-cat-mocha.jpg"
     },
     "tags": [
       "minimal",
@@ -43293,9 +43293,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c4243749d0e5.webp",
-      "preview": "/api/wallpaper/mocha/cave-story.jpg",
-      "original": "/api/wallpaper/mocha/cave-story.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cave-story.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cave-story.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cave-story.jpg"
     },
     "tags": [
       "minimal",
@@ -43340,9 +43340,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b8aae7c4358e.webp",
-      "preview": "/api/wallpaper/mocha/chess-gate.jpg",
-      "original": "/api/wallpaper/mocha/chess-gate.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/chess-gate.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/chess-gate.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/chess-gate.jpg"
     },
     "tags": [
       "minimal",
@@ -43387,9 +43387,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8cb57f839e8d.webp",
-      "preview": "/api/wallpaper/mocha/cottages-river.png",
-      "original": "/api/wallpaper/mocha/cottages-river.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cottages-river.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cottages-river.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cottages-river.png"
     },
     "tags": [
       "minimal",
@@ -43435,9 +43435,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8f11680bd757.webp",
-      "preview": "/api/wallpaper/mocha/cowboy.png",
-      "original": "/api/wallpaper/mocha/cowboy.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cowboy.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cowboy.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cowboy.png"
     },
     "tags": [
       "minimal",
@@ -43482,9 +43482,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-abf8b0db5989.webp",
-      "preview": "/api/wallpaper/mocha/cut_rainbow.png",
-      "original": "/api/wallpaper/mocha/cut_rainbow.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cut_rainbow.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cut_rainbow.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cut_rainbow.png"
     },
     "tags": [
       "minimal",
@@ -43529,9 +43529,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-91c13723ef4b.webp",
-      "preview": "/api/wallpaper/mocha/cyberpunk-2.png",
-      "original": "/api/wallpaper/mocha/cyberpunk-2.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-2.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-2.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-2.png"
     },
     "tags": [
       "minimal",
@@ -43576,9 +43576,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-73f4785b7fe4.webp",
-      "preview": "/api/wallpaper/mocha/cyberpunk-5.png",
-      "original": "/api/wallpaper/mocha/cyberpunk-5.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-5.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-5.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-5.png"
     },
     "tags": [
       "minimal",
@@ -43623,9 +43623,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5bae43a5db91.webp",
-      "preview": "/api/wallpaper/mocha/cyberpunk-6.png",
-      "original": "/api/wallpaper/mocha/cyberpunk-6.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-6.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-6.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/cyberpunk-6.png"
     },
     "tags": [
       "minimal",
@@ -43670,9 +43670,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-504f822d7230.webp",
-      "preview": "/api/wallpaper/mocha/dark-cat-rosewater.png",
-      "original": "/api/wallpaper/mocha/dark-cat-rosewater.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dark-cat-rosewater.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dark-cat-rosewater.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dark-cat-rosewater.png"
     },
     "tags": [
       "minimal",
@@ -43718,9 +43718,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5963089ea914.webp",
-      "preview": "/api/wallpaper/mocha/dark-forest.jpg",
-      "original": "/api/wallpaper/mocha/dark-forest.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dark-forest.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dark-forest.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dark-forest.jpg"
     },
     "tags": [
       "minimal",
@@ -43766,9 +43766,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7ddb2a32e71a.webp",
-      "preview": "/api/wallpaper/mocha/darker_unicat.png",
-      "original": "/api/wallpaper/mocha/darker_unicat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/darker_unicat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/darker_unicat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/darker_unicat.png"
     },
     "tags": [
       "minimal",
@@ -43813,9 +43813,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2ddd5b415d13.webp",
-      "preview": "/api/wallpaper/mocha/debianfetch.png",
-      "original": "/api/wallpaper/mocha/debianfetch.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/debianfetch.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/debianfetch.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/debianfetch.png"
     },
     "tags": [
       "minimal",
@@ -43860,9 +43860,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-26b58c309954.webp",
-      "preview": "/api/wallpaper/mocha/delorean.png",
-      "original": "/api/wallpaper/mocha/delorean.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/delorean.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/delorean.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/delorean.png"
     },
     "tags": [
       "minimal",
@@ -43907,9 +43907,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d5fb788e73dd.webp",
-      "preview": "/api/wallpaper/mocha/denji-5120x2880-8875.png",
-      "original": "/api/wallpaper/mocha/denji-5120x2880-8875.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/denji-5120x2880-8875.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/denji-5120x2880-8875.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/denji-5120x2880-8875.png"
     },
     "tags": [
       "minimal",
@@ -43954,9 +43954,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0253f925ef88.webp",
-      "preview": "/api/wallpaper/mocha/desolate-city-2.jpg",
-      "original": "/api/wallpaper/mocha/desolate-city-2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/desolate-city-2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/desolate-city-2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/desolate-city-2.jpg"
     },
     "tags": [
       "minimal",
@@ -44001,9 +44001,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8ab52d0634e6.webp",
-      "preview": "/api/wallpaper/mocha/desolate-city.jpg",
-      "original": "/api/wallpaper/mocha/desolate-city.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/desolate-city.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/desolate-city.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/desolate-city.jpg"
     },
     "tags": [
       "minimal",
@@ -44048,9 +44048,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5599e65adad9.webp",
-      "preview": "/api/wallpaper/mocha/dkyjlfrw08cd1.png",
-      "original": "/api/wallpaper/mocha/dkyjlfrw08cd1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dkyjlfrw08cd1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dkyjlfrw08cd1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dkyjlfrw08cd1.png"
     },
     "tags": [
       "minimal",
@@ -44095,9 +44095,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-691da6866345.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-1.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-1.jpg"
     },
     "tags": [
       "minimal",
@@ -44142,9 +44142,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0b6a864db080.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-10.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-10.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-10.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-10.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-10.jpg"
     },
     "tags": [
       "minimal",
@@ -44189,9 +44189,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-61180d2a09ae.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-17.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-17.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-17.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-17.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-17.jpg"
     },
     "tags": [
       "minimal",
@@ -44236,9 +44236,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e60fe4e818c8.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-2.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-2.jpg"
     },
     "tags": [
       "minimal",
@@ -44283,9 +44283,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bae9fdfe5311.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-3.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-3.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-3.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-3.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-3.jpg"
     },
     "tags": [
       "minimal",
@@ -44330,9 +44330,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e89b732c7dbf.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-4.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-4.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-4.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-4.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-4.jpg"
     },
     "tags": [
       "minimal",
@@ -44377,9 +44377,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5a7480c8993a.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-5.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-5.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-5.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-5.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-5.jpg"
     },
     "tags": [
       "minimal",
@@ -44424,9 +44424,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c8a3f59a614.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-7.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-7.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-7.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-7.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-7.jpg"
     },
     "tags": [
       "minimal",
@@ -44471,9 +44471,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-296e542b9a79.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-8.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-8.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-8.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-8.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-8.jpg"
     },
     "tags": [
       "minimal",
@@ -44518,9 +44518,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f85952a995ab.webp",
-      "preview": "/api/wallpaper/mocha/dominik-mayer-9.jpg",
-      "original": "/api/wallpaper/mocha/dominik-mayer-9.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-9.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-9.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/dominik-mayer-9.jpg"
     },
     "tags": [
       "minimal",
@@ -44565,9 +44565,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8e8c96050fd9.webp",
-      "preview": "/api/wallpaper/mocha/doom-catppuccin-l6.png",
-      "original": "/api/wallpaper/mocha/doom-catppuccin-l6.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/doom-catppuccin-l6.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/doom-catppuccin-l6.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/doom-catppuccin-l6.png"
     },
     "tags": [
       "minimal",
@@ -44612,9 +44612,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dc8c7fa324ad.webp",
-      "preview": "/api/wallpaper/mocha/doom-slayer.png",
-      "original": "/api/wallpaper/mocha/doom-slayer.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/doom-slayer.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/doom-slayer.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/doom-slayer.png"
     },
     "tags": [
       "minimal",
@@ -44659,9 +44659,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a11502d7f203.webp",
-      "preview": "/api/wallpaper/mocha/drowned-city-ascension-1.png",
-      "original": "/api/wallpaper/mocha/drowned-city-ascension-1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/drowned-city-ascension-1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/drowned-city-ascension-1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/drowned-city-ascension-1.png"
     },
     "tags": [
       "minimal",
@@ -44706,9 +44706,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bdeb3dd9ef49.webp",
-      "preview": "/api/wallpaper/mocha/drowned-city-ascension-2.png",
-      "original": "/api/wallpaper/mocha/drowned-city-ascension-2.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/drowned-city-ascension-2.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/drowned-city-ascension-2.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/drowned-city-ascension-2.png"
     },
     "tags": [
       "minimal",
@@ -44753,9 +44753,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5e07f1bd0541.webp",
-      "preview": "/api/wallpaper/mocha/edger-lucy.jpg",
-      "original": "/api/wallpaper/mocha/edger-lucy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/edger-lucy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/edger-lucy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/edger-lucy.jpg"
     },
     "tags": [
       "minimal",
@@ -44801,8 +44801,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-a889f3c0f2d9.webp",
-      "preview": "/api/wallpaper/mocha/end-of-evangelion.png",
-      "original": "/api/wallpaper/mocha/end-of-evangelion.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/end-of-evangelion.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/end-of-evangelion.png"
     },
     "tags": [
       "minimal",
@@ -44847,9 +44847,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d837e6927860.webp",
-      "preview": "/api/wallpaper/mocha/eyes_floating_trough_eternity_galaxy.png",
-      "original": "/api/wallpaper/mocha/eyes_floating_trough_eternity_galaxy.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/eyes_floating_trough_eternity_galaxy.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/eyes_floating_trough_eternity_galaxy.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/eyes_floating_trough_eternity_galaxy.png"
     },
     "tags": [
       "minimal",
@@ -44895,9 +44895,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-41b89fdb0378.webp",
-      "preview": "/api/wallpaper/mocha/fantasy-aesthetic.jpg",
-      "original": "/api/wallpaper/mocha/fantasy-aesthetic.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fantasy-aesthetic.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fantasy-aesthetic.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fantasy-aesthetic.jpg"
     },
     "tags": [
       "minimal",
@@ -44942,9 +44942,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-94e5fd9907c4.webp",
-      "preview": "/api/wallpaper/mocha/fantasy-city.jpg",
-      "original": "/api/wallpaper/mocha/fantasy-city.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fantasy-city.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fantasy-city.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fantasy-city.jpg"
     },
     "tags": [
       "minimal",
@@ -44989,9 +44989,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3282f91ac59e.webp",
-      "preview": "/api/wallpaper/mocha/fight.jpg",
-      "original": "/api/wallpaper/mocha/fight.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fight.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fight.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fight.jpg"
     },
     "tags": [
       "minimal",
@@ -45036,9 +45036,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7e1e3b1ba420.webp",
-      "preview": "/api/wallpaper/mocha/flamingo-cat.png",
-      "original": "/api/wallpaper/mocha/flamingo-cat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flamingo-cat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flamingo-cat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flamingo-cat.png"
     },
     "tags": [
       "minimal",
@@ -45083,9 +45083,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5f4f524b5b5e.webp",
-      "preview": "/api/wallpaper/mocha/flatppuccin_4k_macchiato.png",
-      "original": "/api/wallpaper/mocha/flatppuccin_4k_macchiato.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flatppuccin_4k_macchiato.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flatppuccin_4k_macchiato.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flatppuccin_4k_macchiato.png"
     },
     "tags": [
       "minimal",
@@ -45130,9 +45130,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-40e07d15cc51.webp",
-      "preview": "/api/wallpaper/mocha/floating-flower.jpg",
-      "original": "/api/wallpaper/mocha/floating-flower.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/floating-flower.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/floating-flower.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/floating-flower.jpg"
     },
     "tags": [
       "minimal",
@@ -45177,9 +45177,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6363040fa3ce.webp",
-      "preview": "/api/wallpaper/mocha/flying-comets-clouds.jpg",
-      "original": "/api/wallpaper/mocha/flying-comets-clouds.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flying-comets-clouds.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flying-comets-clouds.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flying-comets-clouds.jpg"
     },
     "tags": [
       "minimal",
@@ -45225,9 +45225,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b9cb1da48d86.webp",
-      "preview": "/api/wallpaper/mocha/flying_whale.png",
-      "original": "/api/wallpaper/mocha/flying_whale.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flying_whale.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flying_whale.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/flying_whale.png"
     },
     "tags": [
       "minimal",
@@ -45273,8 +45273,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-5e08d063cf15.webp",
-      "preview": "/api/wallpaper/mocha/focus_only_on_your_art_difference_fra.jpg",
-      "original": "/api/wallpaper/mocha/focus_only_on_your_art_difference_fra.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/focus_only_on_your_art_difference_fra.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/focus_only_on_your_art_difference_fra.jpg"
     },
     "tags": [
       "minimal",
@@ -45320,8 +45320,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-62729b1c6fd8.webp",
-      "preview": "/api/wallpaper/mocha/focus_only_on_your_art_negation_mac.jpg",
-      "original": "/api/wallpaper/mocha/focus_only_on_your_art_negation_mac.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/focus_only_on_your_art_negation_mac.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/focus_only_on_your_art_negation_mac.jpg"
     },
     "tags": [
       "minimal",
@@ -45366,9 +45366,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-88ec4f5bdfee.webp",
-      "preview": "/api/wallpaper/mocha/focus_only_on_your_art_negation_moc.webp",
-      "original": "/api/wallpaper/mocha/focus_only_on_your_art_negation_moc.webp"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/focus_only_on_your_art_negation_moc.webp?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/focus_only_on_your_art_negation_moc.webp?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/focus_only_on_your_art_negation_moc.webp"
     },
     "tags": [
       "minimal",
@@ -45413,9 +45413,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3afa31d3fd09.webp",
-      "preview": "/api/wallpaper/mocha/foggy-city.jpg",
-      "original": "/api/wallpaper/mocha/foggy-city.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/foggy-city.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/foggy-city.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/foggy-city.jpg"
     },
     "tags": [
       "minimal",
@@ -45460,9 +45460,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ca754de4734b.webp",
-      "preview": "/api/wallpaper/mocha/foggy-city.png",
-      "original": "/api/wallpaper/mocha/foggy-city.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/foggy-city.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/foggy-city.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/foggy-city.png"
     },
     "tags": [
       "minimal",
@@ -45507,9 +45507,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b33c15d64051.webp",
-      "preview": "/api/wallpaper/mocha/fox-clearing.png",
-      "original": "/api/wallpaper/mocha/fox-clearing.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fox-clearing.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fox-clearing.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fox-clearing.png"
     },
     "tags": [
       "minimal",
@@ -45554,9 +45554,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-61aaf683afa6.webp",
-      "preview": "/api/wallpaper/mocha/fractal.png",
-      "original": "/api/wallpaper/mocha/fractal.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fractal.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fractal.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/fractal.png"
     },
     "tags": [
       "mocha",
@@ -45603,9 +45603,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d49277aa18d3.webp",
-      "preview": "/api/wallpaper/mocha/frieren.jpg",
-      "original": "/api/wallpaper/mocha/frieren.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/frieren.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/frieren.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/frieren.jpg"
     },
     "tags": [
       "minimal",
@@ -45650,9 +45650,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1079c9e08966.webp",
-      "preview": "/api/wallpaper/mocha/funny86.png",
-      "original": "/api/wallpaper/mocha/funny86.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/funny86.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/funny86.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/funny86.png"
     },
     "tags": [
       "minimal",
@@ -45697,9 +45697,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1f15723116d4.webp",
-      "preview": "/api/wallpaper/mocha/futuristic_city_red_eye.png",
-      "original": "/api/wallpaper/mocha/futuristic_city_red_eye.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/futuristic_city_red_eye.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/futuristic_city_red_eye.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/futuristic_city_red_eye.png"
     },
     "tags": [
       "minimal",
@@ -45744,9 +45744,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-38c603f7db91.webp",
-      "preview": "/api/wallpaper/mocha/galaxy-waves.jpg",
-      "original": "/api/wallpaper/mocha/galaxy-waves.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/galaxy-waves.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/galaxy-waves.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/galaxy-waves.jpg"
     },
     "tags": [
       "minimal",
@@ -45792,9 +45792,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-45340cbf183d.webp",
-      "preview": "/api/wallpaper/mocha/gear5.png",
-      "original": "/api/wallpaper/mocha/gear5.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gear5.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gear5.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gear5.png"
     },
     "tags": [
       "minimal",
@@ -45839,9 +45839,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4147dd489a8c.webp",
-      "preview": "/api/wallpaper/mocha/genshin-inazuma.jpg",
-      "original": "/api/wallpaper/mocha/genshin-inazuma.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-inazuma.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-inazuma.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-inazuma.jpg"
     },
     "tags": [
       "minimal",
@@ -45886,9 +45886,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c989733a4312.webp",
-      "preview": "/api/wallpaper/mocha/genshin-mona.jpg",
-      "original": "/api/wallpaper/mocha/genshin-mona.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-mona.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-mona.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-mona.jpg"
     },
     "tags": [
       "minimal",
@@ -45934,8 +45934,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-fd7966f6ffbe.webp",
-      "preview": "/api/wallpaper/mocha/genshin-noelle.jpg",
-      "original": "/api/wallpaper/mocha/genshin-noelle.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-noelle.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-noelle.jpg"
     },
     "tags": [
       "minimal",
@@ -45980,9 +45980,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f3c5d037d048.webp",
-      "preview": "/api/wallpaper/mocha/genshin-xiao.png",
-      "original": "/api/wallpaper/mocha/genshin-xiao.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-xiao.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-xiao.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/genshin-xiao.png"
     },
     "tags": [
       "minimal",
@@ -46027,9 +46027,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-33df22cb8ffa.webp",
-      "preview": "/api/wallpaper/mocha/gentlemen-sunset.png",
-      "original": "/api/wallpaper/mocha/gentlemen-sunset.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gentlemen-sunset.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gentlemen-sunset.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gentlemen-sunset.png"
     },
     "tags": [
       "minimal",
@@ -46075,9 +46075,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e5f2e01a18e3.webp",
-      "preview": "/api/wallpaper/mocha/gentlemen.png",
-      "original": "/api/wallpaper/mocha/gentlemen.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gentlemen.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gentlemen.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gentlemen.png"
     },
     "tags": [
       "minimal",
@@ -46122,9 +46122,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6e19bc789346.webp",
-      "preview": "/api/wallpaper/mocha/ghostty.png",
-      "original": "/api/wallpaper/mocha/ghostty.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ghostty.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ghostty.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ghostty.png"
     },
     "tags": [
       "minimal",
@@ -46169,9 +46169,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1ea7e2e68559.webp",
-      "preview": "/api/wallpaper/mocha/girl.png",
-      "original": "/api/wallpaper/mocha/girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/girl.png"
     },
     "tags": [
       "minimal",
@@ -46216,9 +46216,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9e70802418e0.webp",
-      "preview": "/api/wallpaper/mocha/gojo.png",
-      "original": "/api/wallpaper/mocha/gojo.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gojo.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gojo.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gojo.png"
     },
     "tags": [
       "minimal",
@@ -46263,9 +46263,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1901c9efc2cd.webp",
-      "preview": "/api/wallpaper/mocha/good_fellas.png",
-      "original": "/api/wallpaper/mocha/good_fellas.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/good_fellas.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/good_fellas.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/good_fellas.png"
     },
     "tags": [
       "minimal",
@@ -46311,8 +46311,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-ba2450eb3373.webp",
-      "preview": "/api/wallpaper/mocha/gradient-synth-cat.png",
-      "original": "/api/wallpaper/mocha/gradient-synth-cat.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gradient-synth-cat.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/gradient-synth-cat.png"
     },
     "tags": [
       "minimal",
@@ -46357,9 +46357,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2eed4f3069c4.webp",
-      "preview": "/api/wallpaper/mocha/guts-artwork-3840x2160-21418.jpg",
-      "original": "/api/wallpaper/mocha/guts-artwork-3840x2160-21418.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-artwork-3840x2160-21418.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-artwork-3840x2160-21418.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-artwork-3840x2160-21418.jpg"
     },
     "tags": [
       "minimal",
@@ -46404,9 +46404,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a0d5a2e68ab8.webp",
-      "preview": "/api/wallpaper/mocha/guts-berserker-1.jpg",
-      "original": "/api/wallpaper/mocha/guts-berserker-1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-1.jpg"
     },
     "tags": [
       "minimal",
@@ -46451,9 +46451,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-27d385c2246b.webp",
-      "preview": "/api/wallpaper/mocha/guts-berserker-2.jpg",
-      "original": "/api/wallpaper/mocha/guts-berserker-2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-2.jpg"
     },
     "tags": [
       "minimal",
@@ -46498,9 +46498,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-40956da83c7c.webp",
-      "preview": "/api/wallpaper/mocha/guts-berserker-3.jpg",
-      "original": "/api/wallpaper/mocha/guts-berserker-3.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-3.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-3.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-berserker-3.jpg"
     },
     "tags": [
       "minimal",
@@ -46545,9 +46545,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6b7264b69134.webp",
-      "preview": "/api/wallpaper/mocha/guts-dragonslayer.jpg",
-      "original": "/api/wallpaper/mocha/guts-dragonslayer.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-dragonslayer.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-dragonslayer.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-dragonslayer.jpg"
     },
     "tags": [
       "minimal",
@@ -46592,9 +46592,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a35b4b6e81f6.webp",
-      "preview": "/api/wallpaper/mocha/guts-happy.jpg",
-      "original": "/api/wallpaper/mocha/guts-happy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-happy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-happy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guts-happy.jpg"
     },
     "tags": [
       "minimal",
@@ -46639,9 +46639,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-159581f7eb3c.webp",
-      "preview": "/api/wallpaper/mocha/guy-majou.jpg",
-      "original": "/api/wallpaper/mocha/guy-majou.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guy-majou.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guy-majou.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/guy-majou.jpg"
     },
     "tags": [
       "minimal",
@@ -46686,9 +46686,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-58c626f2f76e.webp",
-      "preview": "/api/wallpaper/mocha/hacker.png",
-      "original": "/api/wallpaper/mocha/hacker.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hacker.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hacker.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hacker.png"
     },
     "tags": [
       "minimal",
@@ -46733,9 +46733,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5269fc211218.webp",
-      "preview": "/api/wallpaper/mocha/harbor-1.jpg",
-      "original": "/api/wallpaper/mocha/harbor-1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/harbor-1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/harbor-1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/harbor-1.jpg"
     },
     "tags": [
       "minimal",
@@ -46780,9 +46780,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-911883569e09.webp",
-      "preview": "/api/wallpaper/mocha/harbor-2.jpg",
-      "original": "/api/wallpaper/mocha/harbor-2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/harbor-2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/harbor-2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/harbor-2.jpg"
     },
     "tags": [
       "minimal",
@@ -46827,9 +46827,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c552612375f.webp",
-      "preview": "/api/wallpaper/mocha/hashtags-black.png",
-      "original": "/api/wallpaper/mocha/hashtags-black.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hashtags-black.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hashtags-black.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hashtags-black.png"
     },
     "tags": [
       "minimal",
@@ -46874,9 +46874,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-607b45693121.webp",
-      "preview": "/api/wallpaper/mocha/hashtags-new.png",
-      "original": "/api/wallpaper/mocha/hashtags-new.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hashtags-new.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hashtags-new.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hashtags-new.png"
     },
     "tags": [
       "minimal",
@@ -46921,9 +46921,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-eaa7d268f02a.webp",
-      "preview": "/api/wallpaper/mocha/hello-worlds.png",
-      "original": "/api/wallpaper/mocha/hello-worlds.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hello-worlds.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hello-worlds.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hello-worlds.png"
     },
     "tags": [
       "mocha",
@@ -46970,9 +46970,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cfc757ddd2bd.webp",
-      "preview": "/api/wallpaper/mocha/hgjjhggh.jpg",
-      "original": "/api/wallpaper/mocha/hgjjhggh.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hgjjhggh.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hgjjhggh.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hgjjhggh.jpg"
     },
     "tags": [
       "minimal",
@@ -47017,9 +47017,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-49b8d0e44585.webp",
-      "preview": "/api/wallpaper/mocha/HOGi.png",
-      "original": "/api/wallpaper/mocha/HOGi.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/HOGi.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/HOGi.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/HOGi.png"
     },
     "tags": [
       "minimal",
@@ -47064,9 +47064,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1852e9faa102.webp",
-      "preview": "/api/wallpaper/mocha/hollow-knight.jpg",
-      "original": "/api/wallpaper/mocha/hollow-knight.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow-knight.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow-knight.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow-knight.jpg"
     },
     "tags": [
       "minimal",
@@ -47112,9 +47112,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c36cf5879f10.webp",
-      "preview": "/api/wallpaper/mocha/hollow-knight.png",
-      "original": "/api/wallpaper/mocha/hollow-knight.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow-knight.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow-knight.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow-knight.png"
     },
     "tags": [
       "minimal",
@@ -47160,9 +47160,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-231770c172d5.webp",
-      "preview": "/api/wallpaper/mocha/hollow.jpg",
-      "original": "/api/wallpaper/mocha/hollow.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hollow.jpg"
     },
     "tags": [
       "minimal",
@@ -47207,9 +47207,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f88dff693270.webp",
-      "preview": "/api/wallpaper/mocha/hoodie.png",
-      "original": "/api/wallpaper/mocha/hoodie.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hoodie.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hoodie.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/hoodie.png"
     },
     "tags": [
       "minimal",
@@ -47254,9 +47254,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d8ffb00e18a0.webp",
-      "preview": "/api/wallpaper/mocha/ign_batman.png",
-      "original": "/api/wallpaper/mocha/ign_batman.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_batman.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_batman.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_batman.png"
     },
     "tags": [
       "minimal",
@@ -47301,9 +47301,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3ac6ee048e11.webp",
-      "preview": "/api/wallpaper/mocha/ign_black.jpg",
-      "original": "/api/wallpaper/mocha/ign_black.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_black.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_black.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_black.jpg"
     },
     "tags": [
       "minimal",
@@ -47348,9 +47348,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-54b9faebec22.webp",
-      "preview": "/api/wallpaper/mocha/ign_chainsaw-man.png",
-      "original": "/api/wallpaper/mocha/ign_chainsaw-man.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chainsaw-man.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chainsaw-man.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chainsaw-man.png"
     },
     "tags": [
       "minimal",
@@ -47395,9 +47395,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6f9fef711e1a.webp",
-      "preview": "/api/wallpaper/mocha/ign_chineseIG.png",
-      "original": "/api/wallpaper/mocha/ign_chineseIG.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chineseIG.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chineseIG.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chineseIG.png"
     },
     "tags": [
       "minimal",
@@ -47442,9 +47442,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ce332b1d6b67.webp",
-      "preview": "/api/wallpaper/mocha/ign_chomusuke.png",
-      "original": "/api/wallpaper/mocha/ign_chomusuke.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chomusuke.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chomusuke.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_chomusuke.png"
     },
     "tags": [
       "minimal",
@@ -47489,9 +47489,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-37bfd2b6584f.webp",
-      "preview": "/api/wallpaper/mocha/ign_outer_space.png",
-      "original": "/api/wallpaper/mocha/ign_outer_space.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_outer_space.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_outer_space.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_outer_space.png"
     },
     "tags": [
       "minimal",
@@ -47537,9 +47537,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d89f0b116415.webp",
-      "preview": "/api/wallpaper/mocha/ign_travelling.jpg",
-      "original": "/api/wallpaper/mocha/ign_travelling.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_travelling.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_travelling.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/ign_travelling.jpg"
     },
     "tags": [
       "minimal",
@@ -47584,9 +47584,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8d20a14828bd.webp",
-      "preview": "/api/wallpaper/mocha/image.png",
-      "original": "/api/wallpaper/mocha/image.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image.png"
     },
     "tags": [
       "minimal",
@@ -47631,9 +47631,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4d991f30b0ab.webp",
-      "preview": "/api/wallpaper/mocha/image1.png",
-      "original": "/api/wallpaper/mocha/image1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image1.png"
     },
     "tags": [
       "minimal",
@@ -47678,9 +47678,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5b1c54858a6f.webp",
-      "preview": "/api/wallpaper/mocha/image2.png",
-      "original": "/api/wallpaper/mocha/image2.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image2.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image2.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/image2.png"
     },
     "tags": [
       "minimal",
@@ -47725,9 +47725,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3fdf34d6d923.webp",
-      "preview": "/api/wallpaper/mocha/index.png",
-      "original": "/api/wallpaper/mocha/index.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/index.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/index.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/index.png"
     },
     "tags": [
       "minimal",
@@ -47772,9 +47772,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fec1bcec37ce.webp",
-      "preview": "/api/wallpaper/mocha/japan-alley.png",
-      "original": "/api/wallpaper/mocha/japan-alley.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/japan-alley.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/japan-alley.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/japan-alley.png"
     },
     "tags": [
       "minimal",
@@ -47819,9 +47819,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-22f161f768fc.webp",
-      "preview": "/api/wallpaper/mocha/japan-retro.jpg",
-      "original": "/api/wallpaper/mocha/japan-retro.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/japan-retro.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/japan-retro.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/japan-retro.jpg"
     },
     "tags": [
       "minimal",
@@ -47866,9 +47866,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-50978eed104b.webp",
-      "preview": "/api/wallpaper/mocha/jjk-all.png",
-      "original": "/api/wallpaper/mocha/jjk-all.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/jjk-all.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/jjk-all.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/jjk-all.png"
     },
     "tags": [
       "minimal",
@@ -47914,8 +47914,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-629395913115.webp",
-      "preview": "/api/wallpaper/mocha/jXW1QWa.png",
-      "original": "/api/wallpaper/mocha/jXW1QWa.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/jXW1QWa.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/jXW1QWa.png"
     },
     "tags": [
       "minimal",
@@ -47961,8 +47961,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-80a9c4c1afc1.webp",
-      "preview": "/api/wallpaper/mocha/kali.png",
-      "original": "/api/wallpaper/mocha/kali.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/kali.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/kali.png"
     },
     "tags": [
       "minimal",
@@ -48007,9 +48007,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-00a971ce2f6f.webp",
-      "preview": "/api/wallpaper/mocha/keyboards.png",
-      "original": "/api/wallpaper/mocha/keyboards.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/keyboards.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/keyboards.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/keyboards.png"
     },
     "tags": [
       "minimal",
@@ -48054,9 +48054,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8f9af975e0c0.webp",
-      "preview": "/api/wallpaper/mocha/Kita.png",
-      "original": "/api/wallpaper/mocha/Kita.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Kita.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Kita.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Kita.png"
     },
     "tags": [
       "minimal",
@@ -48101,9 +48101,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bd2a9bb9ebfb.webp",
-      "preview": "/api/wallpaper/mocha/knight-building.png",
-      "original": "/api/wallpaper/mocha/knight-building.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/knight-building.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/knight-building.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/knight-building.png"
     },
     "tags": [
       "minimal",
@@ -48149,9 +48149,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5cb45c7f8191.webp",
-      "preview": "/api/wallpaper/mocha/knights-radiant.jpg",
-      "original": "/api/wallpaper/mocha/knights-radiant.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/knights-radiant.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/knights-radiant.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/knights-radiant.jpg"
     },
     "tags": [
       "minimal",
@@ -48197,9 +48197,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-71456b75b0fd.webp",
-      "preview": "/api/wallpaper/mocha/lain.png",
-      "original": "/api/wallpaper/mocha/lain.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lain.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lain.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lain.png"
     },
     "tags": [
       "minimal",
@@ -48244,9 +48244,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-85894dc3f078.webp",
-      "preview": "/api/wallpaper/mocha/lainascii.png",
-      "original": "/api/wallpaper/mocha/lainascii.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lainascii.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lainascii.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lainascii.png"
     },
     "tags": [
       "minimal",
@@ -48292,8 +48292,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-1969e74aa327.webp",
-      "preview": "/api/wallpaper/mocha/lake-irl.jpg",
-      "original": "/api/wallpaper/mocha/lake-irl.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lake-irl.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lake-irl.jpg"
     },
     "tags": [
       "minimal",
@@ -48339,9 +48339,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8a7400b55141.webp",
-      "preview": "/api/wallpaper/mocha/lavender-cat.png",
-      "original": "/api/wallpaper/mocha/lavender-cat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lavender-cat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lavender-cat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lavender-cat.png"
     },
     "tags": [
       "minimal",
@@ -48386,9 +48386,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0dbaec5c6942.webp",
-      "preview": "/api/wallpaper/mocha/lep.png",
-      "original": "/api/wallpaper/mocha/lep.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lep.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lep.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lep.png"
     },
     "tags": [
       "minimal",
@@ -48434,8 +48434,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-58b5c5a4385c.webp",
-      "preview": "/api/wallpaper/mocha/lighthouse.jpg",
-      "original": "/api/wallpaper/mocha/lighthouse.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lighthouse.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lighthouse.jpg"
     },
     "tags": [
       "minimal",
@@ -48480,9 +48480,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-254d1fdc2980.webp",
-      "preview": "/api/wallpaper/mocha/link-click-1.png",
-      "original": "/api/wallpaper/mocha/link-click-1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/link-click-1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/link-click-1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/link-click-1.png"
     },
     "tags": [
       "minimal",
@@ -48527,9 +48527,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-76c8a076726e.webp",
-      "preview": "/api/wallpaper/mocha/literal-wallpaper.png",
-      "original": "/api/wallpaper/mocha/literal-wallpaper.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/literal-wallpaper.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/literal-wallpaper.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/literal-wallpaper.png"
     },
     "tags": [
       "mocha",
@@ -48576,9 +48576,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-06c3c0f0fdc2.webp",
-      "preview": "/api/wallpaper/mocha/lofi-girl-1.jpg",
-      "original": "/api/wallpaper/mocha/lofi-girl-1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lofi-girl-1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lofi-girl-1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lofi-girl-1.jpg"
     },
     "tags": [
       "minimal",
@@ -48623,9 +48623,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bf1bcabe5953.webp",
-      "preview": "/api/wallpaper/mocha/lofi-girl-2.jpg",
-      "original": "/api/wallpaper/mocha/lofi-girl-2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lofi-girl-2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lofi-girl-2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/lofi-girl-2.jpg"
     },
     "tags": [
       "minimal",
@@ -48670,9 +48670,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c474ad6cf009.webp",
-      "preview": "/api/wallpaper/mocha/looking_firework_inside.png",
-      "original": "/api/wallpaper/mocha/looking_firework_inside.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/looking_firework_inside.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/looking_firework_inside.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/looking_firework_inside.png"
     },
     "tags": [
       "minimal",
@@ -48717,9 +48717,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bd4d5637320e.webp",
-      "preview": "/api/wallpaper/mocha/luffy-1.jpg",
-      "original": "/api/wallpaper/mocha/luffy-1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/luffy-1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/luffy-1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/luffy-1.jpg"
     },
     "tags": [
       "minimal",
@@ -48764,9 +48764,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4075fe0f4e0c.webp",
-      "preview": "/api/wallpaper/mocha/macchiato-hald8-cyberpunkish.png",
-      "original": "/api/wallpaper/mocha/macchiato-hald8-cyberpunkish.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/macchiato-hald8-cyberpunkish.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/macchiato-hald8-cyberpunkish.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/macchiato-hald8-cyberpunkish.png"
     },
     "tags": [
       "minimal",
@@ -48811,9 +48811,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ecb06ed097d7.webp",
-      "preview": "/api/wallpaper/mocha/makima-csm.jpg",
-      "original": "/api/wallpaper/mocha/makima-csm.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/makima-csm.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/makima-csm.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/makima-csm.jpg"
     },
     "tags": [
       "minimal",
@@ -48858,9 +48858,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b7817d2bc5cd.webp",
-      "preview": "/api/wallpaper/mocha/makima_chain.png",
-      "original": "/api/wallpaper/mocha/makima_chain.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/makima_chain.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/makima_chain.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/makima_chain.png"
     },
     "tags": [
       "minimal",
@@ -48905,9 +48905,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1f68602f23a9.webp",
-      "preview": "/api/wallpaper/mocha/man-colors.jpg",
-      "original": "/api/wallpaper/mocha/man-colors.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/man-colors.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/man-colors.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/man-colors.jpg"
     },
     "tags": [
       "minimal",
@@ -48953,9 +48953,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b248c5cd8c11.webp",
-      "preview": "/api/wallpaper/mocha/math.png",
-      "original": "/api/wallpaper/mocha/math.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/math.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/math.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/math.png"
     },
     "tags": [
       "minimal",
@@ -49000,9 +49000,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ef13e20a2aa2.webp",
-      "preview": "/api/wallpaper/mocha/Mayer.png",
-      "original": "/api/wallpaper/mocha/Mayer.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Mayer.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Mayer.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Mayer.png"
     },
     "tags": [
       "minimal",
@@ -49047,9 +49047,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-09190b0e093d.webp",
-      "preview": "/api/wallpaper/mocha/minim-helmet.png",
-      "original": "/api/wallpaper/mocha/minim-helmet.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/minim-helmet.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/minim-helmet.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/minim-helmet.png"
     },
     "tags": [
       "minimal",
@@ -49095,9 +49095,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b6aacbee88c6.webp",
-      "preview": "/api/wallpaper/mocha/minimal_nord_guy.png",
-      "original": "/api/wallpaper/mocha/minimal_nord_guy.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/minimal_nord_guy.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/minimal_nord_guy.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/minimal_nord_guy.png"
     },
     "tags": [
       "minimal",
@@ -49143,9 +49143,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-38b5b0df225f.webp",
-      "preview": "/api/wallpaper/mocha/Mocha-hald10-01_png.png.png",
-      "original": "/api/wallpaper/mocha/Mocha-hald10-01_png.png.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Mocha-hald10-01_png.png.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Mocha-hald10-01_png.png.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Mocha-hald10-01_png.png.png"
     },
     "tags": [
       "minimal",
@@ -49190,9 +49190,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1796847346b5.webp",
-      "preview": "/api/wallpaper/mocha/monster.png",
-      "original": "/api/wallpaper/mocha/monster.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/monster.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/monster.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/monster.png"
     },
     "tags": [
       "minimal",
@@ -49237,9 +49237,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bf35106bfac5.webp",
-      "preview": "/api/wallpaper/mocha/naruto.png",
-      "original": "/api/wallpaper/mocha/naruto.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/naruto.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/naruto.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/naruto.png"
     },
     "tags": [
       "naruto",
@@ -49287,9 +49287,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-18cb0cb62213.webp",
-      "preview": "/api/wallpaper/mocha/neighborhood.png",
-      "original": "/api/wallpaper/mocha/neighborhood.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/neighborhood.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/neighborhood.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/neighborhood.png"
     },
     "tags": [
       "minimal",
@@ -49334,9 +49334,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-afa3ad197be8.webp",
-      "preview": "/api/wallpaper/mocha/Nijika.png",
-      "original": "/api/wallpaper/mocha/Nijika.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Nijika.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Nijika.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Nijika.png"
     },
     "tags": [
       "minimal",
@@ -49381,9 +49381,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f55121d12602.webp",
-      "preview": "/api/wallpaper/mocha/nord-chainsaw.png",
-      "original": "/api/wallpaper/mocha/nord-chainsaw.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord-chainsaw.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord-chainsaw.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord-chainsaw.png"
     },
     "tags": [
       "mocha",
@@ -49430,9 +49430,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-191b7db2072d.webp",
-      "preview": "/api/wallpaper/mocha/nord-princess-zelda.jpg",
-      "original": "/api/wallpaper/mocha/nord-princess-zelda.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord-princess-zelda.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord-princess-zelda.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord-princess-zelda.jpg"
     },
     "tags": [
       "mocha",
@@ -49479,9 +49479,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-64e45172c9b4.webp",
-      "preview": "/api/wallpaper/mocha/nord_minimal_cat.png",
-      "original": "/api/wallpaper/mocha/nord_minimal_cat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord_minimal_cat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord_minimal_cat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/nord_minimal_cat.png"
     },
     "tags": [
       "mocha",
@@ -49528,9 +49528,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ee97f5750297.webp",
-      "preview": "/api/wallpaper/mocha/omori-1.png",
-      "original": "/api/wallpaper/mocha/omori-1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/omori-1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/omori-1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/omori-1.png"
     },
     "tags": [
       "minimal",
@@ -49576,8 +49576,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-7598315c87f4.webp",
-      "preview": "/api/wallpaper/mocha/one-piece-luffy-1.png",
-      "original": "/api/wallpaper/mocha/one-piece-luffy-1.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/one-piece-luffy-1.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/one-piece-luffy-1.png"
     },
     "tags": [
       "minimal",
@@ -49623,8 +49623,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-a93bd0450326.webp",
-      "preview": "/api/wallpaper/mocha/one-piece.png",
-      "original": "/api/wallpaper/mocha/one-piece.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/one-piece.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/one-piece.png"
     },
     "tags": [
       "minimal",
@@ -49669,9 +49669,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-97709f0715e9.webp",
-      "preview": "/api/wallpaper/mocha/onedark-bash.png",
-      "original": "/api/wallpaper/mocha/onedark-bash.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/onedark-bash.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/onedark-bash.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/onedark-bash.png"
     },
     "tags": [
       "minimal",
@@ -49716,9 +49716,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bef39e97c614.webp",
-      "preview": "/api/wallpaper/mocha/open_sourcerer.png",
-      "original": "/api/wallpaper/mocha/open_sourcerer.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/open_sourcerer.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/open_sourcerer.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/open_sourcerer.png"
     },
     "tags": [
       "minimal",
@@ -49763,9 +49763,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f0a5c1516f17.webp",
-      "preview": "/api/wallpaper/mocha/oversized-cat.jpg",
-      "original": "/api/wallpaper/mocha/oversized-cat.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/oversized-cat.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/oversized-cat.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/oversized-cat.jpg"
     },
     "tags": [
       "minimal",
@@ -49810,9 +49810,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-38571b963f34.webp",
-      "preview": "/api/wallpaper/mocha/pacman-nord.png",
-      "original": "/api/wallpaper/mocha/pacman-nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pacman-nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pacman-nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pacman-nord.png"
     },
     "tags": [
       "pacman",
@@ -49859,9 +49859,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8a8841c3d44f.webp",
-      "preview": "/api/wallpaper/mocha/pain.jpg",
-      "original": "/api/wallpaper/mocha/pain.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pain.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pain.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pain.jpg"
     },
     "tags": [
       "minimal",
@@ -49907,8 +49907,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-921eab973aa1.webp",
-      "preview": "/api/wallpaper/mocha/pastel-car.png",
-      "original": "/api/wallpaper/mocha/pastel-car.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pastel-car.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pastel-car.png"
     },
     "tags": [
       "mocha",
@@ -49956,8 +49956,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-a55323695824.webp",
-      "preview": "/api/wallpaper/mocha/pastel-city.png",
-      "original": "/api/wallpaper/mocha/pastel-city.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pastel-city.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pastel-city.png"
     },
     "tags": [
       "city",
@@ -50005,9 +50005,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b3b29ac5190e.webp",
-      "preview": "/api/wallpaper/mocha/pixel-earth.png",
-      "original": "/api/wallpaper/mocha/pixel-earth.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pixel-earth.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pixel-earth.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pixel-earth.png"
     },
     "tags": [
       "gray",
@@ -50054,9 +50054,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1ed40f028ecc.webp",
-      "preview": "/api/wallpaper/mocha/pixelmoon.png",
-      "original": "/api/wallpaper/mocha/pixelmoon.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pixelmoon.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pixelmoon.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pixelmoon.png"
     },
     "tags": [
       "minimal",
@@ -50102,9 +50102,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-58176a08f68a.webp",
-      "preview": "/api/wallpaper/mocha/plane.png",
-      "original": "/api/wallpaper/mocha/plane.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/plane.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/plane.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/plane.png"
     },
     "tags": [
       "minimal",
@@ -50149,9 +50149,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bf70d265fa6f.webp",
-      "preview": "/api/wallpaper/mocha/police.png",
-      "original": "/api/wallpaper/mocha/police.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/police.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/police.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/police.png"
     },
     "tags": [
       "minimal",
@@ -50196,9 +50196,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-52b8de5b5373.webp",
-      "preview": "/api/wallpaper/mocha/pompeii.png",
-      "original": "/api/wallpaper/mocha/pompeii.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pompeii.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pompeii.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pompeii.png"
     },
     "tags": [
       "minimal",
@@ -50243,9 +50243,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0760784e9576.webp",
-      "preview": "/api/wallpaper/mocha/pool.jpg",
-      "original": "/api/wallpaper/mocha/pool.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pool.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pool.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/pool.jpg"
     },
     "tags": [
       "minimal",
@@ -50290,9 +50290,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-27de55f84be9.webp",
-      "preview": "/api/wallpaper/mocha/purple-girl.png",
-      "original": "/api/wallpaper/mocha/purple-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/purple-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/purple-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/purple-girl.png"
     },
     "tags": [
       "mocha",
@@ -50340,9 +50340,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b5152fb198e6.webp",
-      "preview": "/api/wallpaper/mocha/python-minim.png",
-      "original": "/api/wallpaper/mocha/python-minim.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/python-minim.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/python-minim.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/python-minim.png"
     },
     "tags": [
       "minimal",
@@ -50388,9 +50388,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a989a103918f.webp",
-      "preview": "/api/wallpaper/mocha/rain.jpg",
-      "original": "/api/wallpaper/mocha/rain.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/rain.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/rain.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/rain.jpg"
     },
     "tags": [
       "minimal",
@@ -50435,9 +50435,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9f4e0db4922d.webp",
-      "preview": "/api/wallpaper/mocha/rain_girl.jpg",
-      "original": "/api/wallpaper/mocha/rain_girl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/rain_girl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/rain_girl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/rain_girl.jpg"
     },
     "tags": [
       "minimal",
@@ -50482,9 +50482,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dc158257b959.webp",
-      "preview": "/api/wallpaper/mocha/result_3.png",
-      "original": "/api/wallpaper/mocha/result_3.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/result_3.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/result_3.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/result_3.png"
     },
     "tags": [
       "minimal",
@@ -50529,9 +50529,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a2b5b8341ad5.webp",
-      "preview": "/api/wallpaper/mocha/Ryo.png",
-      "original": "/api/wallpaper/mocha/Ryo.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Ryo.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Ryo.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Ryo.png"
     },
     "tags": [
       "minimal",
@@ -50576,9 +50576,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-025fb859046e.webp",
-      "preview": "/api/wallpaper/mocha/s4vitar.png",
-      "original": "/api/wallpaper/mocha/s4vitar.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/s4vitar.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/s4vitar.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/s4vitar.png"
     },
     "tags": [
       "hack",
@@ -50626,9 +50626,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-eaa8238863ec.webp",
-      "preview": "/api/wallpaper/mocha/samurai.jpg",
-      "original": "/api/wallpaper/mocha/samurai.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/samurai.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/samurai.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/samurai.jpg"
     },
     "tags": [
       "minimal",
@@ -50673,9 +50673,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cfba0fe8b259.webp",
-      "preview": "/api/wallpaper/mocha/shiny-colors.png",
-      "original": "/api/wallpaper/mocha/shiny-colors.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/shiny-colors.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/shiny-colors.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/shiny-colors.png"
     },
     "tags": [
       "mocha",
@@ -50723,9 +50723,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2d6e5c6b0c4a.webp",
-      "preview": "/api/wallpaper/mocha/space-piano.png",
-      "original": "/api/wallpaper/mocha/space-piano.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/space-piano.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/space-piano.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/space-piano.png"
     },
     "tags": [
       "minimal",
@@ -50771,9 +50771,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f468f8eb2115.webp",
-      "preview": "/api/wallpaper/mocha/space.png",
-      "original": "/api/wallpaper/mocha/space.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/space.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/space.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/space.png"
     },
     "tags": [
       "minimal",
@@ -50819,9 +50819,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2c8556afdd13.webp",
-      "preview": "/api/wallpaper/mocha/spoiderman.png",
-      "original": "/api/wallpaper/mocha/spoiderman.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/spoiderman.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/spoiderman.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/spoiderman.png"
     },
     "tags": [
       "minimal",
@@ -50866,9 +50866,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c1d24cb04a8d.webp",
-      "preview": "/api/wallpaper/mocha/spooky_spill.jpg",
-      "original": "/api/wallpaper/mocha/spooky_spill.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/spooky_spill.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/spooky_spill.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/spooky_spill.jpg"
     },
     "tags": [
       "minimal",
@@ -50913,9 +50913,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-674d011da7c7.webp",
-      "preview": "/api/wallpaper/mocha/staringcat.png",
-      "original": "/api/wallpaper/mocha/staringcat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/staringcat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/staringcat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/staringcat.png"
     },
     "tags": [
       "minimal",
@@ -50961,9 +50961,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c5bc9428c19a.webp",
-      "preview": "/api/wallpaper/mocha/steampunk.jpg",
-      "original": "/api/wallpaper/mocha/steampunk.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/steampunk.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/steampunk.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/steampunk.jpg"
     },
     "tags": [
       "minimal",
@@ -51008,9 +51008,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c772877d7528.webp",
-      "preview": "/api/wallpaper/mocha/Street.jpg",
-      "original": "/api/wallpaper/mocha/Street.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Street.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Street.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Street.jpg"
     },
     "tags": [
       "minimal",
@@ -51056,9 +51056,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-68342a537802.webp",
-      "preview": "/api/wallpaper/mocha/street.png",
-      "original": "/api/wallpaper/mocha/street.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/street.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/street.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/street.png"
     },
     "tags": [
       "minimal",
@@ -51104,9 +51104,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-81e93f5fdcd5.webp",
-      "preview": "/api/wallpaper/mocha/street_graffiti_miku.png",
-      "original": "/api/wallpaper/mocha/street_graffiti_miku.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/street_graffiti_miku.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/street_graffiti_miku.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/street_graffiti_miku.png"
     },
     "tags": [
       "minimal",
@@ -51152,9 +51152,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-683641e48005.webp",
-      "preview": "/api/wallpaper/mocha/stripes.png",
-      "original": "/api/wallpaper/mocha/stripes.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/stripes.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/stripes.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/stripes.png"
     },
     "tags": [
       "minimal",
@@ -51199,9 +51199,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7722ef2fd30f.webp",
-      "preview": "/api/wallpaper/mocha/switch.jpg",
-      "original": "/api/wallpaper/mocha/switch.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/switch.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/switch.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/switch.jpg"
     },
     "tags": [
       "minimal",
@@ -51246,9 +51246,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-65c4d45bef9b.webp",
-      "preview": "/api/wallpaper/mocha/temple-sky.jpg",
-      "original": "/api/wallpaper/mocha/temple-sky.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/temple-sky.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/temple-sky.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/temple-sky.jpg"
     },
     "tags": [
       "minimal",
@@ -51294,9 +51294,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5c78426397c9.webp",
-      "preview": "/api/wallpaper/mocha/tetris.png",
-      "original": "/api/wallpaper/mocha/tetris.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/tetris.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/tetris.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/tetris.png"
     },
     "tags": [
       "minimal",
@@ -51341,9 +51341,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-be969a3b9e14.webp",
-      "preview": "/api/wallpaper/mocha/Texto_do_seu_paragrafo_Papel_de_parede_20250930_123931_0000.png",
-      "original": "/api/wallpaper/mocha/Texto_do_seu_paragrafo_Papel_de_parede_20250930_123931_0000.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Texto_do_seu_paragrafo_Papel_de_parede_20250930_123931_0000.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Texto_do_seu_paragrafo_Papel_de_parede_20250930_123931_0000.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Texto_do_seu_paragrafo_Papel_de_parede_20250930_123931_0000.png"
     },
     "tags": [
       "minimal",
@@ -51388,9 +51388,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0dac74bc3b93.webp",
-      "preview": "/api/wallpaper/mocha/tree.jpg",
-      "original": "/api/wallpaper/mocha/tree.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/tree.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/tree.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/tree.jpg"
     },
     "tags": [
       "minimal",
@@ -51436,9 +51436,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-11aa62834de8.webp",
-      "preview": "/api/wallpaper/mocha/underwater.png",
-      "original": "/api/wallpaper/mocha/underwater.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/underwater.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/underwater.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/underwater.png"
     },
     "tags": [
       "mocha",
@@ -51486,9 +51486,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5219ba9a6dc1.webp",
-      "preview": "/api/wallpaper/mocha/unicat.png",
-      "original": "/api/wallpaper/mocha/unicat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/unicat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/unicat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/unicat.png"
     },
     "tags": [
       "minimal",
@@ -51533,9 +51533,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b2fdccc20e28.webp",
-      "preview": "/api/wallpaper/mocha/Untitled-1.png",
-      "original": "/api/wallpaper/mocha/Untitled-1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Untitled-1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Untitled-1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/Untitled-1.png"
     },
     "tags": [
       "minimal",
@@ -51580,9 +51580,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-eef05390a831.webp",
-      "preview": "/api/wallpaper/mocha/usrbinsh.jpg",
-      "original": "/api/wallpaper/mocha/usrbinsh.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/usrbinsh.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/usrbinsh.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/usrbinsh.jpg"
     },
     "tags": [
       "minimal",
@@ -51627,9 +51627,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a7ea05b67200.webp",
-      "preview": "/api/wallpaper/mocha/van-chilling-cyberpunk.png",
-      "original": "/api/wallpaper/mocha/van-chilling-cyberpunk.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/van-chilling-cyberpunk.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/van-chilling-cyberpunk.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/van-chilling-cyberpunk.png"
     },
     "tags": [
       "minimal",
@@ -51675,9 +51675,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1a49f2a138b8.webp",
-      "preview": "/api/wallpaper/mocha/voyager-15.jpg",
-      "original": "/api/wallpaper/mocha/voyager-15.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-15.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-15.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-15.jpg"
     },
     "tags": [
       "minimal",
@@ -51722,9 +51722,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-64e3a62b9e61.webp",
-      "preview": "/api/wallpaper/mocha/voyager-16.jpg",
-      "original": "/api/wallpaper/mocha/voyager-16.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-16.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-16.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-16.jpg"
     },
     "tags": [
       "minimal",
@@ -51769,9 +51769,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ca9cfbe9b7db.webp",
-      "preview": "/api/wallpaper/mocha/voyager-20.jpg",
-      "original": "/api/wallpaper/mocha/voyager-20.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-20.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-20.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-20.jpg"
     },
     "tags": [
       "minimal",
@@ -51816,9 +51816,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b00c27a07da9.webp",
-      "preview": "/api/wallpaper/mocha/voyager-21.jpg",
-      "original": "/api/wallpaper/mocha/voyager-21.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-21.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-21.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/voyager-21.jpg"
     },
     "tags": [
       "minimal",
@@ -51863,9 +51863,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0343d7807e1a.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-1p5z71.jpg",
-      "original": "/api/wallpaper/mocha/wallhaven-1p5z71.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-1p5z71.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-1p5z71.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-1p5z71.jpg"
     },
     "tags": [
       "minimal",
@@ -51910,9 +51910,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-52fa92a3fe17.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-21k2d6.jpg",
-      "original": "/api/wallpaper/mocha/wallhaven-21k2d6.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-21k2d6.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-21k2d6.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-21k2d6.jpg"
     },
     "tags": [
       "minimal",
@@ -51957,9 +51957,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4b05a11c8208.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-73153v.jpg",
-      "original": "/api/wallpaper/mocha/wallhaven-73153v.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-73153v.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-73153v.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-73153v.jpg"
     },
     "tags": [
       "minimal",
@@ -52004,9 +52004,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-073ae6d8169f.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-e7m8zl.jpg",
-      "original": "/api/wallpaper/mocha/wallhaven-e7m8zl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-e7m8zl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-e7m8zl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-e7m8zl.jpg"
     },
     "tags": [
       "minimal",
@@ -52051,9 +52051,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d36c0e00d4e3.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-e8ewgk.png",
-      "original": "/api/wallpaper/mocha/wallhaven-e8ewgk.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-e8ewgk.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-e8ewgk.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-e8ewgk.png"
     },
     "tags": [
       "minimal",
@@ -52098,9 +52098,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e82252ddfc90.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-k875o6.png",
-      "original": "/api/wallpaper/mocha/wallhaven-k875o6.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-k875o6.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-k875o6.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-k875o6.png"
     },
     "tags": [
       "minimal",
@@ -52145,9 +52145,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1e1a69c130e5.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-ly8xmy.jpg",
-      "original": "/api/wallpaper/mocha/wallhaven-ly8xmy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-ly8xmy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-ly8xmy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-ly8xmy.jpg"
     },
     "tags": [
       "minimal",
@@ -52192,9 +52192,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-268f07a2b446.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-nzepoo.png",
-      "original": "/api/wallpaper/mocha/wallhaven-nzepoo.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-nzepoo.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-nzepoo.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-nzepoo.png"
     },
     "tags": [
       "minimal",
@@ -52239,9 +52239,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8f95a776a728.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-p9zjrj.png",
-      "original": "/api/wallpaper/mocha/wallhaven-p9zjrj.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-p9zjrj.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-p9zjrj.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-p9zjrj.png"
     },
     "tags": [
       "minimal",
@@ -52286,9 +52286,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5cadd54a8841.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-qrzjjl.jpg",
-      "original": "/api/wallpaper/mocha/wallhaven-qrzjjl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-qrzjjl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-qrzjjl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-qrzjjl.jpg"
     },
     "tags": [
       "minimal",
@@ -52333,9 +52333,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8a71b12d4143.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-qzgkzd.png",
-      "original": "/api/wallpaper/mocha/wallhaven-qzgkzd.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-qzgkzd.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-qzgkzd.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-qzgkzd.png"
     },
     "tags": [
       "minimal",
@@ -52381,8 +52381,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-41edf590ed06.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-xep9vv.png",
-      "original": "/api/wallpaper/mocha/wallhaven-xep9vv.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-xep9vv.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-xep9vv.png"
     },
     "tags": [
       "minimal",
@@ -52427,9 +52427,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4b31a63b42f2.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-xezg2z.jpg",
-      "original": "/api/wallpaper/mocha/wallhaven-xezg2z.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-xezg2z.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-xezg2z.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-xezg2z.jpg"
     },
     "tags": [
       "minimal",
@@ -52474,9 +52474,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d344d18aaf04.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-yqgkml.png",
-      "original": "/api/wallpaper/mocha/wallhaven-yqgkml.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-yqgkml.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-yqgkml.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-yqgkml.png"
     },
     "tags": [
       "minimal",
@@ -52521,9 +52521,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-12f34c3fa853.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-zpx3xw.png",
-      "original": "/api/wallpaper/mocha/wallhaven-zpx3xw.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-zpx3xw.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-zpx3xw.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-zpx3xw.png"
     },
     "tags": [
       "minimal",
@@ -52568,9 +52568,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-71bbe546da67.webp",
-      "preview": "/api/wallpaper/mocha/wallhaven-zpz6ro.png",
-      "original": "/api/wallpaper/mocha/wallhaven-zpz6ro.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-zpz6ro.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-zpz6ro.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallhaven-zpz6ro.png"
     },
     "tags": [
       "minimal",
@@ -52615,9 +52615,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1ff436273da6.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(1).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(1).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(1).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(1).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(1).png"
     },
     "tags": [
       "minimal",
@@ -52662,9 +52662,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d6d1efe3876a.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(12).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(12).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(12).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(12).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(12).png"
     },
     "tags": [
       "minimal",
@@ -52709,9 +52709,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-348f9bd7ec09.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(14).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(14).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(14).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(14).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(14).png"
     },
     "tags": [
       "minimal",
@@ -52756,9 +52756,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ba1c94136806.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(20).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(20).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(20).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(20).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(20).png"
     },
     "tags": [
       "minimal",
@@ -52803,9 +52803,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8fc125b42568.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(21).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(21).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(21).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(21).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(21).png"
     },
     "tags": [
       "minimal",
@@ -52850,9 +52850,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c13c81af400.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(22).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(22).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(22).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(22).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(22).png"
     },
     "tags": [
       "minimal",
@@ -52897,9 +52897,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-929b375564d8.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(23).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(23).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(23).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(23).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(23).png"
     },
     "tags": [
       "minimal",
@@ -52944,9 +52944,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2a351938807d.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(25).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(25).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(25).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(25).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(25).png"
     },
     "tags": [
       "minimal",
@@ -52991,9 +52991,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-51bac447e709.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(26).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(26).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(26).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(26).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(26).png"
     },
     "tags": [
       "minimal",
@@ -53038,9 +53038,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ed6d86f1089c.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(27).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(27).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(27).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(27).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(27).png"
     },
     "tags": [
       "minimal",
@@ -53085,9 +53085,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-de8e99205865.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(28).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(28).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(28).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(28).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(28).png"
     },
     "tags": [
       "minimal",
@@ -53132,9 +53132,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2fe7fe650e95.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(29).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(29).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(29).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(29).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(29).png"
     },
     "tags": [
       "minimal",
@@ -53179,9 +53179,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e32738403699.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(30).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(30).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(30).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(30).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(30).png"
     },
     "tags": [
       "minimal",
@@ -53226,9 +53226,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a2af3fb7df2c.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(4).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(4).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(4).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(4).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(4).png"
     },
     "tags": [
       "minimal",
@@ -53273,9 +53273,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6b823ac85e5e.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(7).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(7).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(7).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(7).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(7).png"
     },
     "tags": [
       "minimal",
@@ -53320,9 +53320,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7fa365c83c90.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter(9).png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter(9).png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(9).png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(9).png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter(9).png"
     },
     "tags": [
       "minimal",
@@ -53367,9 +53367,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1ccc8581a7f2.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter.png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter.png"
     },
     "tags": [
       "minimal",
@@ -53414,9 +53414,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ff882fa7d280.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper-theme-converter9.png",
-      "original": "/api/wallpaper/mocha/wallpaper-theme-converter9.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter9.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter9.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper-theme-converter9.png"
     },
     "tags": [
       "minimal",
@@ -53461,9 +53461,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ce04f34b141d.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper.jpg",
-      "original": "/api/wallpaper/mocha/wallpaper.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper.jpg"
     },
     "tags": [
       "minimal",
@@ -53508,9 +53508,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-04ed4a1a0caf.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper.png",
-      "original": "/api/wallpaper/mocha/wallpaper.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper.png"
     },
     "tags": [
       "minimal",
@@ -53556,8 +53556,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-411973cf4d18.webp",
-      "preview": "/api/wallpaper/mocha/wallpaper_nord_1.png",
-      "original": "/api/wallpaper/mocha/wallpaper_nord_1.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper_nord_1.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wallpaper_nord_1.png"
     },
     "tags": [
       "mocha",
@@ -53604,9 +53604,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a22f9701cf36.webp",
-      "preview": "/api/wallpaper/mocha/wanderer.jpg",
-      "original": "/api/wallpaper/mocha/wanderer.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wanderer.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wanderer.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wanderer.jpg"
     },
     "tags": [
       "minimal",
@@ -53652,8 +53652,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-536ca6e752aa.webp",
-      "preview": "/api/wallpaper/mocha/wano_vector.png",
-      "original": "/api/wallpaper/mocha/wano_vector.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wano_vector.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wano_vector.png"
     },
     "tags": [
       "minimal",
@@ -53699,9 +53699,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-421db8b5fbbd.webp",
-      "preview": "/api/wallpaper/mocha/waterfall.png",
-      "original": "/api/wallpaper/mocha/waterfall.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waterfall.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waterfall.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waterfall.png"
     },
     "tags": [
       "minimal",
@@ -53747,9 +53747,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d6f48ad01d82.webp",
-      "preview": "/api/wallpaper/mocha/waves.png",
-      "original": "/api/wallpaper/mocha/waves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves.png"
     },
     "tags": [
       "minimal",
@@ -53795,9 +53795,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-24e32bc1aa28.webp",
-      "preview": "/api/wallpaper/mocha/waves_colored.png",
-      "original": "/api/wallpaper/mocha/waves_colored.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_colored.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_colored.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_colored.png"
     },
     "tags": [
       "minimal",
@@ -53843,9 +53843,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8ad2191e4ef7.webp",
-      "preview": "/api/wallpaper/mocha/waves_dracula_flipped.png",
-      "original": "/api/wallpaper/mocha/waves_dracula_flipped.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_dracula_flipped.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_dracula_flipped.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_dracula_flipped.png"
     },
     "tags": [
       "wave",
@@ -53893,9 +53893,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2eb82f82bbf3.webp",
-      "preview": "/api/wallpaper/mocha/waves_right_colored.png",
-      "original": "/api/wallpaper/mocha/waves_right_colored.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_right_colored.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_right_colored.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/waves_right_colored.png"
     },
     "tags": [
       "minimal",
@@ -53941,9 +53941,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b7f6268f3b0a.webp",
-      "preview": "/api/wallpaper/mocha/whoami_2.0.png",
-      "original": "/api/wallpaper/mocha/whoami_2.0.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/whoami_2.0.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/whoami_2.0.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/whoami_2.0.png"
     },
     "tags": [
       "minimal",
@@ -53988,9 +53988,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ff91eab40481.webp",
-      "preview": "/api/wallpaper/mocha/windows-black.png",
-      "original": "/api/wallpaper/mocha/windows-black.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-black.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-black.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-black.png"
     },
     "tags": [
       "minimal",
@@ -54035,9 +54035,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c7f8c8cc750f.webp",
-      "preview": "/api/wallpaper/mocha/windows-error.jpg",
-      "original": "/api/wallpaper/mocha/windows-error.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-error.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-error.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-error.jpg"
     },
     "tags": [
       "minimal",
@@ -54082,9 +54082,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d5886748890b.webp",
-      "preview": "/api/wallpaper/mocha/windows-magenta-blue.png",
-      "original": "/api/wallpaper/mocha/windows-magenta-blue.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-magenta-blue.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-magenta-blue.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-magenta-blue.png"
     },
     "tags": [
       "minimal",
@@ -54129,9 +54129,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-04c78d6be981.webp",
-      "preview": "/api/wallpaper/mocha/windows-magenta-pink.png",
-      "original": "/api/wallpaper/mocha/windows-magenta-pink.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-magenta-pink.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-magenta-pink.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows-magenta-pink.png"
     },
     "tags": [
       "minimal",
@@ -54177,8 +54177,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-26744ebca58d.webp",
-      "preview": "/api/wallpaper/mocha/windows.png",
-      "original": "/api/wallpaper/mocha/windows.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/windows.png"
     },
     "tags": [
       "minimal",
@@ -54223,9 +54223,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dbe728c1fd9b.webp",
-      "preview": "/api/wallpaper/mocha/witcher-1.png",
-      "original": "/api/wallpaper/mocha/witcher-1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/witcher-1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/witcher-1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/witcher-1.png"
     },
     "tags": [
       "minimal",
@@ -54270,9 +54270,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5741d6e2db29.webp",
-      "preview": "/api/wallpaper/mocha/wow_rose-pine.png",
-      "original": "/api/wallpaper/mocha/wow_rose-pine.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wow_rose-pine.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wow_rose-pine.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/wow_rose-pine.png"
     },
     "tags": [
       "minimal",
@@ -54317,9 +54317,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bb880f9264b1.webp",
-      "preview": "/api/wallpaper/mocha/x3xbfp5.jpg",
-      "original": "/api/wallpaper/mocha/x3xbfp5.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/x3xbfp5.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/x3xbfp5.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/x3xbfp5.jpg"
     },
     "tags": [
       "minimal",
@@ -54364,9 +54364,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fad4c2c67f1d.webp",
-      "preview": "/api/wallpaper/mocha/yessirsupra_abstract_wallaper_art_black_and_white_pink_lightnin_8f7141c7-e828-4329-97a8-8923e35b7488.png",
-      "original": "/api/wallpaper/mocha/yessirsupra_abstract_wallaper_art_black_and_white_pink_lightnin_8f7141c7-e828-4329-97a8-8923e35b7488.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/yessirsupra_abstract_wallaper_art_black_and_white_pink_lightnin_8f7141c7-e828-4329-97a8-8923e35b7488.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/yessirsupra_abstract_wallaper_art_black_and_white_pink_lightnin_8f7141c7-e828-4329-97a8-8923e35b7488.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/yessirsupra_abstract_wallaper_art_black_and_white_pink_lightnin_8f7141c7-e828-4329-97a8-8923e35b7488.png"
     },
     "tags": [
       "minimal",
@@ -54411,9 +54411,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9f8427955c0e.webp",
-      "preview": "/api/wallpaper/mocha/zzz.jpg",
-      "original": "/api/wallpaper/mocha/zzz.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/zzz.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/zzz.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/mocha/zzz.jpg"
     },
     "tags": [
       "minimal",
@@ -54458,9 +54458,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-429f452ed1c5.webp",
-      "preview": "/api/wallpaper/monochrome/005-yoru-asa.png",
-      "original": "/api/wallpaper/monochrome/005-yoru-asa.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/005-yoru-asa.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/005-yoru-asa.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/005-yoru-asa.png"
     },
     "tags": [
       "monochrome"
@@ -54503,9 +54503,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7b2189a445ea.webp",
-      "preview": "/api/wallpaper/monochrome/011-katana-girl.png",
-      "original": "/api/wallpaper/monochrome/011-katana-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/011-katana-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/011-katana-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/011-katana-girl.png"
     },
     "tags": [
       "monochrome"
@@ -54548,9 +54548,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bec53cb52942.webp",
-      "preview": "/api/wallpaper/monochrome/018-slumber.png",
-      "original": "/api/wallpaper/monochrome/018-slumber.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/018-slumber.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/018-slumber.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/018-slumber.png"
     },
     "tags": [
       "oled",
@@ -54594,9 +54594,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-68c210fd0bb7.webp",
-      "preview": "/api/wallpaper/monochrome/11.png",
-      "original": "/api/wallpaper/monochrome/11.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/11.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/11.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/11.png"
     },
     "tags": [
       "monochrome"
@@ -54639,9 +54639,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e11760ca3942.webp",
-      "preview": "/api/wallpaper/monochrome/137178733_p0_master1200.jpg",
-      "original": "/api/wallpaper/monochrome/137178733_p0_master1200.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/137178733_p0_master1200.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/137178733_p0_master1200.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/137178733_p0_master1200.jpg"
     },
     "tags": [
       "monochrome"
@@ -54684,9 +54684,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-14f2f52ba96e.webp",
-      "preview": "/api/wallpaper/monochrome/273CF7ED-4E23-4AB6-A743-E6484535A766_upscayl_2x_upscayl-standard-4x.png",
-      "original": "/api/wallpaper/monochrome/273CF7ED-4E23-4AB6-A743-E6484535A766_upscayl_2x_upscayl-standard-4x.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/273CF7ED-4E23-4AB6-A743-E6484535A766_upscayl_2x_upscayl-standard-4x.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/273CF7ED-4E23-4AB6-A743-E6484535A766_upscayl_2x_upscayl-standard-4x.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/273CF7ED-4E23-4AB6-A743-E6484535A766_upscayl_2x_upscayl-standard-4x.png"
     },
     "tags": [
       "oled",
@@ -54730,9 +54730,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2bf0510ad072.webp",
-      "preview": "/api/wallpaper/monochrome/4k.png",
-      "original": "/api/wallpaper/monochrome/4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/4k.png"
     },
     "tags": [
       "oled",
@@ -54776,9 +54776,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-80e91c47254d.webp",
-      "preview": "/api/wallpaper/monochrome/7a7aacdb-aa0d-41ad-9cee-05ac5f21e32d.png",
-      "original": "/api/wallpaper/monochrome/7a7aacdb-aa0d-41ad-9cee-05ac5f21e32d.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/7a7aacdb-aa0d-41ad-9cee-05ac5f21e32d.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/7a7aacdb-aa0d-41ad-9cee-05ac5f21e32d.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/7a7aacdb-aa0d-41ad-9cee-05ac5f21e32d.png"
     },
     "tags": [
       "monochrome"
@@ -54821,9 +54821,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6b3797c39754.webp",
-      "preview": "/api/wallpaper/monochrome/7AC0D36A-FC28-41AA-8998-C972E878A831_upscayl_2x_high-fidelity-4x.png",
-      "original": "/api/wallpaper/monochrome/7AC0D36A-FC28-41AA-8998-C972E878A831_upscayl_2x_high-fidelity-4x.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/7AC0D36A-FC28-41AA-8998-C972E878A831_upscayl_2x_high-fidelity-4x.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/7AC0D36A-FC28-41AA-8998-C972E878A831_upscayl_2x_high-fidelity-4x.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/7AC0D36A-FC28-41AA-8998-C972E878A831_upscayl_2x_high-fidelity-4x.png"
     },
     "tags": [
       "oled",
@@ -54867,9 +54867,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-59c8e33d4810.webp",
-      "preview": "/api/wallpaper/monochrome/8zdts9z.png",
-      "original": "/api/wallpaper/monochrome/8zdts9z.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/8zdts9z.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/8zdts9z.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/8zdts9z.png"
     },
     "tags": [
       "oled",
@@ -54913,9 +54913,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-691099028230.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_door.jpg",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_door.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_door.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_door.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_door.jpg"
     },
     "tags": [
       "monochrome"
@@ -54958,9 +54958,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-107ee53820f7.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_door_jpg.png",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_door_jpg.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_door_jpg.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_door_jpg.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_door_jpg.png"
     },
     "tags": [
       "monochrome"
@@ -55003,9 +55003,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4ed8a7b5e275.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_person_with_a_blindfold.png",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_person_with_a_blindfold.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_person_with_a_blindfold.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_person_with_a_blindfold.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_person_with_a_blindfold.png"
     },
     "tags": [
       "monochrome"
@@ -55048,9 +55048,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6d105f204aaf.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_robot_with_a_halo.png",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_drawing_of_a_robot_with_a_halo.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_robot_with_a_halo.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_robot_with_a_halo.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_drawing_of_a_robot_with_a_halo.png"
     },
     "tags": [
       "monochrome"
@@ -55093,9 +55093,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4db4e3d86599.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_group_of_people.png",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_group_of_people.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_group_of_people.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_group_of_people.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_group_of_people.png"
     },
     "tags": [
       "oled",
@@ -55139,9 +55139,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-40c01b2ae447.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_man.png",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_man.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_man.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_man.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_man.png"
     },
     "tags": [
       "monochrome"
@@ -55184,9 +55184,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ecb22447d132.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_room.jpg",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_room.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_room.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_room.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_room.jpg"
     },
     "tags": [
       "monochrome"
@@ -55229,9 +55229,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0b8200b93ce4.webp",
-      "preview": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_zombie.jpeg",
-      "original": "/api/wallpaper/monochrome/a_black_and_white_image_of_a_zombie.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_zombie.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_zombie.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_black_and_white_image_of_a_zombie.jpeg"
     },
     "tags": [
       "monochrome"
@@ -55274,9 +55274,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-934038eb89b3.webp",
-      "preview": "/api/wallpaper/monochrome/a_cartoon_of_a_person_holding_a_globe.jpg",
-      "original": "/api/wallpaper/monochrome/a_cartoon_of_a_person_holding_a_globe.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_cartoon_of_a_person_holding_a_globe.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_cartoon_of_a_person_holding_a_globe.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_cartoon_of_a_person_holding_a_globe.jpg"
     },
     "tags": [
       "oled",
@@ -55320,9 +55320,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3adc7949b354.webp",
-      "preview": "/api/wallpaper/monochrome/a_cartoon_of_a_woman_holding_a_sword.jpg",
-      "original": "/api/wallpaper/monochrome/a_cartoon_of_a_woman_holding_a_sword.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_cartoon_of_a_woman_holding_a_sword.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_cartoon_of_a_woman_holding_a_sword.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_cartoon_of_a_woman_holding_a_sword.jpg"
     },
     "tags": [
       "monochrome"
@@ -55365,9 +55365,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9770f1ab890e.webp",
-      "preview": "/api/wallpaper/monochrome/a_drawing_of_a_boy_in_a_hat_and_a_boat_in_a_swamp.jpeg",
-      "original": "/api/wallpaper/monochrome/a_drawing_of_a_boy_in_a_hat_and_a_boat_in_a_swamp.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_drawing_of_a_boy_in_a_hat_and_a_boat_in_a_swamp.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_drawing_of_a_boy_in_a_hat_and_a_boat_in_a_swamp.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_drawing_of_a_boy_in_a_hat_and_a_boat_in_a_swamp.jpeg"
     },
     "tags": [
       "earth",
@@ -55411,9 +55411,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c684dd5708d0.webp",
-      "preview": "/api/wallpaper/monochrome/a_person_in_a_hat_and_long_black_dress.png",
-      "original": "/api/wallpaper/monochrome/a_person_in_a_hat_and_long_black_dress.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_person_in_a_hat_and_long_black_dress.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_person_in_a_hat_and_long_black_dress.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_person_in_a_hat_and_long_black_dress.png"
     },
     "tags": [
       "monochrome"
@@ -55456,9 +55456,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-dac962439817.webp",
-      "preview": "/api/wallpaper/monochrome/a_person_sitting_on_a_wall.png",
-      "original": "/api/wallpaper/monochrome/a_person_sitting_on_a_wall.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_person_sitting_on_a_wall.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_person_sitting_on_a_wall.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_person_sitting_on_a_wall.png"
     },
     "tags": [
       "monochrome"
@@ -55501,9 +55501,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a187e9784a5e.webp",
-      "preview": "/api/wallpaper/monochrome/a_plane_in_the_dark.jpg",
-      "original": "/api/wallpaper/monochrome/a_plane_in_the_dark.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_plane_in_the_dark.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_plane_in_the_dark.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_plane_in_the_dark.jpg"
     },
     "tags": [
       "oled",
@@ -55547,9 +55547,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-440a60303c5c.webp",
-      "preview": "/api/wallpaper/monochrome/a_white_skull_with_black_eyes.jpg",
-      "original": "/api/wallpaper/monochrome/a_white_skull_with_black_eyes.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_white_skull_with_black_eyes.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_white_skull_with_black_eyes.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/a_white_skull_with_black_eyes.jpg"
     },
     "tags": [
       "oled",
@@ -55593,9 +55593,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1c3961ac5108.webp",
-      "preview": "/api/wallpaper/monochrome/abandoned.jpg",
-      "original": "/api/wallpaper/monochrome/abandoned.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/abandoned.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/abandoned.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/abandoned.jpg"
     },
     "tags": [
       "dark",
@@ -55641,9 +55641,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8dda4b108ab0.webp",
-      "preview": "/api/wallpaper/monochrome/amir-zand-r3mnant.jpg",
-      "original": "/api/wallpaper/monochrome/amir-zand-r3mnant.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/amir-zand-r3mnant.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/amir-zand-r3mnant.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/amir-zand-r3mnant.jpg"
     },
     "tags": [
       "oled",
@@ -55687,9 +55687,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8aace1ade308.webp",
-      "preview": "/api/wallpaper/monochrome/android-dark-lines.jpg",
-      "original": "/api/wallpaper/monochrome/android-dark-lines.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/android-dark-lines.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/android-dark-lines.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/android-dark-lines.jpg"
     },
     "tags": [
       "dark",
@@ -55780,9 +55780,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-37467a677fdc.webp",
-      "preview": "/api/wallpaper/monochrome/arch-eagle.png",
-      "original": "/api/wallpaper/monochrome/arch-eagle.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/arch-eagle.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/arch-eagle.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/arch-eagle.png"
     },
     "tags": [
       "arch",
@@ -55828,9 +55828,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e1cf5bf29f56.webp",
-      "preview": "/api/wallpaper/monochrome/b-050.jpg",
-      "original": "/api/wallpaper/monochrome/b-050.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-050.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-050.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-050.jpg"
     },
     "tags": [
       "monochrome"
@@ -55873,9 +55873,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8c67c8c40d89.webp",
-      "preview": "/api/wallpaper/monochrome/b-184.jpg",
-      "original": "/api/wallpaper/monochrome/b-184.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-184.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-184.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-184.jpg"
     },
     "tags": [
       "monochrome"
@@ -55918,9 +55918,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2fc8f44fc52d.webp",
-      "preview": "/api/wallpaper/monochrome/b-390.jpg",
-      "original": "/api/wallpaper/monochrome/b-390.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-390.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-390.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/b-390.jpg"
     },
     "tags": [
       "monochrome"
@@ -55963,9 +55963,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2c8909e52b6d.webp",
-      "preview": "/api/wallpaper/monochrome/B941D60B-250C-4BFF-A6EB-AF3FFF28607D_upscayl_2x_high-fidelity-4x.png",
-      "original": "/api/wallpaper/monochrome/B941D60B-250C-4BFF-A6EB-AF3FFF28607D_upscayl_2x_high-fidelity-4x.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/B941D60B-250C-4BFF-A6EB-AF3FFF28607D_upscayl_2x_high-fidelity-4x.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/B941D60B-250C-4BFF-A6EB-AF3FFF28607D_upscayl_2x_high-fidelity-4x.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/B941D60B-250C-4BFF-A6EB-AF3FFF28607D_upscayl_2x_high-fidelity-4x.png"
     },
     "tags": [
       "oled",
@@ -56009,9 +56009,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-170bcc000af2.webp",
-      "preview": "/api/wallpaper/monochrome/background.jpg",
-      "original": "/api/wallpaper/monochrome/background.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/background.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/background.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/background.jpg"
     },
     "tags": [
       "oled",
@@ -56055,9 +56055,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-942afed87c52.webp",
-      "preview": "/api/wallpaper/monochrome/backiee-266172-landscape.jpg",
-      "original": "/api/wallpaper/monochrome/backiee-266172-landscape.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/backiee-266172-landscape.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/backiee-266172-landscape.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/backiee-266172-landscape.jpg"
     },
     "tags": [
       "monochrome"
@@ -56100,9 +56100,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c2e033f49818.webp",
-      "preview": "/api/wallpaper/monochrome/backiee-269161-landscape.jpg",
-      "original": "/api/wallpaper/monochrome/backiee-269161-landscape.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/backiee-269161-landscape.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/backiee-269161-landscape.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/backiee-269161-landscape.jpg"
     },
     "tags": [
       "monochrome"
@@ -56145,9 +56145,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c164cf889d8a.webp",
-      "preview": "/api/wallpaper/monochrome/banheira.jpg",
-      "original": "/api/wallpaper/monochrome/banheira.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/banheira.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/banheira.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/banheira.jpg"
     },
     "tags": [
       "monochrome"
@@ -56190,9 +56190,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8cb0b496c5c1.webp",
-      "preview": "/api/wallpaper/monochrome/berserkskull.png",
-      "original": "/api/wallpaper/monochrome/berserkskull.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/berserkskull.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/berserkskull.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/berserkskull.png"
     },
     "tags": [
       "oled",
@@ -56236,9 +56236,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8487b1ce0606.webp",
-      "preview": "/api/wallpaper/monochrome/black white simple.jpg",
-      "original": "/api/wallpaper/monochrome/black white simple.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/black%20white%20simple.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/black%20white%20simple.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/black%20white%20simple.jpg"
     },
     "tags": [
       "monochrome"
@@ -56281,9 +56281,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a80352a15e07.webp",
-      "preview": "/api/wallpaper/monochrome/C0AAC0C2-6B51-46FE-BF8D-AE7032BF0964_upscayl_2x_high-fidelity-4x.png",
-      "original": "/api/wallpaper/monochrome/C0AAC0C2-6B51-46FE-BF8D-AE7032BF0964_upscayl_2x_high-fidelity-4x.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/C0AAC0C2-6B51-46FE-BF8D-AE7032BF0964_upscayl_2x_high-fidelity-4x.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/C0AAC0C2-6B51-46FE-BF8D-AE7032BF0964_upscayl_2x_high-fidelity-4x.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/C0AAC0C2-6B51-46FE-BF8D-AE7032BF0964_upscayl_2x_high-fidelity-4x.png"
     },
     "tags": [
       "oled",
@@ -56327,9 +56327,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f21352057132.webp",
-      "preview": "/api/wallpaper/monochrome/caesar.png",
-      "original": "/api/wallpaper/monochrome/caesar.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/caesar.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/caesar.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/caesar.png"
     },
     "tags": [
       "oled",
@@ -56373,9 +56373,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-23b606b27655.webp",
-      "preview": "/api/wallpaper/monochrome/camp_day.png",
-      "original": "/api/wallpaper/monochrome/camp_day.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/camp_day.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/camp_day.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/camp_day.png"
     },
     "tags": [
       "gray",
@@ -56422,9 +56422,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-61803609ab01.webp",
-      "preview": "/api/wallpaper/monochrome/cartoon_of_a_lamp_post_with_stars_and_hats.png",
-      "original": "/api/wallpaper/monochrome/cartoon_of_a_lamp_post_with_stars_and_hats.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cartoon_of_a_lamp_post_with_stars_and_hats.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cartoon_of_a_lamp_post_with_stars_and_hats.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cartoon_of_a_lamp_post_with_stars_and_hats.png"
     },
     "tags": [
       "sky",
@@ -56468,9 +56468,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-812773b5c05f.webp",
-      "preview": "/api/wallpaper/monochrome/christ.png",
-      "original": "/api/wallpaper/monochrome/christ.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/christ.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/christ.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/christ.png"
     },
     "tags": [
       "oled",
@@ -56514,9 +56514,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-156eb1ce6060.webp",
-      "preview": "/api/wallpaper/monochrome/circuits.png",
-      "original": "/api/wallpaper/monochrome/circuits.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/circuits.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/circuits.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/circuits.png"
     },
     "tags": [
       "gray",
@@ -56562,9 +56562,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-254a58107eea.webp",
-      "preview": "/api/wallpaper/monochrome/coffee.jpg",
-      "original": "/api/wallpaper/monochrome/coffee.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/coffee.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/coffee.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/coffee.jpg"
     },
     "tags": [
       "oled",
@@ -56610,9 +56610,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-aca38016d1a2.webp",
-      "preview": "/api/wallpaper/monochrome/cute-town-dark.png",
-      "original": "/api/wallpaper/monochrome/cute-town-dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cute-town-dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cute-town-dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cute-town-dark.png"
     },
     "tags": [
       "dark",
@@ -56657,9 +56657,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c0061c629c50.webp",
-      "preview": "/api/wallpaper/monochrome/cute-town.png",
-      "original": "/api/wallpaper/monochrome/cute-town.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cute-town.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cute-town.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/cute-town.png"
     },
     "tags": [
       "amber",
@@ -56705,9 +56705,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-36fe1c26f054.webp",
-      "preview": "/api/wallpaper/monochrome/dark_anm01.png",
-      "original": "/api/wallpaper/monochrome/dark_anm01.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_anm01.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_anm01.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_anm01.png"
     },
     "tags": [
       "monochrome"
@@ -56750,9 +56750,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-169e84606110.webp",
-      "preview": "/api/wallpaper/monochrome/dark_pixelart.png",
-      "original": "/api/wallpaper/monochrome/dark_pixelart.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_pixelart.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_pixelart.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_pixelart.png"
     },
     "tags": [
       "oled",
@@ -56796,9 +56796,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-61821aa4b35f.webp",
-      "preview": "/api/wallpaper/monochrome/dark_skulls.png",
-      "original": "/api/wallpaper/monochrome/dark_skulls.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_skulls.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_skulls.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/dark_skulls.png"
     },
     "tags": [
       "skulls",
@@ -56844,9 +56844,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-563713febf07.webp",
-      "preview": "/api/wallpaper/monochrome/detective-spiderman.jpg",
-      "original": "/api/wallpaper/monochrome/detective-spiderman.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/detective-spiderman.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/detective-spiderman.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/detective-spiderman.jpg"
     },
     "tags": [
       "oled",
@@ -56890,9 +56890,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-970c86c2c0e0.webp",
-      "preview": "/api/wallpaper/monochrome/Diseno_sin_titulo21.png",
-      "original": "/api/wallpaper/monochrome/Diseno_sin_titulo21.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Diseno_sin_titulo21.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Diseno_sin_titulo21.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Diseno_sin_titulo21.png"
     },
     "tags": [
       "oled",
@@ -56936,9 +56936,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-35faf5d352a4.webp",
-      "preview": "/api/wallpaper/monochrome/drowning.png",
-      "original": "/api/wallpaper/monochrome/drowning.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/drowning.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/drowning.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/drowning.png"
     },
     "tags": [
       "oled",
@@ -56982,9 +56982,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0e14cd25182c.webp",
-      "preview": "/api/wallpaper/monochrome/Elegant-woman.png",
-      "original": "/api/wallpaper/monochrome/Elegant-woman.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Elegant-woman.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Elegant-woman.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Elegant-woman.png"
     },
     "tags": [
       "monochrome"
@@ -57027,9 +57027,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ff6b46afea52.webp",
-      "preview": "/api/wallpaper/monochrome/elon-musk.png",
-      "original": "/api/wallpaper/monochrome/elon-musk.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/elon-musk.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/elon-musk.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/elon-musk.png"
     },
     "tags": [
       "minimal",
@@ -57074,9 +57074,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a314fb7b1ea1.webp",
-      "preview": "/api/wallpaper/monochrome/estrategy-minimal.png",
-      "original": "/api/wallpaper/monochrome/estrategy-minimal.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/estrategy-minimal.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/estrategy-minimal.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/estrategy-minimal.png"
     },
     "tags": [
       "minimal",
@@ -57121,9 +57121,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cc6ab096dbef.webp",
-      "preview": "/api/wallpaper/monochrome/eyebat.png",
-      "original": "/api/wallpaper/monochrome/eyebat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/eyebat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/eyebat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/eyebat.png"
     },
     "tags": [
       "oled",
@@ -57167,9 +57167,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c6a601190ace.webp",
-      "preview": "/api/wallpaper/monochrome/falling.png",
-      "original": "/api/wallpaper/monochrome/falling.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/falling.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/falling.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/falling.png"
     },
     "tags": [
       "oled",
@@ -57213,9 +57213,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ba1de0d91ccb.webp",
-      "preview": "/api/wallpaper/monochrome/fire-skull.jpg",
-      "original": "/api/wallpaper/monochrome/fire-skull.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/fire-skull.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/fire-skull.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/fire-skull.jpg"
     },
     "tags": [
       "skull",
@@ -57261,9 +57261,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c21beb517434.webp",
-      "preview": "/api/wallpaper/monochrome/fractal.png",
-      "original": "/api/wallpaper/monochrome/fractal.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/fractal.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/fractal.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/fractal.png"
     },
     "tags": [
       "water",
@@ -57308,9 +57308,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3b34615dc839.webp",
-      "preview": "/api/wallpaper/monochrome/gray-background.png",
-      "original": "/api/wallpaper/monochrome/gray-background.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/gray-background.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/gray-background.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/gray-background.png"
     },
     "tags": [
       "bubbles",
@@ -57356,9 +57356,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-404daf75038e.webp",
-      "preview": "/api/wallpaper/monochrome/grey_red_tree.png",
-      "original": "/api/wallpaper/monochrome/grey_red_tree.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/grey_red_tree.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/grey_red_tree.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/grey_red_tree.png"
     },
     "tags": [
       "red",
@@ -57404,9 +57404,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f55cb6794fd9.webp",
-      "preview": "/api/wallpaper/monochrome/hands.jpg",
-      "original": "/api/wallpaper/monochrome/hands.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/hands.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/hands.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/hands.jpg"
     },
     "tags": [
       "oled",
@@ -57453,9 +57453,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-619074fe7497.webp",
-      "preview": "/api/wallpaper/monochrome/home127-dark.jpg",
-      "original": "/api/wallpaper/monochrome/home127-dark.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/home127-dark.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/home127-dark.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/home127-dark.jpg"
     },
     "tags": [
       "linux",
@@ -57501,9 +57501,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b48f4f039477.webp",
-      "preview": "/api/wallpaper/monochrome/home127-light.jpg",
-      "original": "/api/wallpaper/monochrome/home127-light.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/home127-light.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/home127-light.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/home127-light.jpg"
     },
     "tags": [
       "localhost",
@@ -57550,9 +57550,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7a02cf0b298d.webp",
-      "preview": "/api/wallpaper/monochrome/horror_cult.jpg",
-      "original": "/api/wallpaper/monochrome/horror_cult.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/horror_cult.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/horror_cult.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/horror_cult.jpg"
     },
     "tags": [
       "cult",
@@ -57598,9 +57598,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3b1cd2537a3a.webp",
-      "preview": "/api/wallpaper/monochrome/ign_megumin_dark.png",
-      "original": "/api/wallpaper/monochrome/ign_megumin_dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/ign_megumin_dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/ign_megumin_dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/ign_megumin_dark.png"
     },
     "tags": [
       "monochrome"
@@ -57643,9 +57643,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c4f978df1caf.webp",
-      "preview": "/api/wallpaper/monochrome/image.png",
-      "original": "/api/wallpaper/monochrome/image.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/image.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/image.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/image.png"
     },
     "tags": [
       "oled",
@@ -57689,9 +57689,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7481b5c31b86.webp",
-      "preview": "/api/wallpaper/monochrome/IMG_5037.png",
-      "original": "/api/wallpaper/monochrome/IMG_5037.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_5037.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_5037.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_5037.png"
     },
     "tags": [
       "monochrome"
@@ -57734,9 +57734,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b2640ad39a3e.webp",
-      "preview": "/api/wallpaper/monochrome/IMG_6681_upscayl_3x_high-fidelity-4x.png",
-      "original": "/api/wallpaper/monochrome/IMG_6681_upscayl_3x_high-fidelity-4x.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_6681_upscayl_3x_high-fidelity-4x.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_6681_upscayl_3x_high-fidelity-4x.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_6681_upscayl_3x_high-fidelity-4x.png"
     },
     "tags": [
       "oled",
@@ -57780,9 +57780,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cb69948968f0.webp",
-      "preview": "/api/wallpaper/monochrome/IMG_6856.png",
-      "original": "/api/wallpaper/monochrome/IMG_6856.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_6856.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_6856.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/IMG_6856.png"
     },
     "tags": [
       "oled",
@@ -57826,9 +57826,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-677b56aced58.webp",
-      "preview": "/api/wallpaper/monochrome/kiryu_black.png",
-      "original": "/api/wallpaper/monochrome/kiryu_black.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/kiryu_black.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/kiryu_black.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/kiryu_black.png"
     },
     "tags": [
       "drake",
@@ -57874,9 +57874,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3d52dbfcb38c.webp",
-      "preview": "/api/wallpaper/monochrome/lain05.jpg",
-      "original": "/api/wallpaper/monochrome/lain05.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lain05.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lain05.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lain05.jpg"
     },
     "tags": [
       "oled",
@@ -57920,9 +57920,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-42aadf55fb53.webp",
-      "preview": "/api/wallpaper/monochrome/light-ring.jpg",
-      "original": "/api/wallpaper/monochrome/light-ring.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/light-ring.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/light-ring.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/light-ring.jpg"
     },
     "tags": [
       "ring",
@@ -57967,9 +57967,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-21e9a72d2862.webp",
-      "preview": "/api/wallpaper/monochrome/lightning.jpg",
-      "original": "/api/wallpaper/monochrome/lightning.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lightning.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lightning.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lightning.jpg"
     },
     "tags": [
       "gray",
@@ -58015,9 +58015,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a593178f3eac.webp",
-      "preview": "/api/wallpaper/monochrome/literal-wallpaper.png",
-      "original": "/api/wallpaper/monochrome/literal-wallpaper.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/literal-wallpaper.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/literal-wallpaper.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/literal-wallpaper.png"
     },
     "tags": [
       "oled",
@@ -58064,9 +58064,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e1d8439a7fe1.webp",
-      "preview": "/api/wallpaper/monochrome/lofi-cafe_gray.jpg",
-      "original": "/api/wallpaper/monochrome/lofi-cafe_gray.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lofi-cafe_gray.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lofi-cafe_gray.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/lofi-cafe_gray.jpg"
     },
     "tags": [
       "cafe",
@@ -58112,9 +58112,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-82190a35db39.webp",
-      "preview": "/api/wallpaper/monochrome/makima-hit.png",
-      "original": "/api/wallpaper/monochrome/makima-hit.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/makima-hit.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/makima-hit.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/makima-hit.png"
     },
     "tags": [
       "oled",
@@ -58158,9 +58158,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-94c590098746.webp",
-      "preview": "/api/wallpaper/monochrome/minimal-purple.jpg",
-      "original": "/api/wallpaper/monochrome/minimal-purple.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/minimal-purple.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/minimal-purple.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/minimal-purple.jpg"
     },
     "tags": [
       "simple",
@@ -58205,9 +58205,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c1ac69bad56.webp",
-      "preview": "/api/wallpaper/monochrome/miyamoto.jpg",
-      "original": "/api/wallpaper/monochrome/miyamoto.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/miyamoto.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/miyamoto.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/miyamoto.jpg"
     },
     "tags": [
       "oled",
@@ -58251,9 +58251,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a66769307cb0.webp",
-      "preview": "/api/wallpaper/monochrome/moon.png",
-      "original": "/api/wallpaper/monochrome/moon.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/moon.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/moon.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/moon.png"
     },
     "tags": [
       "gray",
@@ -58301,9 +58301,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2cfc48ea4b58.webp",
-      "preview": "/api/wallpaper/monochrome/NGE.jpg",
-      "original": "/api/wallpaper/monochrome/NGE.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/NGE.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/NGE.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/NGE.jpg"
     },
     "tags": [
       "oled",
@@ -58347,9 +58347,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-04bfee3d22fd.webp",
-      "preview": "/api/wallpaper/monochrome/nix.png",
-      "original": "/api/wallpaper/monochrome/nix.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/nix.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/nix.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/nix.png"
     },
     "tags": [
       "nix",
@@ -58395,9 +58395,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6a13f4ee7628.webp",
-      "preview": "/api/wallpaper/monochrome/pacman-black.png",
-      "original": "/api/wallpaper/monochrome/pacman-black.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/pacman-black.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/pacman-black.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/pacman-black.png"
     },
     "tags": [
       "black",
@@ -58443,9 +58443,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6256487afd7c.webp",
-      "preview": "/api/wallpaper/monochrome/picture.png",
-      "original": "/api/wallpaper/monochrome/picture.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/picture.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/picture.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/picture.png"
     },
     "tags": [
       "oled",
@@ -58489,9 +58489,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9b13d176d938.webp",
-      "preview": "/api/wallpaper/monochrome/pixelgirl.jpg",
-      "original": "/api/wallpaper/monochrome/pixelgirl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/pixelgirl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/pixelgirl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/pixelgirl.jpg"
     },
     "tags": [
       "oled",
@@ -58535,9 +58535,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3ba3cafbe126.webp",
-      "preview": "/api/wallpaper/monochrome/platforms.png",
-      "original": "/api/wallpaper/monochrome/platforms.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/platforms.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/platforms.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/platforms.png"
     },
     "tags": [
       "platforms",
@@ -58583,9 +58583,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-bf99d77a9454.webp",
-      "preview": "/api/wallpaper/monochrome/rick.jpg",
-      "original": "/api/wallpaper/monochrome/rick.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/rick.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/rick.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/rick.jpg"
     },
     "tags": [
       "dark",
@@ -58630,9 +58630,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-34f50b17afe8.webp",
-      "preview": "/api/wallpaper/monochrome/rm-rf.jpg",
-      "original": "/api/wallpaper/monochrome/rm-rf.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/rm-rf.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/rm-rf.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/rm-rf.jpg"
     },
     "tags": [
       "gray",
@@ -58677,9 +58677,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b5ec1df86515.webp",
-      "preview": "/api/wallpaper/monochrome/Roy-Mustang-gloves.png",
-      "original": "/api/wallpaper/monochrome/Roy-Mustang-gloves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Roy-Mustang-gloves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Roy-Mustang-gloves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Roy-Mustang-gloves.png"
     },
     "tags": [
       "oled",
@@ -58723,9 +58723,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9406bff3da4a.webp",
-      "preview": "/api/wallpaper/monochrome/sabequeeugostodevoce.webp",
-      "original": "/api/wallpaper/monochrome/sabequeeugostodevoce.webp"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/sabequeeugostodevoce.webp?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/sabequeeugostodevoce.webp?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/sabequeeugostodevoce.webp"
     },
     "tags": [
       "oled",
@@ -58769,9 +58769,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8b11a5d8d6b6.webp",
-      "preview": "/api/wallpaper/monochrome/Samurai_4k_WALLPAPER.png",
-      "original": "/api/wallpaper/monochrome/Samurai_4k_WALLPAPER.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Samurai_4k_WALLPAPER.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Samurai_4k_WALLPAPER.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Samurai_4k_WALLPAPER.png"
     },
     "tags": [
       "oled",
@@ -58815,9 +58815,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cce5dd7985fe.webp",
-      "preview": "/api/wallpaper/monochrome/samurai_warrior_silhouette_216195_3840x2160.jpg",
-      "original": "/api/wallpaper/monochrome/samurai_warrior_silhouette_216195_3840x2160.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/samurai_warrior_silhouette_216195_3840x2160.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/samurai_warrior_silhouette_216195_3840x2160.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/samurai_warrior_silhouette_216195_3840x2160.jpg"
     },
     "tags": [
       "monochrome"
@@ -58860,9 +58860,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-79a83b7fe8fa.webp",
-      "preview": "/api/wallpaper/monochrome/serial lain.jpg",
-      "original": "/api/wallpaper/monochrome/serial lain.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/serial%20lain.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/serial%20lain.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/serial%20lain.jpg"
     },
     "tags": [
       "oled",
@@ -58906,9 +58906,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d949fb28db84.webp",
-      "preview": "/api/wallpaper/monochrome/shiny-colors.png",
-      "original": "/api/wallpaper/monochrome/shiny-colors.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/shiny-colors.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/shiny-colors.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/shiny-colors.png"
     },
     "tags": [
       "dark",
@@ -58954,9 +58954,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cbbb6673074b.webp",
-      "preview": "/api/wallpaper/monochrome/skullred.png",
-      "original": "/api/wallpaper/monochrome/skullred.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/skullred.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/skullred.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/skullred.png"
     },
     "tags": [
       "oled",
@@ -59000,9 +59000,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-31308b4f3e7a.webp",
-      "preview": "/api/wallpaper/monochrome/sushi_dark.png",
-      "original": "/api/wallpaper/monochrome/sushi_dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/sushi_dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/sushi_dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/sushi_dark.png"
     },
     "tags": [
       "monochrome",
@@ -59046,9 +59046,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8028bed2f097.webp",
-      "preview": "/api/wallpaper/monochrome/tiger-gray.jpg",
-      "original": "/api/wallpaper/monochrome/tiger-gray.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/tiger-gray.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/tiger-gray.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/tiger-gray.jpg"
     },
     "tags": [
       "tiger",
@@ -59092,9 +59092,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1855c265ba0f.webp",
-      "preview": "/api/wallpaper/monochrome/ubuntu-black-4k.png",
-      "original": "/api/wallpaper/monochrome/ubuntu-black-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/ubuntu-black-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/ubuntu-black-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/ubuntu-black-4k.png"
     },
     "tags": [
       "monochrome"
@@ -59137,9 +59137,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-89df0b84153d.webp",
-      "preview": "/api/wallpaper/monochrome/Untitled.png",
-      "original": "/api/wallpaper/monochrome/Untitled.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled.png"
     },
     "tags": [
       "oled",
@@ -59183,9 +59183,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2b736d412d4a.webp",
-      "preview": "/api/wallpaper/monochrome/Untitled1.png",
-      "original": "/api/wallpaper/monochrome/Untitled1.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled1.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled1.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled1.png"
     },
     "tags": [
       "monochrome"
@@ -59228,9 +59228,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b73e786bc3c9.webp",
-      "preview": "/api/wallpaper/monochrome/Untitled62_20250703205830.png",
-      "original": "/api/wallpaper/monochrome/Untitled62_20250703205830.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled62_20250703205830.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled62_20250703205830.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled62_20250703205830.png"
     },
     "tags": [
       "oled",
@@ -59274,9 +59274,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d356ed8f2d3f.webp",
-      "preview": "/api/wallpaper/monochrome/Untitled62_20250703205924.png",
-      "original": "/api/wallpaper/monochrome/Untitled62_20250703205924.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled62_20250703205924.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled62_20250703205924.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled62_20250703205924.png"
     },
     "tags": [
       "oled",
@@ -59320,9 +59320,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-53d329c4c5bc.webp",
-      "preview": "/api/wallpaper/monochrome/Untitled_.png",
-      "original": "/api/wallpaper/monochrome/Untitled_.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled_.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled_.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Untitled_.png"
     },
     "tags": [
       "oled",
@@ -59366,9 +59366,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4cc841d9fd64.webp",
-      "preview": "/api/wallpaper/monochrome/vigi.png",
-      "original": "/api/wallpaper/monochrome/vigi.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/vigi.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/vigi.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/vigi.png"
     },
     "tags": [
       "oled",
@@ -59412,9 +59412,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a764ec4d424f.webp",
-      "preview": "/api/wallpaper/monochrome/violet-evergarden-eddited.png",
-      "original": "/api/wallpaper/monochrome/violet-evergarden-eddited.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/violet-evergarden-eddited.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/violet-evergarden-eddited.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/violet-evergarden-eddited.png"
     },
     "tags": [
       "monochrome"
@@ -59457,9 +59457,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-07148d4e9246.webp",
-      "preview": "/api/wallpaper/monochrome/void-black-4k.png",
-      "original": "/api/wallpaper/monochrome/void-black-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/void-black-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/void-black-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/void-black-4k.png"
     },
     "tags": [
       "monochrome"
@@ -59502,9 +59502,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c87b60fd3ffc.webp",
-      "preview": "/api/wallpaper/monochrome/void-black3.png",
-      "original": "/api/wallpaper/monochrome/void-black3.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/void-black3.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/void-black3.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/void-black3.png"
     },
     "tags": [
       "blue",
@@ -59548,9 +59548,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e6bec846361a.webp",
-      "preview": "/api/wallpaper/monochrome/wall.png",
-      "original": "/api/wallpaper/monochrome/wall.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wall.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wall.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wall.png"
     },
     "tags": [
       "oled",
@@ -59594,9 +59594,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-979f6b9c3f16.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-019d9n.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-019d9n.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-019d9n.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-019d9n.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-019d9n.jpg"
     },
     "tags": [
       "oled",
@@ -59640,9 +59640,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2c5dd7c436d0.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-0wvm5q.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-0wvm5q.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-0wvm5q.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-0wvm5q.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-0wvm5q.jpg"
     },
     "tags": [
       "monochrome"
@@ -59685,9 +59685,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6cdcbfbee437.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-2136wg.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-2136wg.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-2136wg.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-2136wg.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-2136wg.jpg"
     },
     "tags": [
       "monochrome"
@@ -59730,9 +59730,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a2b39179bd72.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-21y596.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-21y596.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-21y596.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-21y596.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-21y596.png"
     },
     "tags": [
       "oled",
@@ -59776,9 +59776,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-347b59e483fd.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-2yv9rm.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-2yv9rm.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-2yv9rm.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-2yv9rm.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-2yv9rm.jpg"
     },
     "tags": [
       "monochrome"
@@ -59821,9 +59821,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4a62ca4c3474.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-3q3m7y.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-3q3m7y.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-3q3m7y.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-3q3m7y.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-3q3m7y.jpg"
     },
     "tags": [
       "oled",
@@ -59867,9 +59867,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-59abe2b35d56.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-5g9p88.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-5g9p88.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-5g9p88.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-5g9p88.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-5g9p88.png"
     },
     "tags": [
       "monochrome"
@@ -59912,9 +59912,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9795e8205ac5.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-6l21lx.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-6l21lx.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-6l21lx.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-6l21lx.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-6l21lx.png"
     },
     "tags": [
       "oled",
@@ -59958,9 +59958,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8a858ec351a4.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-852dmj.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-852dmj.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-852dmj.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-852dmj.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-852dmj.png"
     },
     "tags": [
       "oled",
@@ -60004,9 +60004,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f2c9cd369a5e.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-9mjw78.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-9mjw78.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-9mjw78.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-9mjw78.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-9mjw78.png"
     },
     "tags": [
       "oled",
@@ -60053,9 +60053,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5127779bf852.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-dg9dvm.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-dg9dvm.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-dg9dvm.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-dg9dvm.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-dg9dvm.jpg"
     },
     "tags": [
       "monochrome"
@@ -60098,9 +60098,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5dffe222f469.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-exkvg8.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-exkvg8.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-exkvg8.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-exkvg8.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-exkvg8.png"
     },
     "tags": [
       "oled",
@@ -60145,8 +60145,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-0d944eac9adc.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-j52rjm.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-j52rjm.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-j52rjm.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-j52rjm.jpg"
     },
     "tags": [
       "monochrome"
@@ -60189,9 +60189,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e2ce19311ae1.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-m3kqmy.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-m3kqmy.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-m3kqmy.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-m3kqmy.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-m3kqmy.png"
     },
     "tags": [
       "monochrome"
@@ -60234,9 +60234,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-102ddc2b1881.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-oglmgp.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-oglmgp.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-oglmgp.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-oglmgp.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-oglmgp.png"
     },
     "tags": [
       "monochrome"
@@ -60279,9 +60279,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b34683afb42b.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-poj76e.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-poj76e.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-poj76e.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-poj76e.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-poj76e.png"
     },
     "tags": [
       "monochrome"
@@ -60324,9 +60324,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f62844fa64e7.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-vp52vm.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-vp52vm.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-vp52vm.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-vp52vm.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-vp52vm.jpg"
     },
     "tags": [
       "monochrome"
@@ -60370,8 +60370,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-0bf2eefb8e48.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-vpyrm5.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-vpyrm5.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-vpyrm5.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-vpyrm5.jpg"
     },
     "tags": [
       "oled",
@@ -60415,9 +60415,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5d80c2edf344.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-w587zr_3840x2160.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-w587zr_3840x2160.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-w587zr_3840x2160.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-w587zr_3840x2160.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-w587zr_3840x2160.png"
     },
     "tags": [
       "oled",
@@ -60461,9 +60461,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b9c12d8db2cc.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-xepk9d.jpg",
-      "original": "/api/wallpaper/monochrome/wallhaven-xepk9d.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-xepk9d.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-xepk9d.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-xepk9d.jpg"
     },
     "tags": [
       "monochrome"
@@ -60506,9 +60506,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a8c14cfc7bc8.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-xepped.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-xepped.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-xepped.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-xepped.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-xepped.png"
     },
     "tags": [
       "monochrome"
@@ -60551,9 +60551,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-929625e8a2df.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-y8o7zg_1920x1080.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-y8o7zg_1920x1080.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-y8o7zg_1920x1080.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-y8o7zg_1920x1080.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-y8o7zg_1920x1080.png"
     },
     "tags": [
       "oled",
@@ -60597,9 +60597,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c88e2058e561.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven-zpo7dy.png",
-      "original": "/api/wallpaper/monochrome/wallhaven-zpo7dy.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-zpo7dy.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-zpo7dy.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven-zpo7dy.png"
     },
     "tags": [
       "oled",
@@ -60643,9 +60643,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5e77d6b708b9.webp",
-      "preview": "/api/wallpaper/monochrome/wallhaven.png",
-      "original": "/api/wallpaper/monochrome/wallhaven.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallhaven.png"
     },
     "tags": [
       "life",
@@ -60692,9 +60692,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b60a74e87dc8.webp",
-      "preview": "/api/wallpaper/monochrome/Wallpaper21.jpg",
-      "original": "/api/wallpaper/monochrome/Wallpaper21.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Wallpaper21.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Wallpaper21.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/Wallpaper21.jpg"
     },
     "tags": [
       "oled",
@@ -60738,9 +60738,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f28614a36fb7.webp",
-      "preview": "/api/wallpaper/monochrome/wallpaper3-dark.png",
-      "original": "/api/wallpaper/monochrome/wallpaper3-dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaper3-dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaper3-dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaper3-dark.png"
     },
     "tags": [
       "dark",
@@ -60786,8 +60786,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-9f3798939bf5.webp",
-      "preview": "/api/wallpaper/monochrome/wallpaperflare.com_wallpaper (3).jpg",
-      "original": "/api/wallpaper/monochrome/wallpaperflare.com_wallpaper (3).jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaperflare.com_wallpaper%20(3).jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaperflare.com_wallpaper%20(3).jpg"
     },
     "tags": [
       "monochrome"
@@ -60830,9 +60830,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-543d77a6fe2e.webp",
-      "preview": "/api/wallpaper/monochrome/wallpaperflare.com_wallpaper (4).jpg",
-      "original": "/api/wallpaper/monochrome/wallpaperflare.com_wallpaper (4).jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaperflare.com_wallpaper%20(4).jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaperflare.com_wallpaper%20(4).jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wallpaperflare.com_wallpaper%20(4).jpg"
     },
     "tags": [
       "oled",
@@ -60876,9 +60876,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c32df7be3e3e.webp",
-      "preview": "/api/wallpaper/monochrome/wave_black.png",
-      "original": "/api/wallpaper/monochrome/wave_black.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wave_black.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wave_black.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wave_black.png"
     },
     "tags": [
       "ocean",
@@ -60924,9 +60924,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d6a99a703e3b.webp",
-      "preview": "/api/wallpaper/monochrome/white.png",
-      "original": "/api/wallpaper/monochrome/white.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/white.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/white.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/white.png"
     },
     "tags": [
       "monochrome"
@@ -60969,9 +60969,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8758ba6e1bad.webp",
-      "preview": "/api/wallpaper/monochrome/white_yinyang.jpg",
-      "original": "/api/wallpaper/monochrome/white_yinyang.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/white_yinyang.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/white_yinyang.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/white_yinyang.jpg"
     },
     "tags": [
       "monochrome",
@@ -61016,9 +61016,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-df18c07c864f.webp",
-      "preview": "/api/wallpaper/monochrome/win-11.png",
-      "original": "/api/wallpaper/monochrome/win-11.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/win-11.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/win-11.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/win-11.png"
     },
     "tags": [
       "windows",
@@ -61064,9 +61064,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-44ad1d13cb13.webp",
-      "preview": "/api/wallpaper/monochrome/windows-black.png",
-      "original": "/api/wallpaper/monochrome/windows-black.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/windows-black.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/windows-black.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/windows-black.png"
     },
     "tags": [
       "monochrome"
@@ -61109,9 +61109,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-956618bd81c0.webp",
-      "preview": "/api/wallpaper/monochrome/wp13882649-cyberpunk-2077-trauma-team-wallpapers.png",
-      "original": "/api/wallpaper/monochrome/wp13882649-cyberpunk-2077-trauma-team-wallpapers.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wp13882649-cyberpunk-2077-trauma-team-wallpapers.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wp13882649-cyberpunk-2077-trauma-team-wallpapers.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wp13882649-cyberpunk-2077-trauma-team-wallpapers.png"
     },
     "tags": [
       "monochrome"
@@ -61154,9 +61154,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2d64deea3275.webp",
-      "preview": "/api/wallpaper/monochrome/wp7034860-minimalist-universe-wallpapers_1.jpg",
-      "original": "/api/wallpaper/monochrome/wp7034860-minimalist-universe-wallpapers_1.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wp7034860-minimalist-universe-wallpapers_1.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wp7034860-minimalist-universe-wallpapers_1.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/wp7034860-minimalist-universe-wallpapers_1.jpg"
     },
     "tags": [
       "oled",
@@ -61200,9 +61200,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ece3207ae102.webp",
-      "preview": "/api/wallpaper/monochrome/yellow-robot.png",
-      "original": "/api/wallpaper/monochrome/yellow-robot.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yellow-robot.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yellow-robot.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yellow-robot.png"
     },
     "tags": [
       "robot",
@@ -61247,9 +61247,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e15d664f1abe.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_a_bench_in_the_forest_f5dbc776-f92e-422f-847d-f8c472454561.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_a_bench_in_the_forest_f5dbc776-f92e-422f-847d-f8c472454561.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_a_bench_in_the_forest_f5dbc776-f92e-422f-847d-f8c472454561.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_a_bench_in_the_forest_f5dbc776-f92e-422f-847d-f8c472454561.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_a_bench_in_the_forest_f5dbc776-f92e-422f-847d-f8c472454561.png"
     },
     "tags": [
       "monochrome",
@@ -61293,9 +61293,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2b6f27d37527.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_the_edge_of_a_river_w_eb62e0e5-5049-4aa5-bdd9-a25f1fb221a7.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_the_edge_of_a_river_w_eb62e0e5-5049-4aa5-bdd9-a25f1fb221a7.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_the_edge_of_a_river_w_eb62e0e5-5049-4aa5-bdd9-a25f1fb221a7.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_the_edge_of_a_river_w_eb62e0e5-5049-4aa5-bdd9-a25f1fb221a7.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_black-pomeranian_sitting_on_the_edge_of_a_river_w_eb62e0e5-5049-4aa5-bdd9-a25f1fb221a7.png"
     },
     "tags": [
       "ocean",
@@ -61340,9 +61340,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b41123676e75.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_A_black_and_white_dot_illustration_of_an_women_in_a_f95624ca-6b26-4d37-9f90-56b8746d2c97.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_A_black_and_white_dot_illustration_of_an_women_in_a_f95624ca-6b26-4d37-9f90-56b8746d2c97.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_A_black_and_white_dot_illustration_of_an_women_in_a_f95624ca-6b26-4d37-9f90-56b8746d2c97.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_A_black_and_white_dot_illustration_of_an_women_in_a_f95624ca-6b26-4d37-9f90-56b8746d2c97.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_A_black_and_white_dot_illustration_of_an_women_in_a_f95624ca-6b26-4d37-9f90-56b8746d2c97.png"
     },
     "tags": [
       "oled",
@@ -61386,9 +61386,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f9ddb9adeb29.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_a_burning-meteor_next_to_planet-earth_on_a_black_ba_e2df33b5-07d7-450c-8e46-8676fbd0aff3.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_a_burning-meteor_next_to_planet-earth_on_a_black_ba_e2df33b5-07d7-450c-8e46-8676fbd0aff3.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_burning-meteor_next_to_planet-earth_on_a_black_ba_e2df33b5-07d7-450c-8e46-8676fbd0aff3.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_burning-meteor_next_to_planet-earth_on_a_black_ba_e2df33b5-07d7-450c-8e46-8676fbd0aff3.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_burning-meteor_next_to_planet-earth_on_a_black_ba_e2df33b5-07d7-450c-8e46-8676fbd0aff3.png"
     },
     "tags": [
       "oled",
@@ -61432,9 +61432,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b7f5dd9f5171.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_14f02100-a5ca-4c0c-893d-1df95ef919ba.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_14f02100-a5ca-4c0c-893d-1df95ef919ba.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_14f02100-a5ca-4c0c-893d-1df95ef919ba.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_14f02100-a5ca-4c0c-893d-1df95ef919ba.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_14f02100-a5ca-4c0c-893d-1df95ef919ba.png"
     },
     "tags": [
       "monochrome"
@@ -61477,9 +61477,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0d58fd950256.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_5472092b-f21f-44c5-9ad9-edc8b6f83af3.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_5472092b-f21f-44c5-9ad9-edc8b6f83af3.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_5472092b-f21f-44c5-9ad9-edc8b6f83af3.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_5472092b-f21f-44c5-9ad9-edc8b6f83af3.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_grim-man_in_gladiator-armor_in_the_style_of_manga_5472092b-f21f-44c5-9ad9-edc8b6f83af3.png"
     },
     "tags": [
       "monochrome"
@@ -61522,9 +61522,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9019a8e315d8.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_a_japanese-women_in_a_christmas-dress_sitting_on_a__1a520c35-62f6-4f19-9db5-58fb6560d421.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_a_japanese-women_in_a_christmas-dress_sitting_on_a__1a520c35-62f6-4f19-9db5-58fb6560d421.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_japanese-women_in_a_christmas-dress_sitting_on_a__1a520c35-62f6-4f19-9db5-58fb6560d421.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_japanese-women_in_a_christmas-dress_sitting_on_a__1a520c35-62f6-4f19-9db5-58fb6560d421.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_a_japanese-women_in_a_christmas-dress_sitting_on_a__1a520c35-62f6-4f19-9db5-58fb6560d421.png"
     },
     "tags": [
       "green",
@@ -61568,9 +61568,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e9b71fe495f6.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_abstract_wallaper_art_black_and_white_f9ccc2bc-19ab-45a2-a51e-659a4a9fb8fe.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_abstract_wallaper_art_black_and_white_f9ccc2bc-19ab-45a2-a51e-659a4a9fb8fe.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_abstract_wallaper_art_black_and_white_f9ccc2bc-19ab-45a2-a51e-659a4a9fb8fe.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_abstract_wallaper_art_black_and_white_f9ccc2bc-19ab-45a2-a51e-659a4a9fb8fe.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_abstract_wallaper_art_black_and_white_f9ccc2bc-19ab-45a2-a51e-659a4a9fb8fe.png"
     },
     "tags": [
       "oled",
@@ -61614,9 +61614,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9aa6861856d0.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_coal_drawing_of_a_futuristic_city_landscape_black_a_13c35b89-7ebd-4d4c-b073-7e195aef79cf.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_coal_drawing_of_a_futuristic_city_landscape_black_a_13c35b89-7ebd-4d4c-b073-7e195aef79cf.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_coal_drawing_of_a_futuristic_city_landscape_black_a_13c35b89-7ebd-4d4c-b073-7e195aef79cf.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_coal_drawing_of_a_futuristic_city_landscape_black_a_13c35b89-7ebd-4d4c-b073-7e195aef79cf.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_coal_drawing_of_a_futuristic_city_landscape_black_a_13c35b89-7ebd-4d4c-b073-7e195aef79cf.png"
     },
     "tags": [
       "oled",
@@ -61660,9 +61660,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4210d053ed9f.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_1e7cac24-bc44-4fdb-bb3e-7ed509c49de9.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_1e7cac24-bc44-4fdb-bb3e-7ed509c49de9.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_1e7cac24-bc44-4fdb-bb3e-7ed509c49de9.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_1e7cac24-bc44-4fdb-bb3e-7ed509c49de9.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_1e7cac24-bc44-4fdb-bb3e-7ed509c49de9.png"
     },
     "tags": [
       "oled",
@@ -61706,9 +61706,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e45aaac6701e.webp",
-      "preview": "/api/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_d841cc93-5542-4a94-a9d3-218ffb4ae429.png",
-      "original": "/api/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_d841cc93-5542-4a94-a9d3-218ffb4ae429.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_d841cc93-5542-4a94-a9d3-218ffb4ae429.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_d841cc93-5542-4a94-a9d3-218ffb4ae429.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yessirsupra_minimalistic_doodle_art_high_Resolution_4k_doodle-s_d841cc93-5542-4a94-a9d3-218ffb4ae429.png"
     },
     "tags": [
       "oled",
@@ -61752,9 +61752,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b796a3669e16.webp",
-      "preview": "/api/wallpaper/monochrome/yh.png",
-      "original": "/api/wallpaper/monochrome/yh.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yh.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yh.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/yh.png"
     },
     "tags": [
       "dark",
@@ -61798,9 +61798,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-411740c6f0f0.webp",
-      "preview": "/api/wallpaper/monochrome/you-got-this.jpg",
-      "original": "/api/wallpaper/monochrome/you-got-this.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/you-got-this.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/you-got-this.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/you-got-this.jpg"
     },
     "tags": [
       "hand",
@@ -61845,9 +61845,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2c8d7d183ea8.webp",
-      "preview": "/api/wallpaper/monochrome/zorin-black-4k.png",
-      "original": "/api/wallpaper/monochrome/zorin-black-4k.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/zorin-black-4k.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/zorin-black-4k.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/monochrome/zorin-black-4k.png"
     },
     "tags": [
       "monochrome"
@@ -61890,9 +61890,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7f0403c8626b.webp",
-      "preview": "/api/wallpaper/nord/arch-nord-dark.png",
-      "original": "/api/wallpaper/nord/arch-nord-dark.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/arch-nord-dark.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/arch-nord-dark.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/arch-nord-dark.png"
     },
     "tags": [
       "nord",
@@ -61936,9 +61936,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e33e0be6b82c.webp",
-      "preview": "/api/wallpaper/nord/arch-nord-light.png",
-      "original": "/api/wallpaper/nord/arch-nord-light.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/arch-nord-light.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/arch-nord-light.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/arch-nord-light.png"
     },
     "tags": [
       "nord",
@@ -61982,9 +61982,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2661aa226f18.webp",
-      "preview": "/api/wallpaper/nord/astronaut-nord.png",
-      "original": "/api/wallpaper/nord/astronaut-nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/astronaut-nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/astronaut-nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/astronaut-nord.png"
     },
     "tags": [
       "astronaut",
@@ -62029,9 +62029,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-927ed311aad7.webp",
-      "preview": "/api/wallpaper/nord/black.jpg",
-      "original": "/api/wallpaper/nord/black.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/black.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/black.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/black.jpg"
     },
     "tags": [
       "nord",
@@ -62076,9 +62076,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-cefd988c4b75.webp",
-      "preview": "/api/wallpaper/nord/colorful-planets.jpg",
-      "original": "/api/wallpaper/nord/colorful-planets.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/colorful-planets.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/colorful-planets.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/colorful-planets.jpg"
     },
     "tags": [
       "nord",
@@ -62123,9 +62123,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-844863d31d0c.webp",
-      "preview": "/api/wallpaper/nord/cron.png",
-      "original": "/api/wallpaper/nord/cron.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/cron.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/cron.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/cron.png"
     },
     "tags": [
       "nord",
@@ -62171,9 +62171,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0ca58c2bf112.webp",
-      "preview": "/api/wallpaper/nord/debian.png",
-      "original": "/api/wallpaper/nord/debian.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/debian.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/debian.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/debian.png"
     },
     "tags": [
       "red",
@@ -62219,9 +62219,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-73f5450f117e.webp",
-      "preview": "/api/wallpaper/nord/Doodle_Space_Nord.png",
-      "original": "/api/wallpaper/nord/Doodle_Space_Nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/Doodle_Space_Nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/Doodle_Space_Nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/Doodle_Space_Nord.png"
     },
     "tags": [
       "sky",
@@ -62266,9 +62266,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2968fede677b.webp",
-      "preview": "/api/wallpaper/nord/holy-arch-nordic.png",
-      "original": "/api/wallpaper/nord/holy-arch-nordic.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/holy-arch-nordic.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/holy-arch-nordic.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/holy-arch-nordic.png"
     },
     "tags": [
       "arch",
@@ -62313,9 +62313,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f8fd9a82d35d.webp",
-      "preview": "/api/wallpaper/nord/jupiter.png",
-      "original": "/api/wallpaper/nord/jupiter.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/jupiter.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/jupiter.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/jupiter.png"
     },
     "tags": [
       "jupiter",
@@ -62360,9 +62360,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f6a1ac978fc6.webp",
-      "preview": "/api/wallpaper/nord/leave-planet.jpg",
-      "original": "/api/wallpaper/nord/leave-planet.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/leave-planet.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/leave-planet.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/leave-planet.jpg"
     },
     "tags": [
       "astronaut",
@@ -62407,9 +62407,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0a856dfca431.webp",
-      "preview": "/api/wallpaper/nord/minim-helmet.png",
-      "original": "/api/wallpaper/nord/minim-helmet.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minim-helmet.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minim-helmet.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minim-helmet.png"
     },
     "tags": [
       "minimal",
@@ -62454,9 +62454,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b95a0e7ea8bb.webp",
-      "preview": "/api/wallpaper/nord/minim.jpg",
-      "original": "/api/wallpaper/nord/minim.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minim.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minim.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minim.jpg"
     },
     "tags": [
       "minimal",
@@ -62503,8 +62503,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-4ef0cefd0c49.webp",
-      "preview": "/api/wallpaper/nord/minimal_landscape.jpg",
-      "original": "/api/wallpaper/nord/minimal_landscape.jpg"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minimal_landscape.jpg?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minimal_landscape.jpg"
     },
     "tags": [
       "snow",
@@ -62552,9 +62552,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-54e0aef096d9.webp",
-      "preview": "/api/wallpaper/nord/minimal_nord_guy.png",
-      "original": "/api/wallpaper/nord/minimal_nord_guy.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minimal_nord_guy.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minimal_nord_guy.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/minimal_nord_guy.png"
     },
     "tags": [
       "minimal",
@@ -62599,9 +62599,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3cbc9184e3af.webp",
-      "preview": "/api/wallpaper/nord/naruto.png",
-      "original": "/api/wallpaper/nord/naruto.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/naruto.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/naruto.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/naruto.png"
     },
     "tags": [
       "red",
@@ -62647,9 +62647,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-11f949a6c13b.webp",
-      "preview": "/api/wallpaper/nord/naruto_2.png",
-      "original": "/api/wallpaper/nord/naruto_2.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/naruto_2.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/naruto_2.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/naruto_2.png"
     },
     "tags": [
       "red",
@@ -62695,9 +62695,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-208752f6e39b.webp",
-      "preview": "/api/wallpaper/nord/neocity2.jpg",
-      "original": "/api/wallpaper/nord/neocity2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/neocity2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/neocity2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/neocity2.jpg"
     },
     "tags": [
       "nord",
@@ -62743,9 +62743,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-94c91c1dfce8.webp",
-      "preview": "/api/wallpaper/nord/nord-chainsaw.png",
-      "original": "/api/wallpaper/nord/nord-chainsaw.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-chainsaw.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-chainsaw.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-chainsaw.png"
     },
     "tags": [
       "nord",
@@ -62790,9 +62790,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4422529757cf.webp",
-      "preview": "/api/wallpaper/nord/nord-princess-zelda.jpg",
-      "original": "/api/wallpaper/nord/nord-princess-zelda.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-princess-zelda.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-princess-zelda.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-princess-zelda.jpg"
     },
     "tags": [
       "nord",
@@ -62837,9 +62837,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fdddc168fe60.webp",
-      "preview": "/api/wallpaper/nord/nord-shanghai.png",
-      "original": "/api/wallpaper/nord/nord-shanghai.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-shanghai.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-shanghai.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-shanghai.png"
     },
     "tags": [
       "nord",
@@ -62885,9 +62885,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-12817f5e0ad1.webp",
-      "preview": "/api/wallpaper/nord/nord-shards.jpg",
-      "original": "/api/wallpaper/nord/nord-shards.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-shards.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-shards.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-shards.jpg"
     },
     "tags": [
       "nord",
@@ -62931,9 +62931,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-57bf9fad41ad.webp",
-      "preview": "/api/wallpaper/nord/nord-street.png",
-      "original": "/api/wallpaper/nord/nord-street.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-street.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-street.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-street.png"
     },
     "tags": [
       "nord",
@@ -62979,9 +62979,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-445c8b4713d9.webp",
-      "preview": "/api/wallpaper/nord/nord-winter.png",
-      "original": "/api/wallpaper/nord/nord-winter.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-winter.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-winter.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord-winter.png"
     },
     "tags": [
       "nord",
@@ -63027,9 +63027,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fb3332ec77b1.webp",
-      "preview": "/api/wallpaper/nord/nord_dark_city.png",
-      "original": "/api/wallpaper/nord/nord_dark_city.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_dark_city.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_dark_city.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_dark_city.png"
     },
     "tags": [
       "nord",
@@ -63075,9 +63075,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fcc3d5a3cf70.webp",
-      "preview": "/api/wallpaper/nord/nord_dots.png",
-      "original": "/api/wallpaper/nord/nord_dots.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_dots.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_dots.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_dots.png"
     },
     "tags": [
       "nord",
@@ -63123,9 +63123,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9e5e3e50a3d1.webp",
-      "preview": "/api/wallpaper/nord/nord_mask.png",
-      "original": "/api/wallpaper/nord/nord_mask.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_mask.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_mask.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_mask.png"
     },
     "tags": [
       "nord",
@@ -63169,9 +63169,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-43a8eda3079e.webp",
-      "preview": "/api/wallpaper/nord/nord_minimal_cat.png",
-      "original": "/api/wallpaper/nord/nord_minimal_cat.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_minimal_cat.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_minimal_cat.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_minimal_cat.png"
     },
     "tags": [
       "nord",
@@ -63216,9 +63216,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e87c17bf0f25.webp",
-      "preview": "/api/wallpaper/nord/nord_purple_waves.png",
-      "original": "/api/wallpaper/nord/nord_purple_waves.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_purple_waves.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_purple_waves.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nord_purple_waves.png"
     },
     "tags": [
       "waves",
@@ -63265,9 +63265,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6102c3f0426e.webp",
-      "preview": "/api/wallpaper/nord/nordic.png",
-      "original": "/api/wallpaper/nord/nordic.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nordic.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nordic.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/nordic.png"
     },
     "tags": [
       "gray",
@@ -63314,9 +63314,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5be753314c23.webp",
-      "preview": "/api/wallpaper/nord/orbit.png",
-      "original": "/api/wallpaper/nord/orbit.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/orbit.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/orbit.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/orbit.png"
     },
     "tags": [
       "nord",
@@ -63362,9 +63362,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a074d894f96a.webp",
-      "preview": "/api/wallpaper/nord/pacman-nord.png",
-      "original": "/api/wallpaper/nord/pacman-nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/pacman-nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/pacman-nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/pacman-nord.png"
     },
     "tags": [
       "nord",
@@ -63409,9 +63409,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2b4bf279f916.webp",
-      "preview": "/api/wallpaper/nord/pink-mecha.png",
-      "original": "/api/wallpaper/nord/pink-mecha.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/pink-mecha.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/pink-mecha.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/pink-mecha.png"
     },
     "tags": [
       "nord",
@@ -63457,9 +63457,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3428eb19a644.webp",
-      "preview": "/api/wallpaper/nord/python-dev.png",
-      "original": "/api/wallpaper/nord/python-dev.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/python-dev.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/python-dev.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/python-dev.png"
     },
     "tags": [
       "nord",
@@ -63505,9 +63505,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a6989ec1cfd6.webp",
-      "preview": "/api/wallpaper/nord/swirls.png",
-      "original": "/api/wallpaper/nord/swirls.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/swirls.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/swirls.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/swirls.png"
     },
     "tags": [
       "nord",
@@ -63553,9 +63553,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-041c03e323d8.webp",
-      "preview": "/api/wallpaper/nord/tech.png",
-      "original": "/api/wallpaper/nord/tech.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/tech.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/tech.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/tech.png"
     },
     "tags": [
       "nord",
@@ -63600,9 +63600,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-baed28bb690a.webp",
-      "preview": "/api/wallpaper/nord/towashi.jpg",
-      "original": "/api/wallpaper/nord/towashi.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/towashi.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/towashi.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/towashi.jpg"
     },
     "tags": [
       "nord",
@@ -63646,9 +63646,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7bdfb515628c.webp",
-      "preview": "/api/wallpaper/nord/underwater.png",
-      "original": "/api/wallpaper/nord/underwater.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/underwater.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/underwater.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/underwater.png"
     },
     "tags": [
       "water",
@@ -63694,9 +63694,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4cfe81bdcf8c.webp",
-      "preview": "/api/wallpaper/nord/venom.jpg",
-      "original": "/api/wallpaper/nord/venom.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/venom.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/venom.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/venom.jpg"
     },
     "tags": [
       "nord",
@@ -63742,9 +63742,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-377d496cf635.webp",
-      "preview": "/api/wallpaper/nord/virus-nord.png",
-      "original": "/api/wallpaper/nord/virus-nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/nord/virus-nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/virus-nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/virus-nord.png"
     },
     "tags": [
       "nord",
@@ -63790,8 +63790,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-39c575a1dc33.webp",
-      "preview": "/api/wallpaper/nord/wallpaper_nord_1.png",
-      "original": "/api/wallpaper/nord/wallpaper_nord_1.png"
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/nord/wallpaper_nord_1.png?tr=orig",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/nord/wallpaper_nord_1.png"
     },
     "tags": [
       "pixelart",
@@ -63836,9 +63836,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6008275f82f9.webp",
-      "preview": "/api/wallpaper/space/alien_planet.jpeg",
-      "original": "/api/wallpaper/space/alien_planet.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/alien_planet.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/alien_planet.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/alien_planet.jpeg"
     },
     "tags": [
       "planet",
@@ -63883,9 +63883,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8c9818a64a58.webp",
-      "preview": "/api/wallpaper/space/astronaut-balloons.jpg",
-      "original": "/api/wallpaper/space/astronaut-balloons.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-balloons.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-balloons.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-balloons.jpg"
     },
     "tags": [
       "astronaut",
@@ -63931,9 +63931,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-58bb254f89bc.webp",
-      "preview": "/api/wallpaper/space/astronaut-mobile.png",
-      "original": "/api/wallpaper/space/astronaut-mobile.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-mobile.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-mobile.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-mobile.png"
     },
     "tags": [
       "astronaut",
@@ -63978,9 +63978,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-518ed811efcb.webp",
-      "preview": "/api/wallpaper/space/astronaut-planet.jpg",
-      "original": "/api/wallpaper/space/astronaut-planet.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-planet.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-planet.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-planet.jpg"
     },
     "tags": [
       "astronaut",
@@ -64026,9 +64026,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8c7843f95230.webp",
-      "preview": "/api/wallpaper/space/astronaut-rocket.jpg",
-      "original": "/api/wallpaper/space/astronaut-rocket.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-rocket.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-rocket.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut-rocket.jpg"
     },
     "tags": [
       "space",
@@ -64075,9 +64075,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-0a879d5cbe31.webp",
-      "preview": "/api/wallpaper/space/astronaut.jpg",
-      "original": "/api/wallpaper/space/astronaut.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/astronaut.jpg"
     },
     "tags": [
       "astronaut",
@@ -64122,9 +64122,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-92eaaaf86ddb.webp",
-      "preview": "/api/wallpaper/space/earth.png",
-      "original": "/api/wallpaper/space/earth.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/earth.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/earth.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/earth.png"
     },
     "tags": [
       "space",
@@ -64171,9 +64171,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e103953d3891.webp",
-      "preview": "/api/wallpaper/space/fishing_stars.jpg",
-      "original": "/api/wallpaper/space/fishing_stars.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/fishing_stars.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/fishing_stars.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/fishing_stars.jpg"
     },
     "tags": [
       "sky",
@@ -64218,9 +64218,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-fe5ff7453a33.webp",
-      "preview": "/api/wallpaper/space/needing-space.jpg",
-      "original": "/api/wallpaper/space/needing-space.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/needing-space.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/needing-space.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/needing-space.jpg"
     },
     "tags": [
       "space",
@@ -64267,9 +64267,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e3d89b6fd1a3.webp",
-      "preview": "/api/wallpaper/space/orange-planets.png",
-      "original": "/api/wallpaper/space/orange-planets.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/orange-planets.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/orange-planets.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/orange-planets.png"
     },
     "tags": [
       "orange",
@@ -64315,9 +64315,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2f73b89fd88f.webp",
-      "preview": "/api/wallpaper/space/pixel-city.png",
-      "original": "/api/wallpaper/space/pixel-city.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/pixel-city.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/pixel-city.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/pixel-city.png"
     },
     "tags": [
       "city",
@@ -64364,9 +64364,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7ba255ab393d.webp",
-      "preview": "/api/wallpaper/space/planet_minimal.png",
-      "original": "/api/wallpaper/space/planet_minimal.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/planet_minimal.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/planet_minimal.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/planet_minimal.png"
     },
     "tags": [
       "minimal",
@@ -64412,9 +64412,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b8aaf92decc5.webp",
-      "preview": "/api/wallpaper/space/planet_with_sunrise.png",
-      "original": "/api/wallpaper/space/planet_with_sunrise.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/planet_with_sunrise.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/planet_with_sunrise.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/planet_with_sunrise.png"
     },
     "tags": [
       "sky",
@@ -64459,9 +64459,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e0456aaa6a09.webp",
-      "preview": "/api/wallpaper/space/planets.png",
-      "original": "/api/wallpaper/space/planets.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/planets.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/planets.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/planets.png"
     },
     "tags": [
       "planets",
@@ -64507,9 +64507,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c7895103e106.webp",
-      "preview": "/api/wallpaper/space/puppy.jpg",
-      "original": "/api/wallpaper/space/puppy.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/puppy.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/puppy.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/puppy.jpg"
     },
     "tags": [
       "gray",
@@ -64556,9 +64556,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d70d0f139cd6.webp",
-      "preview": "/api/wallpaper/space/saturn-rings.jpg",
-      "original": "/api/wallpaper/space/saturn-rings.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/saturn-rings.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/saturn-rings.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/saturn-rings.jpg"
     },
     "tags": [
       "space",
@@ -64607,9 +64607,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-af9e94de7e6a.webp",
-      "preview": "/api/wallpaper/space/two-astronauts.png",
-      "original": "/api/wallpaper/space/two-astronauts.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/two-astronauts.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/two-astronauts.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/two-astronauts.png"
     },
     "tags": [
       "astronaut",
@@ -64655,9 +64655,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-28244108da52.webp",
-      "preview": "/api/wallpaper/space/wide_alien_planet.jpeg",
-      "original": "/api/wallpaper/space/wide_alien_planet.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/wide_alien_planet.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/wide_alien_planet.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/wide_alien_planet.jpeg"
     },
     "tags": [
       "monochrome",
@@ -64701,9 +64701,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-28abba1549ad.webp",
-      "preview": "/api/wallpaper/space/wide_nebula.png",
-      "original": "/api/wallpaper/space/wide_nebula.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/space/wide_nebula.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/space/wide_nebula.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/space/wide_nebula.png"
     },
     "tags": [
       "nebula",
