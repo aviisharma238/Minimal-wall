@@ -2,6 +2,7 @@
  * Verified 100% Matched Wallpaper Catalog
  * Generated fresh from your collection (1368 items).
  * Each thumbnail is deterministically mapped to its exact original file.
+ * Connected to ImageKit Global CDN (https://ik.imagekit.io/ayusharma/wallpaper).
  */
 
 export const WALLPAPERS = [
@@ -42,9 +43,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c308e855c9d3.webp",
-      "preview": "/api/wallpaper/anime/android-sakura.jpg",
-      "original": "/api/wallpaper/anime/android-sakura.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/android-sakura.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/android-sakura.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/android-sakura.jpg"
     },
     "tags": [
       "sakura",
@@ -89,9 +90,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-29e02028aeac.webp",
-      "preview": "/api/wallpaper/anime/anime-chick.jpg",
-      "original": "/api/wallpaper/anime/anime-chick.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-chick.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-chick.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-chick.jpg"
     },
     "tags": [
       "colorful",
@@ -138,9 +139,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3a88cfb2e5e7.webp",
-      "preview": "/api/wallpaper/anime/anime-eye-nord.png",
-      "original": "/api/wallpaper/anime/anime-eye-nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-eye-nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-eye-nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-eye-nord.png"
     },
     "tags": [
       "minimal",
@@ -186,9 +187,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3e8094279534.webp",
-      "preview": "/api/wallpaper/anime/anime-nord.png",
-      "original": "/api/wallpaper/anime/anime-nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-nord.png"
     },
     "tags": [
       "nord",
@@ -233,9 +234,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7cde335cf66d.webp",
-      "preview": "/api/wallpaper/anime/anime-pond.png",
-      "original": "/api/wallpaper/anime/anime-pond.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-pond.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-pond.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-pond.png"
     },
     "tags": [
       "anime",
@@ -280,9 +281,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a0ef24356618.webp",
-      "preview": "/api/wallpaper/anime/anime-water.png",
-      "original": "/api/wallpaper/anime/anime-water.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-water.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-water.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime-water.png"
     },
     "tags": [
       "water",
@@ -329,9 +330,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c20d97fdc6b.webp",
-      "preview": "/api/wallpaper/anime/anime_cafe_tokyonight.png",
-      "original": "/api/wallpaper/anime/anime_cafe_tokyonight.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime_cafe_tokyonight.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime_cafe_tokyonight.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime_cafe_tokyonight.png"
     },
     "tags": [
       "sky",
@@ -377,9 +378,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a9721856e330.webp",
-      "preview": "/api/wallpaper/anime/anime_skyline.png",
-      "original": "/api/wallpaper/anime/anime_skyline.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime_skyline.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime_skyline.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/anime_skyline.png"
     },
     "tags": [
       "sky",
@@ -425,9 +426,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-10110097fc20.webp",
-      "preview": "/api/wallpaper/anime/arch-chan_to.png",
-      "original": "/api/wallpaper/anime/arch-chan_to.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/arch-chan_to.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/arch-chan_to.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/arch-chan_to.png"
     },
     "tags": [
       "monochrome",
@@ -474,9 +475,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-70e96ddd0543.webp",
-      "preview": "/api/wallpaper/anime/black-white-girl.png",
-      "original": "/api/wallpaper/anime/black-white-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/black-white-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/black-white-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/black-white-girl.png"
     },
     "tags": [
       "black",
@@ -495,22 +496,22 @@ export const WALLPAPERS = [
       {
         "hex": "#B2B2B2",
         "name": "Tone #B2B2B2",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#B2B2B2",
         "name": "Tone #B2B2B2",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#B2B2B2",
         "name": "Tone #B2B2B2",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#B2B2B2",
         "name": "Tone #B2B2B2",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -521,9 +522,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8e0829266b27.webp",
-      "preview": "/api/wallpaper/anime/black_car_girl.jpg",
-      "original": "/api/wallpaper/anime/black_car_girl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/black_car_girl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/black_car_girl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/black_car_girl.jpg"
     },
     "tags": [
       "anime",
@@ -569,9 +570,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3f40a9c8a699.webp",
-      "preview": "/api/wallpaper/anime/blue-black-girl.png",
-      "original": "/api/wallpaper/anime/blue-black-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/blue-black-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/blue-black-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/blue-black-girl.png"
     },
     "tags": [
       "anime",
@@ -617,9 +618,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7759e98836d6.webp",
-      "preview": "/api/wallpaper/anime/cat_anime-girl.png",
-      "original": "/api/wallpaper/anime/cat_anime-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/cat_anime-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/cat_anime-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/cat_anime-girl.png"
     },
     "tags": [
       "anime",
@@ -664,9 +665,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-9177991e9d80.webp",
-      "preview": "/api/wallpaper/anime/catpuccin_samurai.png",
-      "original": "/api/wallpaper/anime/catpuccin_samurai.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/catpuccin_samurai.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/catpuccin_samurai.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/catpuccin_samurai.png"
     },
     "tags": [
       "anime",
@@ -712,9 +713,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-d3d74be96843.webp",
-      "preview": "/api/wallpaper/anime/dark_samurai_mobile.jpg",
-      "original": "/api/wallpaper/anime/dark_samurai_mobile.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/dark_samurai_mobile.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/dark_samurai_mobile.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/dark_samurai_mobile.jpg"
     },
     "tags": [
       "anime",
@@ -760,9 +761,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b7c9103b23bb.webp",
-      "preview": "/api/wallpaper/anime/girl-on-black.png",
-      "original": "/api/wallpaper/anime/girl-on-black.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/girl-on-black.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/girl-on-black.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/girl-on-black.png"
     },
     "tags": [
       "minimal",
@@ -809,9 +810,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8520132f1750.webp",
-      "preview": "/api/wallpaper/anime/girl.jpg",
-      "original": "/api/wallpaper/anime/girl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/girl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/girl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/girl.jpg"
     },
     "tags": [
       "japan",
@@ -857,9 +858,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-ffe0676d5c03.webp",
-      "preview": "/api/wallpaper/anime/got_bw.jpg",
-      "original": "/api/wallpaper/anime/got_bw.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/got_bw.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/got_bw.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/got_bw.jpg"
     },
     "tags": [
       "ghost of tsushima",
@@ -905,9 +906,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3ed098b70eca.webp",
-      "preview": "/api/wallpaper/anime/got_red.jpg",
-      "original": "/api/wallpaper/anime/got_red.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/got_red.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/got_red.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/got_red.jpg"
     },
     "tags": [
       "ghost of tsushima",
@@ -953,9 +954,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-81370b308058.webp",
-      "preview": "/api/wallpaper/anime/green-girl.jpg",
-      "original": "/api/wallpaper/anime/green-girl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/green-girl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/green-girl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/green-girl.jpg"
     },
     "tags": [
       "anime",
@@ -999,9 +1000,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-91e519076d14.webp",
-      "preview": "/api/wallpaper/anime/japan-purple-blur.png",
-      "original": "/api/wallpaper/anime/japan-purple-blur.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan-purple-blur.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan-purple-blur.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan-purple-blur.png"
     },
     "tags": [
       "purple",
@@ -1047,9 +1048,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-00a190957463.webp",
-      "preview": "/api/wallpaper/anime/japan.png",
-      "original": "/api/wallpaper/anime/japan.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan.png"
     },
     "tags": [
       "japan",
@@ -1094,9 +1095,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-8963fdc89bd6.webp",
-      "preview": "/api/wallpaper/anime/japan2.jpg",
-      "original": "/api/wallpaper/anime/japan2.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan2.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan2.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan2.jpg"
     },
     "tags": [
       "japan",
@@ -1142,9 +1143,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-3eceedf38ab9.webp",
-      "preview": "/api/wallpaper/anime/japan3.jpg",
-      "original": "/api/wallpaper/anime/japan3.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan3.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan3.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan3.jpg"
     },
     "tags": [
       "tree",
@@ -1191,9 +1192,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-73d1d98108b0.webp",
-      "preview": "/api/wallpaper/anime/japan_anime_city.jpg",
-      "original": "/api/wallpaper/anime/japan_anime_city.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan_anime_city.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan_anime_city.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan_anime_city.jpg"
     },
     "tags": [
       "japan",
@@ -1239,9 +1240,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-7022a73d59e4.webp",
-      "preview": "/api/wallpaper/anime/japan_torii.png",
-      "original": "/api/wallpaper/anime/japan_torii.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan_torii.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan_torii.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japan_torii.png"
     },
     "tags": [
       "japan",
@@ -1286,9 +1287,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-809d19f3341a.webp",
-      "preview": "/api/wallpaper/anime/japanese-house.png",
-      "original": "/api/wallpaper/anime/japanese-house.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japanese-house.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japanese-house.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/japanese-house.png"
     },
     "tags": [
       "light",
@@ -1335,9 +1336,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a7426f740e4c.webp",
-      "preview": "/api/wallpaper/anime/katana.jpg",
-      "original": "/api/wallpaper/anime/katana.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/katana.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/katana.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/katana.jpg"
     },
     "tags": [
       "katana",
@@ -1383,9 +1384,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-e1b8dd750580.webp",
-      "preview": "/api/wallpaper/anime/lets_go_home.png",
-      "original": "/api/wallpaper/anime/lets_go_home.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/lets_go_home.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/lets_go_home.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/lets_go_home.png"
     },
     "tags": [
       "japan",
@@ -1431,9 +1432,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-b9cd01ea7a95.webp",
-      "preview": "/api/wallpaper/anime/manga-samurai.png",
-      "original": "/api/wallpaper/anime/manga-samurai.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/manga-samurai.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/manga-samurai.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/manga-samurai.png"
     },
     "tags": [
       "anime",
@@ -1479,9 +1480,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6c216bba818a.webp",
-      "preview": "/api/wallpaper/anime/manga.png",
-      "original": "/api/wallpaper/anime/manga.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/manga.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/manga.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/manga.png"
     },
     "tags": [
       "fantasy",
@@ -1528,9 +1529,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-4d663e5ef4f1.webp",
-      "preview": "/api/wallpaper/anime/mobile-girl.jpg",
-      "original": "/api/wallpaper/anime/mobile-girl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/mobile-girl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/mobile-girl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/mobile-girl.jpg"
     },
     "tags": [
       "anime",
@@ -1575,9 +1576,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-c7436a712781.webp",
-      "preview": "/api/wallpaper/anime/neon-shacks-nord.png",
-      "original": "/api/wallpaper/anime/neon-shacks-nord.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/neon-shacks-nord.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/neon-shacks-nord.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/neon-shacks-nord.png"
     },
     "tags": [
       "japan",
@@ -1624,9 +1625,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6917bdaf3237.webp",
-      "preview": "/api/wallpaper/anime/neosamurai.webp",
-      "original": "/api/wallpaper/anime/neosamurai.webp"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/neosamurai.webp?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/neosamurai.webp?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/neosamurai.webp"
     },
     "tags": [
       "city",
@@ -1673,9 +1674,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a7af3d6495a9.webp",
-      "preview": "/api/wallpaper/anime/nord_minimal_girl.png",
-      "original": "/api/wallpaper/anime/nord_minimal_girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/nord_minimal_girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/nord_minimal_girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/nord_minimal_girl.png"
     },
     "tags": [
       "anime",
@@ -1720,9 +1721,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-2af697d8dfef.webp",
-      "preview": "/api/wallpaper/anime/pastel-japanese-temple.png",
-      "original": "/api/wallpaper/anime/pastel-japanese-temple.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/pastel-japanese-temple.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/pastel-japanese-temple.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/pastel-japanese-temple.png"
     },
     "tags": [
       "nord",
@@ -1769,9 +1770,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-a25a9b7c3f22.webp",
-      "preview": "/api/wallpaper/anime/pond_shed.png",
-      "original": "/api/wallpaper/anime/pond_shed.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/pond_shed.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/pond_shed.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/pond_shed.png"
     },
     "tags": [
       "japan",
@@ -1817,9 +1818,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "4K UHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-6685996e95c3.webp",
-      "preview": "/api/wallpaper/anime/purple-girl.png",
-      "original": "/api/wallpaper/anime/purple-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/purple-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/purple-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/purple-girl.png"
     },
     "tags": [
       "purple",
@@ -1866,9 +1867,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-524ce9956d13.webp",
-      "preview": "/api/wallpaper/anime/purple_car_girl.png",
-      "original": "/api/wallpaper/anime/purple_car_girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/purple_car_girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/purple_car_girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/purple_car_girl.png"
     },
     "tags": [
       "purple",
@@ -1915,9 +1916,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-98d8ebb67c2e.webp",
-      "preview": "/api/wallpaper/anime/rad_samurai.jpg",
-      "original": "/api/wallpaper/anime/rad_samurai.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/rad_samurai.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/rad_samurai.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/rad_samurai.jpg"
     },
     "tags": [
       "green",
@@ -1963,9 +1964,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-1d77b09f9cc6.webp",
-      "preview": "/api/wallpaper/anime/shibainu.jpeg",
-      "original": "/api/wallpaper/anime/shibainu.jpeg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/shibainu.jpeg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/shibainu.jpeg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/shibainu.jpeg"
     },
     "tags": [
       "shiba inu",
@@ -2011,9 +2012,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-5ff6f9f15c81.webp",
-      "preview": "/api/wallpaper/anime/shougan_castle.png",
-      "original": "/api/wallpaper/anime/shougan_castle.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/shougan_castle.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/shougan_castle.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/shougan_castle.png"
     },
     "tags": [
       "japan",
@@ -2059,9 +2060,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-f3f6507a4823.webp",
-      "preview": "/api/wallpaper/anime/wallhaven-q21vkl.jpg",
-      "original": "/api/wallpaper/anime/wallhaven-q21vkl.jpg"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/wallhaven-q21vkl.jpg?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/wallhaven-q21vkl.jpg?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/wallhaven-q21vkl.jpg"
     },
     "tags": [
       "sakura",
@@ -2107,9 +2108,9 @@ export const WALLPAPERS = [
     },
     "resolutionBadge": "QHD",
     "urls": {
-      "thumbnail": "/thumbs/thumb-87f2e2adb9a6.webp",
-      "preview": "/api/wallpaper/anime/wide-girl.png",
-      "original": "/api/wallpaper/anime/wide-girl.png"
+      "thumbnail": "https://ik.imagekit.io/ayusharma/wallpaper/anime/wide-girl.png?tr=w-500,q-80,f-auto",
+      "preview": "https://ik.imagekit.io/ayusharma/wallpaper/anime/wide-girl.png?tr=w-1920,q-85,f-auto",
+      "original": "https://ik.imagekit.io/ayusharma/wallpaper/anime/wide-girl.png"
     },
     "tags": [
       "anime",
@@ -3065,22 +3066,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -4225,22 +4226,22 @@ export const WALLPAPERS = [
       {
         "hex": "#8FB6B5",
         "name": "Tone #8FB6B5",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#8FB6B5",
         "name": "Tone #8FB6B5",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#8FB6B5",
         "name": "Tone #8FB6B5",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#8FB6B5",
         "name": "Tone #8FB6B5",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -7065,7 +7066,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0151",
     "slug": "ros-pine-0151",
-    "title": "Ros\u00e9 Pine",
+    "title": "Rosé Pine",
     "category": "abstract",
     "natureType": null,
     "colorFamily": "purple",
@@ -7100,8 +7101,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "QHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-4472d40817dd.webp",
-      "preview": "/api/wallpaper/colourize/02. Ros\u00e9 Pine.png",
-      "original": "/api/wallpaper/colourize/02. Ros\u00e9 Pine.png"
+      "preview": "/api/wallpaper/colourize/02. Rosé Pine.png",
+      "original": "/api/wallpaper/colourize/02. Rosé Pine.png"
     },
     "tags": [
       "colourize",
@@ -7206,7 +7207,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0154",
     "slug": "ros-pine-0154",
-    "title": "Ros\u00e9 Pine",
+    "title": "Rosé Pine",
     "category": "abstract",
     "natureType": null,
     "colorFamily": "monochrome",
@@ -7241,8 +7242,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "QHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-6e2961cb290a.webp",
-      "preview": "/api/wallpaper/colourize/17. Ros\u00e9 Pine.jpg",
-      "original": "/api/wallpaper/colourize/17. Ros\u00e9 Pine.jpg"
+      "preview": "/api/wallpaper/colourize/17. Rosé Pine.jpg",
+      "original": "/api/wallpaper/colourize/17. Rosé Pine.jpg"
     },
     "tags": [
       "colourize",
@@ -9533,22 +9534,22 @@ export const WALLPAPERS = [
       {
         "hex": "#131C25",
         "name": "Tone #131C25",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#131C25",
         "name": "Tone #131C25",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#131C25",
         "name": "Tone #131C25",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#131C25",
         "name": "Tone #131C25",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -10058,22 +10059,22 @@ export const WALLPAPERS = [
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -10578,22 +10579,22 @@ export const WALLPAPERS = [
       {
         "hex": "#08091B",
         "name": "Tone #08091B",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#08091B",
         "name": "Tone #08091B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#08091B",
         "name": "Tone #08091B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#08091B",
         "name": "Tone #08091B",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -14216,22 +14217,22 @@ export const WALLPAPERS = [
       {
         "hex": "#495154",
         "name": "Tone #495154",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#495154",
         "name": "Tone #495154",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#495154",
         "name": "Tone #495154",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#495154",
         "name": "Tone #495154",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -15361,22 +15362,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1C2021",
         "name": "Tone #1C2021",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1C2021",
         "name": "Tone #1C2021",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1C2021",
         "name": "Tone #1C2021",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1C2021",
         "name": "Tone #1C2021",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -15408,22 +15409,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -15644,22 +15645,22 @@ export const WALLPAPERS = [
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -15927,22 +15928,22 @@ export const WALLPAPERS = [
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -16248,7 +16249,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0345",
     "slug": "gem-lde-0345",
-    "title": "Gem\u00e4lde",
+    "title": "Gemälde",
     "category": "minimal",
     "natureType": null,
     "colorFamily": "monochrome",
@@ -16283,8 +16284,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "QHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-4f7864809c19.webp",
-      "preview": "/api/wallpaper/gruvbox/Gem\u00e4lde.png",
-      "original": "/api/wallpaper/gruvbox/Gem\u00e4lde.png"
+      "preview": "/api/wallpaper/gruvbox/Gemälde.png",
+      "original": "/api/wallpaper/gruvbox/Gemälde.png"
     },
     "tags": [
       "minimal",
@@ -16350,22 +16351,22 @@ export const WALLPAPERS = [
       {
         "hex": "#555555",
         "name": "Tone #555555",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#555555",
         "name": "Tone #555555",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#555555",
         "name": "Tone #555555",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#555555",
         "name": "Tone #555555",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -16539,22 +16540,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -16586,22 +16587,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D2021",
         "name": "Tone #1D2021",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -17342,22 +17343,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -17389,22 +17390,22 @@ export const WALLPAPERS = [
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -17671,22 +17672,22 @@ export const WALLPAPERS = [
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#FFE5BF",
         "name": "Tone #FFE5BF",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -18000,22 +18001,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -18424,22 +18425,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -18471,22 +18472,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -18566,22 +18567,22 @@ export const WALLPAPERS = [
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#98825C",
         "name": "Tone #98825C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -20697,22 +20698,22 @@ export const WALLPAPERS = [
       {
         "hex": "#232A2E",
         "name": "Tone #232A2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#232A2E",
         "name": "Tone #232A2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#232A2E",
         "name": "Tone #232A2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#232A2E",
         "name": "Tone #232A2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -24825,22 +24826,22 @@ export const WALLPAPERS = [
       {
         "hex": "#E2DCCD",
         "name": "Tone #E2DCCD",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#E2DCCD",
         "name": "Tone #E2DCCD",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#E2DCCD",
         "name": "Tone #E2DCCD",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#E2DCCD",
         "name": "Tone #E2DCCD",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -25012,22 +25013,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -25106,22 +25107,22 @@ export const WALLPAPERS = [
       {
         "hex": "#17181C",
         "name": "Tone #17181C",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#17181C",
         "name": "Tone #17181C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#17181C",
         "name": "Tone #17181C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#17181C",
         "name": "Tone #17181C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -25199,22 +25200,22 @@ export const WALLPAPERS = [
       {
         "hex": "#21242B",
         "name": "Tone #21242B",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#21242B",
         "name": "Tone #21242B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#21242B",
         "name": "Tone #21242B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#21242B",
         "name": "Tone #21242B",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -25435,22 +25436,22 @@ export const WALLPAPERS = [
       {
         "hex": "#EFEFEF",
         "name": "Tone #EFEFEF",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#EFEFEF",
         "name": "Tone #EFEFEF",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#EFEFEF",
         "name": "Tone #EFEFEF",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#EFEFEF",
         "name": "Tone #EFEFEF",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -26368,7 +26369,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0556",
     "slug": "ros-pine-0556",
-    "title": "Ros\u00e9 Pine",
+    "title": "Rosé Pine",
     "category": "minimal",
     "natureType": null,
     "colorFamily": "purple",
@@ -26403,8 +26404,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-b236c3b6d9fd.webp",
-      "preview": "/api/wallpaper/misc/01. Ros\u00e9 Pine.jpg",
-      "original": "/api/wallpaper/misc/01. Ros\u00e9 Pine.jpg"
+      "preview": "/api/wallpaper/misc/01. Rosé Pine.jpg",
+      "original": "/api/wallpaper/misc/01. Rosé Pine.jpg"
     },
     "tags": [
       "minimal",
@@ -26415,7 +26416,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0557",
     "slug": "ros-pine-0557",
-    "title": "Ros\u00e9 Pine",
+    "title": "Rosé Pine",
     "category": "minimal",
     "natureType": null,
     "colorFamily": "purple",
@@ -26450,8 +26451,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "QHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-62eec4e8d4a8.webp",
-      "preview": "/api/wallpaper/misc/02. Ros\u00e9 Pine.png",
-      "original": "/api/wallpaper/misc/02. Ros\u00e9 Pine.png"
+      "preview": "/api/wallpaper/misc/02. Rosé Pine.png",
+      "original": "/api/wallpaper/misc/02. Rosé Pine.png"
     },
     "tags": [
       "minimal",
@@ -26982,7 +26983,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0569",
     "slug": "ros-pine-0569",
-    "title": "Ros\u00e9 Pine",
+    "title": "Rosé Pine",
     "category": "minimal",
     "natureType": null,
     "colorFamily": "purple",
@@ -27017,8 +27018,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "QHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-8432fcdf4330.webp",
-      "preview": "/api/wallpaper/misc/16. Ros\u00e9 Pine.png",
-      "original": "/api/wallpaper/misc/16. Ros\u00e9 Pine.png"
+      "preview": "/api/wallpaper/misc/16. Rosé Pine.png",
+      "original": "/api/wallpaper/misc/16. Rosé Pine.png"
     },
     "tags": [
       "minimal",
@@ -27171,7 +27172,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0573",
     "slug": "ros-pine-0573",
-    "title": "Ros\u00e9 Pine",
+    "title": "Rosé Pine",
     "category": "minimal",
     "natureType": null,
     "colorFamily": "monochrome",
@@ -27206,8 +27207,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-a5993b34d463.webp",
-      "preview": "/api/wallpaper/misc/20. Ros\u00e9 Pine.jpg",
-      "original": "/api/wallpaper/misc/20. Ros\u00e9 Pine.jpg"
+      "preview": "/api/wallpaper/misc/20. Rosé Pine.jpg",
+      "original": "/api/wallpaper/misc/20. Rosé Pine.jpg"
     },
     "tags": [
       "minimal",
@@ -27218,7 +27219,7 @@ export const WALLPAPERS = [
   {
     "id": "wall-0574",
     "slug": "ros-pine-0574",
-    "title": "Ros\u00e9 Pine",
+    "title": "Rosé Pine",
     "category": "minimal",
     "natureType": null,
     "colorFamily": "monochrome",
@@ -27253,8 +27254,8 @@ export const WALLPAPERS = [
     "resolutionBadge": "4K UHD",
     "urls": {
       "thumbnail": "/thumbs/thumb-384f666bafd9.webp",
-      "preview": "/api/wallpaper/misc/21. Ros\u00e9 Pine.png",
-      "original": "/api/wallpaper/misc/21. Ros\u00e9 Pine.png"
+      "preview": "/api/wallpaper/misc/21. Rosé Pine.png",
+      "original": "/api/wallpaper/misc/21. Rosé Pine.png"
     },
     "tags": [
       "minimal",
@@ -27415,22 +27416,22 @@ export const WALLPAPERS = [
       {
         "hex": "#B6A9B0",
         "name": "Tone #B6A9B0",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#B6A9B0",
         "name": "Tone #B6A9B0",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#B6A9B0",
         "name": "Tone #B6A9B0",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#B6A9B0",
         "name": "Tone #B6A9B0",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -30746,22 +30747,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1C1C1C",
         "name": "Tone #1C1C1C",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1C1C1C",
         "name": "Tone #1C1C1C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1C1C1C",
         "name": "Tone #1C1C1C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1C1C1C",
         "name": "Tone #1C1C1C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -30842,22 +30843,22 @@ export const WALLPAPERS = [
       {
         "hex": "#FBF1C7",
         "name": "Tone #FBF1C7",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#FBF1C7",
         "name": "Tone #FBF1C7",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#FBF1C7",
         "name": "Tone #FBF1C7",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#FBF1C7",
         "name": "Tone #FBF1C7",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -31081,22 +31082,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E1E",
         "name": "Tone #1E1E1E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -31128,22 +31129,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -33058,22 +33059,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -33351,22 +33352,22 @@ export const WALLPAPERS = [
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#020E1C",
         "name": "Tone #020E1C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -34597,22 +34598,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -37986,22 +37987,22 @@ export const WALLPAPERS = [
       {
         "hex": "#18191D",
         "name": "Tone #18191D",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#18191D",
         "name": "Tone #18191D",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#18191D",
         "name": "Tone #18191D",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#18191D",
         "name": "Tone #18191D",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -38317,22 +38318,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282C34",
         "name": "Tone #282C34",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282C34",
         "name": "Tone #282C34",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282C34",
         "name": "Tone #282C34",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282C34",
         "name": "Tone #282C34",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -39602,7 +39603,7 @@ export const WALLPAPERS = [
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -39775,22 +39776,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -40295,22 +40296,22 @@ export const WALLPAPERS = [
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -40766,22 +40767,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -41143,22 +41144,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -41425,22 +41426,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -42132,22 +42133,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -42275,22 +42276,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1B1B29",
         "name": "Tone #1B1B29",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1B1B29",
         "name": "Tone #1B1B29",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1B1B29",
         "name": "Tone #1B1B29",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1B1B29",
         "name": "Tone #1B1B29",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -42322,22 +42323,22 @@ export const WALLPAPERS = [
       {
         "hex": "#111216",
         "name": "Tone #111216",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#111216",
         "name": "Tone #111216",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#111216",
         "name": "Tone #111216",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#111216",
         "name": "Tone #111216",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -42431,7 +42432,7 @@ export const WALLPAPERS = [
       {
         "hex": "#16171C",
         "name": "Tone #16171C",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -42984,22 +42985,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -43754,7 +43755,7 @@ export const WALLPAPERS = [
       {
         "hex": "#120F18",
         "name": "Tone #120F18",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -43786,22 +43787,22 @@ export const WALLPAPERS = [
       {
         "hex": "#181825",
         "name": "Tone #181825",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#181825",
         "name": "Tone #181825",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#181825",
         "name": "Tone #181825",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#181825",
         "name": "Tone #181825",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -46095,22 +46096,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -46894,22 +46895,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282A36",
         "name": "Tone #282A36",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -47604,22 +47605,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1F2227",
         "name": "Tone #1F2227",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1F2227",
         "name": "Tone #1F2227",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1F2227",
         "name": "Tone #1F2227",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1F2227",
         "name": "Tone #1F2227",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -48027,22 +48028,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -48500,22 +48501,22 @@ export const WALLPAPERS = [
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -49307,22 +49308,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -49452,22 +49453,22 @@ export const WALLPAPERS = [
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -49783,22 +49784,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -50027,22 +50028,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -50313,22 +50314,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -50502,22 +50503,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2A2A37",
         "name": "Tone #2A2A37",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -51125,22 +51126,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -51314,22 +51315,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -51474,7 +51475,7 @@ export const WALLPAPERS = [
       {
         "hex": "#17151E",
         "name": "Tone #17151E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -52870,22 +52871,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1A1826",
         "name": "Tone #1A1826",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1A1826",
         "name": "Tone #1A1826",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1826",
         "name": "Tone #1A1826",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1826",
         "name": "Tone #1A1826",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -53528,22 +53529,22 @@ export const WALLPAPERS = [
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -54008,22 +54009,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1F1E2E",
         "name": "Tone #1F1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1F1E2E",
         "name": "Tone #1F1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1F1E2E",
         "name": "Tone #1F1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1F1E2E",
         "name": "Tone #1F1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -54196,22 +54197,22 @@ export const WALLPAPERS = [
       {
         "hex": "#B4BEFE",
         "name": "Tone #B4BEFE",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#B4BEFE",
         "name": "Tone #B4BEFE",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#B4BEFE",
         "name": "Tone #B4BEFE",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#B4BEFE",
         "name": "Tone #B4BEFE",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -54703,22 +54704,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -54749,22 +54750,22 @@ export const WALLPAPERS = [
       {
         "hex": "#ECEFF4",
         "name": "Tone #ECEFF4",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#ECEFF4",
         "name": "Tone #ECEFF4",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#ECEFF4",
         "name": "Tone #ECEFF4",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#ECEFF4",
         "name": "Tone #ECEFF4",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -54855,7 +54856,7 @@ export const WALLPAPERS = [
       {
         "hex": "#070607",
         "name": "Tone #070607",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -55247,22 +55248,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -55489,7 +55490,7 @@ export const WALLPAPERS = [
       {
         "hex": "#08090B",
         "name": "Tone #08090B",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -55520,22 +55521,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -55753,22 +55754,22 @@ export const WALLPAPERS = [
       {
         "hex": "#181B1D",
         "name": "Tone #181B1D",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#181B1D",
         "name": "Tone #181B1D",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#181B1D",
         "name": "Tone #181B1D",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#181B1D",
         "name": "Tone #181B1D",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -56163,22 +56164,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -56395,22 +56396,22 @@ export const WALLPAPERS = [
       {
         "hex": "#D8DEE9",
         "name": "Tone #D8DEE9",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#D8DEE9",
         "name": "Tone #D8DEE9",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#D8DEE9",
         "name": "Tone #D8DEE9",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#D8DEE9",
         "name": "Tone #D8DEE9",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -56535,22 +56536,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -56955,22 +56956,22 @@ export const WALLPAPERS = [
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#282828",
         "name": "Tone #282828",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -57047,22 +57048,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1C1B24",
         "name": "Tone #1C1B24",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1C1B24",
         "name": "Tone #1C1B24",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1C1B24",
         "name": "Tone #1C1B24",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1C1B24",
         "name": "Tone #1C1B24",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -57094,22 +57095,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -57140,22 +57141,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -57426,22 +57427,22 @@ export const WALLPAPERS = [
       {
         "hex": "#24252A",
         "name": "Tone #24252A",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#24252A",
         "name": "Tone #24252A",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#24252A",
         "name": "Tone #24252A",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#24252A",
         "name": "Tone #24252A",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -57988,22 +57989,22 @@ export const WALLPAPERS = [
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#111111",
         "name": "Tone #111111",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -58131,22 +58132,22 @@ export const WALLPAPERS = [
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#16161E",
         "name": "Tone #16161E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -58224,22 +58225,22 @@ export const WALLPAPERS = [
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#2E3440",
         "name": "Tone #2E3440",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -58368,22 +58369,22 @@ export const WALLPAPERS = [
       {
         "hex": "#08090B",
         "name": "Tone #08090B",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#08090B",
         "name": "Tone #08090B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#08090B",
         "name": "Tone #08090B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#08090B",
         "name": "Tone #08090B",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -59065,22 +59066,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -59339,22 +59340,22 @@ export const WALLPAPERS = [
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#000000",
         "name": "Tone #000000",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -59430,22 +59431,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -59718,7 +59719,7 @@ export const WALLPAPERS = [
       {
         "hex": "#0F0F0E",
         "name": "Tone #0F0F0E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -59900,7 +59901,7 @@ export const WALLPAPERS = [
       {
         "hex": "#010101",
         "name": "Tone #010101",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -60222,7 +60223,7 @@ export const WALLPAPERS = [
       {
         "hex": "#FEFEFE",
         "name": "Tone #FEFEFE",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -61725,22 +61726,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1D1C1B",
         "name": "Tone #1D1C1B",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -61818,22 +61819,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1E1E2E",
         "name": "Tone #1E1E2E",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -63142,22 +63143,22 @@ export const WALLPAPERS = [
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#161320",
         "name": "Tone #161320",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -63335,22 +63336,22 @@ export const WALLPAPERS = [
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#1A1B26",
         "name": "Tone #1A1B26",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
@@ -63762,22 +63763,22 @@ export const WALLPAPERS = [
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 1.0
+        "weight": 1
       },
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 0.0
+        "weight": 0
       },
       {
         "hex": "#363A4F",
         "name": "Tone #363A4F",
-        "weight": 0.0
+        "weight": 0
       }
     ],
     "dimensions": {
