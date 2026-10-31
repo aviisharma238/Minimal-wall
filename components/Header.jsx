@@ -12,7 +12,7 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
     <div className="pill-header-wrapper">
       <header className="pill-header">
         {/* Brand Logo & Navigation */}
-        <div style={{ display: 'flex', alignItems: 'center', gap: '1.25rem' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.85rem', minWidth: 0 }}>
           <Link
             href="/"
             style={{
@@ -23,6 +23,7 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
               fontSize: '0.875rem',
               letterSpacing: '-0.02em',
               color: 'var(--text-primary)',
+              flexShrink: 0,
             }}
           >
             <span
@@ -34,12 +35,13 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
                 display: 'inline-block',
               }}
             />
-            <span>minimal.wall</span>
+            <span className="header-brand-text">minimal.wall</span>
           </Link>
 
-          <nav style={{ display: 'flex', gap: '0.85rem', alignItems: 'center' }}>
+          <nav style={{ display: 'flex', gap: '0.75rem', alignItems: 'center' }}>
             <Link
               href="/"
+              className="header-nav-link"
               style={{
                 fontSize: '0.75rem',
                 color: 'var(--text-secondary)',
@@ -51,6 +53,7 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
             </Link>
             <Link
               href="/explore"
+              className="header-nav-link"
               style={{
                 fontSize: '0.75rem',
                 color: 'var(--text-muted)',
@@ -64,7 +67,7 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
         </div>
 
         {/* Compact Search & Theme Toggle */}
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: '1', maxWidth: '300px', justifyContent: 'flex-end' }}>
+        <div className="header-search-box" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: '1', maxWidth: '300px', justifyContent: 'flex-end', minWidth: 0 }}>
           <div
             onClick={() => onOpenCommandPalette?.()}
             style={{

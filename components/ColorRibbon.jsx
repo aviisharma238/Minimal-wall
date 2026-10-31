@@ -130,12 +130,14 @@ export default function ColorRibbon({
       {/* Mode A: Color Family Swatches with Real Item Counts */}
       {colorMode === 'family' && (
         <div
+          className="no-scrollbar"
           style={{
             display: 'flex',
             alignItems: 'center',
             gap: '0.5rem',
             overflowX: 'auto',
             paddingBottom: '0.25rem',
+            WebkitOverflowScrolling: 'touch',
           }}
         >
           {COLOR_FAMILIES.map((family) => {

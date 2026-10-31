@@ -88,6 +88,7 @@ export default function WallpaperCard({
 
       {/* Top Floating Actions & Aspect Ratio Tag */}
       <div
+        className="card-top-overlay"
         style={{
           position: 'absolute',
           top: '10px',
@@ -158,6 +159,7 @@ export default function WallpaperCard({
 
       {/* Bottom Metadata & Proportion Palette Bar Overlay */}
       <div
+        className="card-bottom-overlay"
         style={{
           position: 'absolute',
           bottom: 0,

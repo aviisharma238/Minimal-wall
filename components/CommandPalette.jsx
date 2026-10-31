@@ -231,6 +231,7 @@ export default function CommandPalette({
   return (
     <div
       onClick={onClose}
+      className="cmd-palette-backdrop"
       style={{
         position: 'fixed',
         inset: 0,
@@ -241,7 +242,6 @@ export default function CommandPalette({
         display: 'flex',
         alignItems: 'flex-start',
         justifyContent: 'center',
-        paddingTop: '12vh',
         paddingLeft: '1rem',
         paddingRight: '1rem',
         animation: 'cmdFadeIn 0.15s cubic-bezier(0.16, 1, 0.3, 1)',
@@ -474,7 +474,7 @@ export default function CommandPalette({
             color: 'var(--text-muted)',
           }}
         >
-          <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
+          <div className="desktop-only-hints" style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
             <span>
               <kbd style={{ padding: '0.1rem 0.35rem', borderRadius: '4px', background: 'var(--bg-surface)', border: '1px solid var(--border-subtle)' }}>↑</kbd>{' '}
               <kbd style={{ padding: '0.1rem 0.35rem', borderRadius: '4px', background: 'var(--bg-surface)', border: '1px solid var(--border-subtle)' }}>↓</kbd> navigate

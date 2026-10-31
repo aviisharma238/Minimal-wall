@@ -83,12 +83,16 @@ export default function CategoryFilters({
         }}
       >
         <div
+          className="no-scrollbar"
           style={{
             display: 'flex',
             alignItems: 'center',
             gap: '0.4rem',
             overflowX: 'auto',
             paddingBottom: '0.2rem',
+            WebkitOverflowScrolling: 'touch',
+            flex: '1',
+            minWidth: 0,
           }}
         >
           {CATEGORIES.map((cat) => {
@@ -193,14 +197,14 @@ export default function CategoryFilters({
 
       {/* Popular Aesthetic Tag Chips Bar */}
       <div
+        className="no-scrollbar"
         style={{
           display: 'flex',
           alignItems: 'center',
           gap: '0.4rem',
           overflowX: 'auto',
           padding: '0.2rem 0',
-          scrollbarWidth: 'none',
-          msOverflowStyle: 'none',
+          WebkitOverflowScrolling: 'touch',
         }}
       >
         <span
@@ -283,12 +287,14 @@ export default function CategoryFilters({
       {/* Secondary Nature Subtype Row (when Nature is selected) */}
       {(activeCategory === 'nature') && !favoritesOnly && (
         <div
+          className="no-scrollbar"
           style={{
             display: 'flex',
             alignItems: 'center',
             gap: '0.35rem',
             overflowX: 'auto',
             paddingLeft: '0.25rem',
+            WebkitOverflowScrolling: 'touch',
           }}
         >
           <span

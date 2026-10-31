@@ -37,6 +37,36 @@ export default function WallpaperViewer({
 
   const primaryColor = wallpaper?.dominantColors?.[0]?.hex || '#2A5C8A';
   const currentIndex = wallpaper ? allWallpapers.findIndex((w) => w.id === wallpaper.id) : -1;
+  const touchStartRef = useRef({ x: 0, y: 0 });
+
+  const handleTouchStart = (e) => {
+    if (e.touches && e.touches[0]) {
+      touchStartRef.current = {
+        x: e.touches[0].clientX,
+        y: e.touches[0].clientY,
+      };
+    }
+  };
+
+  const handleTouchEnd = (e) => {
+    if (e.changedTouches && e.changedTouches[0]) {
+      const deltaX = e.changedTouches[0].clientX - touchStartRef.current.x;
+      const deltaY = e.changedTouches[0].clientY - touchStartRef.current.y;
+
+      // Horizontal swipe for next/prev wallpaper
+      if (Math.abs(deltaX) > 50 && Math.abs(deltaX) > Math.abs(deltaY)) {
+        if (deltaX < 0) {
+          navigateNext();
+        } else {
+          navigatePrev();
+        }
+      }
+      // Vertical swipe down to close
+      else if (deltaY > 80 && Math.abs(deltaY) > Math.abs(deltaX)) {
+        onClose();
+      }
+    }
+  };
 
   const navigateNext = () => {
     if (currentIndex >= 0 && currentIndex < allWallpapers.length - 1) {
@@ -173,6 +203,8 @@ export default function WallpaperViewer({
 
   return (
     <div
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
       style={{
         position: 'fixed',
         inset: 0,
@@ -183,7 +215,7 @@ export default function WallpaperViewer({
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'space-between',
-        padding: '1.25rem',
+        padding: '1rem',
         overflowY: 'auto',
       }}
     >
@@ -386,7 +418,7 @@ export default function WallpaperViewer({
           zIndex: 10,
           maxWidth: '1560px',
           width: '100%',
-          margin: '1.5rem auto',
+          margin: '1.25rem auto',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
@@ -395,29 +427,16 @@ export default function WallpaperViewer({
         {/* Left Arrow */}
         <button
           onClick={navigatePrev}
-          aria-label="Previous wallpaper (←)"
+          aria-label="Previous wallpaper (← or swipe right)"
           title="Previous (←)"
-          style={{
-            position: 'absolute',
-            left: 0,
-            zIndex: 20,
-            width: '42px',
-            height: '42px',
-            borderRadius: '50%',
-            background: 'var(--bg-surface)',
-            border: '1px solid var(--border-subtle)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            color: 'var(--text-primary)',
-            boxShadow: 'var(--card-shadow)',
-          }}
+          className="viewer-nav-btn"
+          style={{ left: 0 }}
         >
           <ChevronLeft size={20} />
         </button>
 
         {/* Center Mockup / Artwork */}
-        <div style={{ width: '100%', padding: '0 3.5rem' }}>
+        <div className="viewer-canvas-pad">
           <DeviceMockup
             wallpaper={wallpaper}
             mode={mockupMode}
@@ -429,23 +448,10 @@ export default function WallpaperViewer({
         {/* Right Arrow */}
         <button
           onClick={navigateNext}
-          aria-label="Next wallpaper (→)"
+          aria-label="Next wallpaper (→ or swipe left)"
           title="Next (→)"
-          style={{
-            position: 'absolute',
-            right: 0,
-            zIndex: 20,
-            width: '42px',
-            height: '42px',
-            borderRadius: '50%',
-            background: 'var(--bg-surface)',
-            border: '1px solid var(--border-subtle)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            color: 'var(--text-primary)',
-            boxShadow: 'var(--card-shadow)',
-          }}
+          className="viewer-nav-btn"
+          style={{ right: 0 }}
         >
           <ChevronRight size={20} />
         </button>
@@ -472,7 +478,7 @@ export default function WallpaperViewer({
 
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
           <div
-            className="mono-tag"
+            className="mono-tag desktop-only-hints"
             style={{
               color: 'var(--text-muted)',
               fontSize: '0.65rem',
