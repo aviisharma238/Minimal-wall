@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { Search, X } from 'lucide-react';
 import ThemeToggle from './ThemeToggle';
 
-export default function Header({ searchQuery = '', onSearchChange }) {
+export default function Header({ searchQuery = '', onSearchChange, onOpenCommandPalette }) {
   const [isFocused, setIsFocused] = useState(false);
 
   return (
@@ -66,11 +66,13 @@ export default function Header({ searchQuery = '', onSearchChange }) {
         {/* Compact Search & Theme Toggle */}
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: '1', maxWidth: '300px', justifyContent: 'flex-end' }}>
           <div
+            onClick={() => onOpenCommandPalette?.()}
             style={{
               position: 'relative',
               width: '100%',
               display: 'flex',
               alignItems: 'center',
+              cursor: onOpenCommandPalette ? 'pointer' : 'text',
             }}
           >
             <Search
@@ -84,14 +86,21 @@ export default function Header({ searchQuery = '', onSearchChange }) {
             />
             <input
               type="text"
-              placeholder="Search aesthetics..."
+              placeholder="Search or ⌘K..."
               value={searchQuery}
-              onChange={(e) => onSearchChange(e.target.value)}
-              onFocus={() => setIsFocused(true)}
+              onChange={(e) => onSearchChange?.(e.target.value)}
+              onFocus={() => {
+                if (onOpenCommandPalette) {
+                  onOpenCommandPalette();
+                } else {
+                  setIsFocused(true);
+                }
+              }}
               onBlur={() => setIsFocused(false)}
+              readOnly={!!onOpenCommandPalette}
               style={{
                 width: '100%',
-                padding: '0.35rem 1.8rem 0.35rem 1.8rem',
+                padding: '0.35rem 2.2rem 0.35rem 1.8rem',
                 borderRadius: '9999px',
                 background: isFocused ? 'var(--bg-surface)' : 'var(--bg-surface-elevated)',
                 border: isFocused
@@ -100,12 +109,16 @@ export default function Header({ searchQuery = '', onSearchChange }) {
                 color: 'var(--text-primary)',
                 fontSize: '0.75rem',
                 outline: 'none',
+                cursor: onOpenCommandPalette ? 'pointer' : 'text',
                 transition: 'var(--transition-smooth)',
               }}
             />
-            {searchQuery && (
+            {searchQuery ? (
               <button
-                onClick={() => onSearchChange('')}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  onSearchChange?.('');
+                }}
                 style={{
                   position: 'absolute',
                   right: '8px',
@@ -116,6 +129,23 @@ export default function Header({ searchQuery = '', onSearchChange }) {
               >
                 <X size={12} />
               </button>
+            ) : (
+              <span
+                style={{
+                  position: 'absolute',
+                  right: '8px',
+                  fontSize: '0.625rem',
+                  fontFamily: 'var(--font-mono)',
+                  color: 'var(--text-muted)',
+                  background: 'var(--bg-surface)',
+                  padding: '0.1rem 0.35rem',
+                  borderRadius: '4px',
+                  border: '1px solid var(--border-subtle)',
+                  pointerEvents: 'none',
+                }}
+              >
+                ⌘K
+              </span>
             )}
           </div>
 

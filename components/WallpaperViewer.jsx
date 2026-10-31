@@ -1,7 +1,22 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { X, Download, Heart, Monitor, Smartphone, Image as ImageIcon, ExternalLink, ChevronLeft, ChevronRight, Sparkles } from 'lucide-react';
+import { useState, useEffect, useRef } from 'react';
+import {
+  X,
+  Download,
+  Heart,
+  Monitor,
+  Smartphone,
+  Image as ImageIcon,
+  ExternalLink,
+  ChevronLeft,
+  ChevronRight,
+  ChevronDown,
+  Sparkles,
+  Laptop,
+  Tablet,
+  Check,
+} from 'lucide-react';
 import DeviceMockup from './DeviceMockup';
 import PaletteInspector from './PaletteInspector';
 
@@ -15,7 +30,10 @@ export default function WallpaperViewer({
 }) {
   const [mockupMode, setMockupMode] = useState('raw'); // 'raw' | 'macbook' | 'iphone'
   const [downloading, setDownloading] = useState(false);
+  const [downloadProgressText, setDownloadProgressText] = useState('');
+  const [showDownloadMenu, setShowDownloadMenu] = useState(false);
   const [showWidgets, setShowWidgets] = useState(true);
+  const downloadMenuRef = useRef(null);
 
   const primaryColor = wallpaper?.dominantColors?.[0]?.hex || '#2A5C8A';
   const currentIndex = wallpaper ? allWallpapers.findIndex((w) => w.id === wallpaper.id) : -1;
@@ -36,26 +54,76 @@ export default function WallpaperViewer({
     }
   };
 
-  const handleDownload = async () => {
+  const handleDownloadCrop = async (type = 'original') => {
     if (!wallpaper) return;
     setDownloading(true);
+    setShowDownloadMenu(false);
+
+    let targetUrl = wallpaper.urls.original;
+    let filename = `${wallpaper.slug || 'wallpaper'}-original.png`;
+    const isIK = targetUrl?.startsWith('https://ik.imagekit.io');
+
+    if (type === 'mobile') {
+      setDownloadProgressText('Formatting for Mobile...');
+      targetUrl = isIK
+        ? `${wallpaper.urls.original}?tr=w-1170,h-2532,fo-auto,q-90,f-auto`
+        : wallpaper.urls.original;
+      filename = `${wallpaper.slug || 'wallpaper'}-mobile-1170x2532.jpg`;
+    } else if (type === 'desktop_4k') {
+      setDownloadProgressText('Rendering 4K Desktop...');
+      targetUrl = isIK
+        ? `${wallpaper.urls.original}?tr=w-3840,h-2160,c-maintain_ratio,q-90,f-auto`
+        : wallpaper.urls.original;
+      filename = `${wallpaper.slug || 'wallpaper'}-desktop-4k.jpg`;
+    } else if (type === 'ultrawide') {
+      setDownloadProgressText('Formatting Ultrawide 21:9...');
+      targetUrl = isIK
+        ? `${wallpaper.urls.original}?tr=w-3440,h-1440,fo-auto,q-90,f-auto`
+        : wallpaper.urls.original;
+      filename = `${wallpaper.slug || 'wallpaper'}-ultrawide-3440x1440.jpg`;
+    } else if (type === 'tablet') {
+      setDownloadProgressText('Formatting Tablet 4:3...');
+      targetUrl = isIK
+        ? `${wallpaper.urls.original}?tr=w-2048,h-2732,fo-auto,q-90,f-auto`
+        : wallpaper.urls.original;
+      filename = `${wallpaper.slug || 'wallpaper'}-tablet-2048x2732.jpg`;
+    } else {
+      setDownloadProgressText('Downloading Master File...');
+    }
+
     try {
-      const response = await fetch(wallpaper.urls.original);
+      const response = await fetch(targetUrl);
       const blob = await response.blob();
       const url = window.URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url;
-      a.download = `${wallpaper.slug}.png`;
+      a.download = filename;
       document.body.appendChild(a);
       a.click();
       window.URL.revokeObjectURL(url);
       document.body.removeChild(a);
     } catch (err) {
-      window.open(wallpaper.urls.original, '_blank');
+      window.open(targetUrl, '_blank');
     } finally {
       setDownloading(false);
+      setDownloadProgressText('');
     }
   };
+
+  const handleDownload = () => handleDownloadCrop('original');
+
+  // Close download menu on click outside
+  useEffect(() => {
+    const handleClickOutside = (e) => {
+      if (downloadMenuRef.current && !downloadMenuRef.current.contains(e.target)) {
+        setShowDownloadMenu(false);
+      }
+    };
+    if (showDownloadMenu) {
+      document.addEventListener('mousedown', handleClickOutside);
+    }
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [showDownloadMenu]);
 
   useEffect(() => {
     if (!wallpaper) return;
@@ -440,26 +508,326 @@ export default function WallpaperViewer({
             <span>Permalink</span>
           </a>
 
-          <button
-            onClick={handleDownload}
-            disabled={downloading}
-            style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '0.5rem',
-              padding: '0.65rem 1.25rem',
-              borderRadius: '9px',
-              background: 'var(--text-primary)',
-              color: 'var(--bg-primary)',
-              fontSize: '0.8125rem',
-              fontWeight: 500,
-              cursor: downloading ? 'wait' : 'pointer',
-              transition: 'opacity 0.2s ease',
-            }}
-          >
-            <Download size={15} />
-            <span>{downloading ? 'Downloading...' : `Download ${wallpaper.resolutionBadge}`}</span>
-          </button>
+          {/* Split Multi-Resolution Download Button & Dropdown */}
+          <div ref={downloadMenuRef} style={{ position: 'relative' }}>
+            <div
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                borderRadius: '10px',
+                background: 'var(--text-primary)',
+                color: 'var(--bg-primary)',
+                overflow: 'hidden',
+                boxShadow: '0 4px 14px -2px rgba(0, 0, 0, 0.25)',
+              }}
+            >
+              <button
+                onClick={handleDownload}
+                disabled={downloading}
+                title="Download original file (Press D)"
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: '0.45rem',
+                  padding: '0.65rem 1rem 0.65rem 1.15rem',
+                  fontSize: '0.8125rem',
+                  fontWeight: 500,
+                  cursor: downloading ? 'wait' : 'pointer',
+                  border: 'none',
+                  background: 'transparent',
+                  color: 'inherit',
+                  transition: 'opacity 0.15s ease',
+                }}
+              >
+                <Download size={15} />
+                <span>
+                  {downloading
+                    ? downloadProgressText || 'Downloading...'
+                    : `Download ${wallpaper.resolutionBadge || 'Original'}`}
+                </span>
+              </button>
+
+              <div
+                style={{
+                  width: '1px',
+                  height: '20px',
+                  backgroundColor: 'rgba(128, 128, 128, 0.3)',
+                }}
+              />
+
+              <button
+                onClick={() => setShowDownloadMenu((prev) => !prev)}
+                disabled={downloading}
+                aria-label="Choose tailored resolution"
+                title="Choose device resolution"
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  padding: '0.65rem 0.65rem',
+                  cursor: 'pointer',
+                  border: 'none',
+                  background: 'transparent',
+                  color: 'inherit',
+                  transition: 'background-color 0.15s ease',
+                }}
+              >
+                <ChevronDown
+                  size={14}
+                  style={{
+                    transform: showDownloadMenu ? 'rotate(180deg)' : 'none',
+                    transition: 'transform 0.2s ease',
+                  }}
+                />
+              </button>
+            </div>
+
+            {/* Floating Device Crop Menu */}
+            {showDownloadMenu && (
+              <div
+                style={{
+                  position: 'absolute',
+                  bottom: 'calc(100% + 8px)',
+                  right: 0,
+                  width: '260px',
+                  backgroundColor: 'var(--bg-surface)',
+                  borderRadius: '12px',
+                  border: '1px solid var(--border-subtle)',
+                  boxShadow: '0 16px 40px -8px rgba(0, 0, 0, 0.35)',
+                  padding: '0.4rem',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: '0.2rem',
+                  zIndex: 50,
+                  animation: 'cmdScaleUp 0.15s cubic-bezier(0.16, 1, 0.3, 1)',
+                }}
+              >
+                <div
+                  className="mono-tag"
+                  style={{
+                    padding: '0.4rem 0.6rem 0.2rem',
+                    color: 'var(--text-muted)',
+                    fontSize: '0.625rem',
+                  }}
+                >
+                  TAILORED DEVICE CROPS
+                </div>
+
+                <button
+                  onClick={() => handleDownloadCrop('desktop_4k')}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    padding: '0.55rem 0.75rem',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    background: 'transparent',
+                    border: 'none',
+                    color: 'var(--text-primary)',
+                    textAlign: 'left',
+                    transition: 'background 0.12s ease',
+                  }}
+                  onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = 'var(--bg-hover)')}
+                  onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                    <Monitor size={15} style={{ color: 'var(--text-secondary)' }} />
+                    <div>
+                      <div style={{ fontSize: '0.8125rem', fontWeight: 500 }}>Desktop 4K</div>
+                      <div style={{ fontSize: '0.6875rem', color: 'var(--text-muted)' }}>
+                        3840 × 2160 • 16:9
+                      </div>
+                    </div>
+                  </div>
+                  <span
+                    className="mono-tag"
+                    style={{
+                      fontSize: '0.6rem',
+                      padding: '0.15rem 0.35rem',
+                      borderRadius: '4px',
+                      background: 'var(--bg-surface-elevated)',
+                      color: 'var(--text-muted)',
+                    }}
+                  >
+                    UHD
+                  </span>
+                </button>
+
+                <button
+                  onClick={() => handleDownloadCrop('mobile')}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    padding: '0.55rem 0.75rem',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    background: 'transparent',
+                    border: 'none',
+                    color: 'var(--text-primary)',
+                    textAlign: 'left',
+                    transition: 'background 0.12s ease',
+                  }}
+                  onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = 'var(--bg-hover)')}
+                  onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                    <Smartphone size={15} style={{ color: 'var(--text-secondary)' }} />
+                    <div>
+                      <div style={{ fontSize: '0.8125rem', fontWeight: 500 }}>iPhone / Android</div>
+                      <div style={{ fontSize: '0.6875rem', color: 'var(--text-muted)' }}>
+                        1170 × 2532 • 9:16 Crop
+                      </div>
+                    </div>
+                  </div>
+                  <span
+                    className="mono-tag"
+                    style={{
+                      fontSize: '0.6rem',
+                      padding: '0.15rem 0.35rem',
+                      borderRadius: '4px',
+                      background: 'var(--bg-surface-elevated)',
+                      color: 'var(--text-muted)',
+                    }}
+                  >
+                    9:16
+                  </span>
+                </button>
+
+                <button
+                  onClick={() => handleDownloadCrop('ultrawide')}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    padding: '0.55rem 0.75rem',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    background: 'transparent',
+                    border: 'none',
+                    color: 'var(--text-primary)',
+                    textAlign: 'left',
+                    transition: 'background 0.12s ease',
+                  }}
+                  onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = 'var(--bg-hover)')}
+                  onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                    <Laptop size={15} style={{ color: 'var(--text-secondary)' }} />
+                    <div>
+                      <div style={{ fontSize: '0.8125rem', fontWeight: 500 }}>Ultrawide Monitor</div>
+                      <div style={{ fontSize: '0.6875rem', color: 'var(--text-muted)' }}>
+                        3440 × 1440 • 21:9
+                      </div>
+                    </div>
+                  </div>
+                  <span
+                    className="mono-tag"
+                    style={{
+                      fontSize: '0.6rem',
+                      padding: '0.15rem 0.35rem',
+                      borderRadius: '4px',
+                      background: 'var(--bg-surface-elevated)',
+                      color: 'var(--text-muted)',
+                    }}
+                  >
+                    21:9
+                  </span>
+                </button>
+
+                <button
+                  onClick={() => handleDownloadCrop('tablet')}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    padding: '0.55rem 0.75rem',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    background: 'transparent',
+                    border: 'none',
+                    color: 'var(--text-primary)',
+                    textAlign: 'left',
+                    transition: 'background 0.12s ease',
+                  }}
+                  onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = 'var(--bg-hover)')}
+                  onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                    <Tablet size={15} style={{ color: 'var(--text-secondary)' }} />
+                    <div>
+                      <div style={{ fontSize: '0.8125rem', fontWeight: 500 }}>iPad & Tablet</div>
+                      <div style={{ fontSize: '0.6875rem', color: 'var(--text-muted)' }}>
+                        2048 × 2732 • 4:3
+                      </div>
+                    </div>
+                  </div>
+                  <span
+                    className="mono-tag"
+                    style={{
+                      fontSize: '0.6rem',
+                      padding: '0.15rem 0.35rem',
+                      borderRadius: '4px',
+                      background: 'var(--bg-surface-elevated)',
+                      color: 'var(--text-muted)',
+                    }}
+                  >
+                    4:3
+                  </span>
+                </button>
+
+                <div
+                  style={{
+                    height: '1px',
+                    backgroundColor: 'var(--border-subtle)',
+                    margin: '0.2rem 0',
+                  }}
+                />
+
+                <button
+                  onClick={() => handleDownloadCrop('original')}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    padding: '0.55rem 0.75rem',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    background: 'transparent',
+                    border: 'none',
+                    color: 'var(--text-primary)',
+                    textAlign: 'left',
+                    transition: 'background 0.12s ease',
+                  }}
+                  onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = 'var(--bg-hover)')}
+                  onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                    <Sparkles size={15} style={{ color: 'var(--text-primary)' }} />
+                    <div>
+                      <div style={{ fontSize: '0.8125rem', fontWeight: 600 }}>Master Original</div>
+                      <div style={{ fontSize: '0.6875rem', color: 'var(--text-muted)' }}>
+                        {wallpaper.dimensions?.width} × {wallpaper.dimensions?.height} • Full Quality
+                      </div>
+                    </div>
+                  </div>
+                  <span
+                    className="mono-tag"
+                    style={{
+                      fontSize: '0.6rem',
+                      padding: '0.15rem 0.35rem',
+                      borderRadius: '4px',
+                      background: 'var(--text-primary)',
+                      color: 'var(--bg-primary)',
+                    }}
+                  >
+                    RAW
+                  </span>
+                </button>
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </div>

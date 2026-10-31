@@ -6,6 +6,7 @@ import ColorRibbon from '@/components/ColorRibbon';
 import CategoryFilters, { POPULAR_TAGS } from '@/components/CategoryFilters';
 import WallpaperGrid from '@/components/WallpaperGrid';
 import WallpaperViewer from '@/components/WallpaperViewer';
+import CommandPalette from '@/components/CommandPalette';
 import { WALLPAPERS } from '@/data/wallpapers';
 import { filterWallpapers, matchesTag } from '@/lib/filters';
 import { ChevronDown, Sparkles } from 'lucide-react';
@@ -35,6 +36,7 @@ export default function Home() {
   const [favoriteIds, setFavoriteIds] = useState([]);
   const [favoritesOnly, setFavoritesOnly] = useState(false);
   const [selectedWallpaper, setSelectedWallpaper] = useState(null);
+  const [isCommandOpen, setIsCommandOpen] = useState(false);
 
   // Pagination: Load 30 thumbnails initially
   const [visibleCount, setVisibleCount] = useState(30);
@@ -137,6 +139,36 @@ export default function Home() {
     favoritesOnly,
   ]);
 
+  // Pick a random wallpaper (Surprise Me)
+  const handleRandomShuffle = () => {
+    const list = filteredWallpapers.length > 0 ? filteredWallpapers : shuffledWallpapers;
+    const randomItem = list[Math.floor(Math.random() * list.length)];
+    if (randomItem) {
+      setSelectedWallpaper(randomItem);
+    }
+  };
+
+  // Global Keyboard Shortcuts (⌘K, Ctrl+K, /, R)
+  useEffect(() => {
+    const handleGlobalKeyDown = (e) => {
+      if (['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)) return;
+
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        setIsCommandOpen((prev) => !prev);
+      } else if (e.key === '/' && !selectedWallpaper && !isCommandOpen) {
+        e.preventDefault();
+        setIsCommandOpen(true);
+      } else if (e.key.toLowerCase() === 'r' && !selectedWallpaper && !isCommandOpen) {
+        e.preventDefault();
+        handleRandomShuffle();
+      }
+    };
+
+    window.addEventListener('keydown', handleGlobalKeyDown);
+    return () => window.removeEventListener('keydown', handleGlobalKeyDown);
+  }, [selectedWallpaper, isCommandOpen, filteredWallpapers, shuffledWallpapers]);
+
   // Visible subset (30 initially, then +30 per click)
   const displayedWallpapers = useMemo(() => {
     return filteredWallpapers.slice(0, visibleCount);
@@ -163,7 +195,11 @@ export default function Home() {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       {/* Top Center Floating Pill Header */}
-      <Header searchQuery={searchQuery} onSearchChange={setSearchQuery} />
+      <Header
+        searchQuery={searchQuery}
+        onSearchChange={setSearchQuery}
+        onOpenCommandPalette={() => setIsCommandOpen(true)}
+      />
 
       {/* Main Container with 25px side gaps and top clearance for pill header */}
       <main className="container" style={{ flex: '1', paddingTop: '5.25rem' }}>
@@ -293,6 +329,32 @@ export default function Home() {
           onToggleFavorite={toggleFavorite}
         />
       )}
+
+      {/* Spotlight Command Palette (Cmd+K / Ctrl+K) */}
+      <CommandPalette
+        isOpen={isCommandOpen}
+        onClose={() => setIsCommandOpen(false)}
+        allWallpapers={WALLPAPERS}
+        onSelectWallpaper={(w) => {
+          setSelectedWallpaper(w);
+          setIsCommandOpen(false);
+        }}
+        onShuffle={handleRandomShuffle}
+        onToggleFavorites={() => setFavoritesOnly(true)}
+        onFilterCategory={(cat) => {
+          setCategory(cat);
+          setFavoritesOnly(false);
+        }}
+        onFilterFormat={(fmt) => {
+          setFormat(fmt);
+          setFavoritesOnly(false);
+        }}
+        onFilterColorFamily={(fam) => {
+          setColorFamily(fam);
+          setColorMode('family');
+          setFavoritesOnly(false);
+        }}
+      />
 
       {/* Minimalist Footer */}
       <footer
