@@ -1,9 +1,13 @@
-'use client';
-
 import Link from 'next/link';
 import Header from '@/components/Header';
 import { WALLPAPERS } from '@/data/wallpapers';
 import { Compass, Sparkles, Mountain, Moon, Flame } from 'lucide-react';
+
+export const metadata = {
+  title: 'Curated Anthologies & Collections',
+  description:
+    'Explore handpicked visual minimal wallpaper spaces grouped by natural geometry, OLED contrast, and chromatic harmony.',
+};
 
 const CURATED_COLLECTIONS = [
   {
@@ -123,7 +127,7 @@ export default function ExplorePage() {
               </div>
 
               <Link
-                href="/"
+                href={`/?category=${col.category}${col.natureType ? `&nature=${col.natureType}` : ''}`}
                 style={{
                   display: 'inline-flex',
                   alignItems: 'center',

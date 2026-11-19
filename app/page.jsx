@@ -41,6 +41,41 @@ export default function Home() {
   // Pagination: Load 30 thumbnails initially
   const [visibleCount, setVisibleCount] = useState(30);
 
+  // Sync URL search parameters on initial mount
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      const catParam = params.get('category');
+      const natureParam = params.get('nature');
+      const qParam = params.get('q');
+      const colorParam = params.get('color');
+      const tagParam = params.get('tag');
+      if (catParam) setCategory(catParam);
+      if (natureParam) setNatureType(natureParam);
+      if (qParam) setSearchQuery(qParam);
+      if (tagParam) setActiveTag(tagParam);
+      if (colorParam) {
+        setColorMode('family');
+        setColorFamily(colorParam);
+      }
+    }
+  }, []);
+
+  // Update URL search parameters when filters change (shareable filter state)
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams();
+      if (category && category !== 'all') params.set('category', category);
+      if (natureType && natureType !== 'all') params.set('nature', natureType);
+      if (searchQuery) params.set('q', searchQuery);
+      if (activeTag) params.set('tag', activeTag);
+      if (colorFamily && colorFamily !== 'all') params.set('color', colorFamily);
+      const qs = params.toString();
+      const newUrl = qs ? `?${qs}` : window.location.pathname;
+      window.history.replaceState(null, '', newUrl);
+    }
+  }, [category, natureType, searchQuery, activeTag, colorFamily]);
+
   // Randomize wallpapers on initial client mount so each visit feels fresh
   useEffect(() => {
     setShuffledWallpapers(shuffleArray(WALLPAPERS));

@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
+import Link from 'next/link';
 import { Heart } from 'lucide-react';
 
 export default function WallpaperCard({
@@ -49,7 +50,6 @@ export default function WallpaperCard({
 
   return (
     <div
-      onClick={() => onSelect(wallpaper)}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
       className="wallpaper-card-contain"
@@ -67,6 +67,22 @@ export default function WallpaperCard({
         transition: 'transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease, border-color 0.25s ease',
       }}
     >
+      {/* Semantic Crawlable & Interactive Card Link */}
+      <Link
+        href={`/wallpaper/${wallpaper.slug}`}
+        onClick={(e) => {
+          if (!e.metaKey && !e.ctrlKey && onSelect) {
+            e.preventDefault();
+            onSelect(wallpaper);
+          }
+        }}
+        aria-label={`View ${wallpaper.title}`}
+        style={{
+          position: 'absolute',
+          inset: 0,
+          zIndex: 1,
+        }}
+      />
       {/* Background Image (Optimized Thumbnail Tier with Async Decoding) */}
       <img
         src={wallpaper.urls.thumbnail}
@@ -100,6 +116,7 @@ export default function WallpaperCard({
           opacity: isHovered || isFavorite ? 1 : 0,
           transition: 'opacity 0.2s ease',
           pointerEvents: isHovered || isFavorite ? 'auto' : 'none',
+          zIndex: 2,
         }}
       >
         <div style={{ display: 'flex', gap: '4px' }}>

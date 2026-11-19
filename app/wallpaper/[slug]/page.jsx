@@ -2,15 +2,55 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import PaletteInspector from '@/components/PaletteInspector';
-import { getWallpaperBySlug, getRelatedWallpapers } from '@/lib/wallpapers';
+import { getWallpaperBySlug, getRelatedWallpapers, getAllWallpapers } from '@/lib/wallpapers';
 import { ArrowLeft, Download, ExternalLink, Sparkles } from 'lucide-react';
+
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://minimal-wall.vercel.app';
+
+export async function generateStaticParams() {
+  const wallpapers = await getAllWallpapers();
+  return wallpapers.map((w) => ({
+    slug: w.slug,
+  }));
+}
+
+export const revalidate = 86400;
 
 export async function generateMetadata({ params }) {
   const wallpaper = await getWallpaperBySlug(params.slug);
   if (!wallpaper) return { title: 'Wallpaper Not Found' };
+
+  const title = `${wallpaper.title} — Minimal 4K Aesthetic Wallpaper`;
+  const description = `Download ${wallpaper.title} minimal wallpaper in ${wallpaper.resolutionBadge}. Color palette: ${wallpaper.colorFamily}. Optimized for desktop and mobile displays.`;
+  const imgUrl = wallpaper.urls.preview || wallpaper.urls.original || wallpaper.urls.thumbnail;
+
   return {
-    title: `${wallpaper.title} — Minimal Wallpaper`,
-    description: `Download ${wallpaper.title} minimal aesthetic wallpaper in ${wallpaper.resolutionBadge}.`,
+    title,
+    description,
+    alternates: {
+      canonical: `${SITE_URL}/wallpaper/${wallpaper.slug}`,
+    },
+    openGraph: {
+      title,
+      description,
+      url: `${SITE_URL}/wallpaper/${wallpaper.slug}`,
+      siteName: 'minimal.wall',
+      type: 'article',
+      images: [
+        {
+          url: imgUrl,
+          width: wallpaper.dimensions?.width || 1920,
+          height: wallpaper.dimensions?.height || 1080,
+          alt: wallpaper.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [imgUrl],
+    },
   };
 }
 
@@ -20,8 +60,24 @@ export default async function WallpaperDetailPage({ params }) {
 
   const related = await getRelatedWallpapers(wallpaper, 8);
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ImageObject',
+    name: wallpaper.title,
+    caption: wallpaper.title,
+    contentUrl: wallpaper.urls.original,
+    thumbnailUrl: wallpaper.urls.thumbnail,
+    width: wallpaper.dimensions?.width,
+    height: wallpaper.dimensions?.height,
+    keywords: wallpaper.tags?.join(', '),
+  };
+
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Header />
 
       <main className="container" style={{ flex: '1', paddingTop: '5.25rem', paddingBottom: '5rem' }}>
