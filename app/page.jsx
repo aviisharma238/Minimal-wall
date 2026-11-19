@@ -238,18 +238,20 @@ export default function Home() {
 
       {/* Main Container with responsive clearance for pill header */}
       <main className="container main-content">
-        {/* ML Color Ribbon */}
-        <ColorRibbon
-          colorMode={colorMode}
-          onColorModeChange={setColorMode}
-          activeFamily={colorFamily}
-          onSelectFamily={setColorFamily}
-          targetHex={targetHex}
-          onTargetHexChange={setTargetHex}
-          similarityThreshold={similarityThreshold}
-          onThresholdChange={setSimilarityThreshold}
-          colorCounts={colorCounts}
-        />
+        {/* ML Color Ribbon (Desktop Only) */}
+        <div className="desktop-color-ribbon">
+          <ColorRibbon
+            colorMode={colorMode}
+            onColorModeChange={setColorMode}
+            activeFamily={colorFamily}
+            onSelectFamily={setColorFamily}
+            targetHex={targetHex}
+            onTargetHexChange={setTargetHex}
+            similarityThreshold={similarityThreshold}
+            onThresholdChange={setSimilarityThreshold}
+            colorCounts={colorCounts}
+          />
+        </div>
 
         {/* Style, Nature, Screen Format & Curated Tag Filters */}
         <CategoryFilters
@@ -266,6 +268,16 @@ export default function Home() {
           onToggleFavoritesOnly={setFavoritesOnly}
           favoritesCount={favoriteIds.length}
           totalCount={filteredWallpapers.length}
+          colorMode={colorMode}
+          onColorModeChange={setColorMode}
+          activeFamily={colorFamily}
+          onSelectFamily={setColorFamily}
+          targetHex={targetHex}
+          onTargetHexChange={setTargetHex}
+          similarityThreshold={similarityThreshold}
+          onThresholdChange={setSimilarityThreshold}
+          colorCounts={colorCounts}
+          onResetFilters={resetAllFilters}
         />
 
         {/* Image-First CSS Grid Gallery (renders 30 thumbnails initially) */}

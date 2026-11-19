@@ -119,16 +119,19 @@ export default function WallpaperCard({
           zIndex: 2,
         }}
       >
-        <div style={{ display: 'flex', gap: '4px' }}>
+        <div style={{ display: 'flex', gap: '5px' }}>
           <span
             className="mono-tag"
             style={{
-              padding: '0.2rem 0.5rem',
-              borderRadius: '6px',
-              background: 'rgba(0, 0, 0, 0.65)',
-              backdropFilter: 'blur(8px)',
+              padding: '0.2rem 0.55rem',
+              borderRadius: '999px',
+              background: 'rgba(15, 15, 18, 0.6)',
+              backdropFilter: 'blur(12px)',
+              WebkitBackdropFilter: 'blur(12px)',
+              border: '1px solid rgba(255, 255, 255, 0.12)',
               color: '#fff',
               fontSize: '0.625rem',
+              letterSpacing: '0.04em',
             }}
           >
             {wallpaper.resolutionBadge}
@@ -137,10 +140,12 @@ export default function WallpaperCard({
             <span
               className="mono-tag"
               style={{
-                padding: '0.2rem 0.45rem',
-                borderRadius: '6px',
-                background: 'rgba(0, 0, 0, 0.5)',
-                backdropFilter: 'blur(8px)',
+                padding: '0.2rem 0.5rem',
+                borderRadius: '999px',
+                background: 'rgba(15, 15, 18, 0.45)',
+                backdropFilter: 'blur(12px)',
+                WebkitBackdropFilter: 'blur(12px)',
+                border: '1px solid rgba(255, 255, 255, 0.1)',
                 color: 'rgba(255, 255, 255, 0.85)',
                 fontSize: '0.625rem',
               }}
@@ -160,17 +165,18 @@ export default function WallpaperCard({
             width: '32px',
             height: '32px',
             borderRadius: '50%',
-            background: 'rgba(0, 0, 0, 0.65)',
-            backdropFilter: 'blur(8px)',
+            background: 'rgba(15, 15, 18, 0.6)',
+            backdropFilter: 'blur(12px)',
+            WebkitBackdropFilter: 'blur(12px)',
+            border: '1px solid rgba(255, 255, 255, 0.12)',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
             color: isFavorite ? '#EF4444' : '#fff',
-            border: 'none',
             cursor: 'pointer',
           }}
         >
-          <Heart size={15} fill={isFavorite ? '#EF4444' : 'none'} />
+          <Heart size={14} fill={isFavorite ? '#EF4444' : 'none'} />
         </button>
       </div>
 

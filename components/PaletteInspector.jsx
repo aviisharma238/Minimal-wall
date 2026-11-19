@@ -62,7 +62,10 @@ export default function PaletteInspector({ dominantColors = [] }) {
       >
         EXTRACTED PALETTE
       </div>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', alignItems: 'center' }}>
+      <div
+        className="palette-swatches-row no-scrollbar"
+        style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', alignItems: 'center' }}
+      >
         {dominantColors.map((color, idx) => {
           const isCopied = copiedHex === color.hex;
           return (
