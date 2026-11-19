@@ -236,8 +236,8 @@ export default function Home() {
         onOpenCommandPalette={() => setIsCommandOpen(true)}
       />
 
-      {/* Main Container with 25px side gaps and top clearance for pill header */}
-      <main className="container" style={{ flex: '1', paddingTop: '5.25rem' }}>
+      {/* Main Container with responsive clearance for pill header */}
+      <main className="container main-content">
         {/* ML Color Ribbon */}
         <ColorRibbon
           colorMode={colorMode}

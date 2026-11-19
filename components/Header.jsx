@@ -89,7 +89,7 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
             />
             <input
               type="text"
-              placeholder="Search or ⌘K..."
+              placeholder="Search wallpapers..."
               value={searchQuery}
               onChange={(e) => onSearchChange?.(e.target.value)}
               onFocus={() => {
@@ -103,14 +103,14 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
               readOnly={!!onOpenCommandPalette}
               style={{
                 width: '100%',
-                padding: '0.35rem 2.2rem 0.35rem 1.8rem',
+                padding: '0.38rem 2.2rem 0.38rem 1.85rem',
                 borderRadius: '9999px',
                 background: isFocused ? 'var(--bg-surface)' : 'var(--bg-surface-elevated)',
                 border: isFocused
                   ? '1px solid var(--border-focus)'
                   : '1px solid var(--border-subtle)',
                 color: 'var(--text-primary)',
-                fontSize: '0.75rem',
+                fontSize: '0.78125rem',
                 outline: 'none',
                 cursor: onOpenCommandPalette ? 'pointer' : 'text',
                 transition: 'var(--transition-smooth)',
@@ -134,6 +134,7 @@ export default function Header({ searchQuery = '', onSearchChange, onOpenCommand
               </button>
             ) : (
               <span
+                className="desktop-shortcut-badge"
                 style={{
                   position: 'absolute',
                   right: '8px',

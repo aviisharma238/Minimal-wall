@@ -79,6 +79,7 @@ export default function WallpaperGrid({
       {/* Density Switcher Bar */}
       {onDensityChange && (
         <div
+          className="density-switcher-bar"
           style={{
             display: 'flex',
             justifyContent: 'flex-end',
@@ -142,14 +143,9 @@ export default function WallpaperGrid({
         </div>
       )}
 
-      {/* Grid Container */}
+      {/* Grid Container with Responsive Class */}
       <div
-        style={{
-          display: 'grid',
-          gridTemplateColumns: getGridTemplate(),
-          gap: density === 'dense' ? '1rem' : density === 'editorial' ? '2rem' : '1.5rem',
-          paddingBottom: '4rem',
-        }}
+        className={`wallpaper-grid wallpaper-grid--${density}`}
       >
         {wallpapers.map((wallpaper, idx) => (
           <WallpaperCard

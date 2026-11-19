@@ -100,15 +100,15 @@ export default function WallpaperViewer({
         : wallpaper.urls.original;
       filename = `${wallpaper.slug || 'wallpaper'}-mobile-1170x2532.jpg`;
     } else if (type === 'desktop_4k') {
-      setDownloadProgressText('Rendering 4K Desktop...');
+      setDownloadProgressText('Rendering 4K PC Wallpaper...');
       targetUrl = isIK
-        ? `${wallpaper.urls.original}?tr=w-3840,h-2160,c-maintain_ratio,q-90,f-auto`
+        ? `${wallpaper.urls.original}?tr=w-3840,h-2160,fo-auto,q-95,f-auto`
         : wallpaper.urls.original;
-      filename = `${wallpaper.slug || 'wallpaper'}-desktop-4k.jpg`;
+      filename = `${wallpaper.slug || 'wallpaper'}-pc-4k.jpg`;
     } else if (type === 'ultrawide') {
       setDownloadProgressText('Formatting Ultrawide 21:9...');
       targetUrl = isIK
-        ? `${wallpaper.urls.original}?tr=w-3440,h-1440,fo-auto,q-90,f-auto`
+        ? `${wallpaper.urls.original}?tr=w-3440,h-1440,fo-auto,q-95,f-auto`
         : wallpaper.urls.original;
       filename = `${wallpaper.slug || 'wallpaper'}-ultrawide-3440x1440.jpg`;
     } else if (type === 'tablet') {
@@ -240,21 +240,32 @@ export default function WallpaperViewer({
 
       {/* Top Bar: Title, Device Switcher, Actions & Close */}
       <div
+        className="viewer-top-bar"
         style={{
           position: 'relative',
           zIndex: 10,
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
-          gap: '1rem',
+          gap: '0.75rem',
           maxWidth: '1560px',
           width: '100%',
           margin: '0 auto',
         }}
       >
-        <div>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-            <h2 style={{ fontSize: '1.15rem', fontWeight: 500, letterSpacing: '-0.01em' }}>
+        <div className="viewer-title-box" style={{ minWidth: 0, flex: 1 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', minWidth: 0 }}>
+            <h2
+              className="viewer-title-heading"
+              style={{
+                fontSize: '1.15rem',
+                fontWeight: 500,
+                letterSpacing: '-0.01em',
+                overflow: 'hidden',
+                textOverflow: 'ellipsis',
+                whiteSpace: 'nowrap',
+              }}
+            >
               {wallpaper.title}
             </h2>
             <span
@@ -265,18 +276,20 @@ export default function WallpaperViewer({
                 background: 'var(--bg-surface)',
                 border: '1px solid var(--border-subtle)',
                 color: 'var(--text-secondary)',
+                flexShrink: 0,
               }}
             >
               {wallpaper.resolutionBadge}
             </span>
             {wallpaper.dimensions?.badge && (
               <span
-                className="mono-tag"
+                className="mono-tag viewer-desktop-badge"
                 style={{
                   padding: '0.2rem 0.5rem',
                   borderRadius: '6px',
                   background: 'var(--bg-surface-elevated)',
                   color: 'var(--text-muted)',
+                  flexShrink: 0,
                 }}
               >
                 {wallpaper.dimensions.badge}
@@ -287,33 +300,39 @@ export default function WallpaperViewer({
             className="mono-tag"
             style={{
               color: 'var(--text-muted)',
-              marginTop: '0.25rem',
+              marginTop: '0.2rem',
               display: 'flex',
-              gap: '0.5rem',
+              gap: '0.4rem',
+              fontSize: '0.625rem',
+              overflow: 'hidden',
+              textOverflow: 'ellipsis',
+              whiteSpace: 'nowrap',
             }}
           >
             <span>{wallpaper.category.toUpperCase()}</span>
             {wallpaper.natureType && <span>• {wallpaper.natureType.toUpperCase()}</span>}
             <span>• {wallpaper.colorFamily.toUpperCase()}</span>
-            <span>• {wallpaper.dimensions?.width}×{wallpaper.dimensions?.height}</span>
           </div>
         </div>
 
         {/* Device Mockup Mode Switcher */}
         <div
+          className="viewer-mockup-switcher"
           style={{
             display: 'inline-flex',
-            padding: '0.25rem',
+            padding: '0.2rem',
             borderRadius: '10px',
             background: 'var(--bg-surface)',
             border: '1px solid var(--border-subtle)',
-            gap: '0.25rem',
+            gap: '0.2rem',
             boxShadow: 'var(--card-shadow)',
+            flexShrink: 0,
           }}
         >
           <button
             onClick={() => setMockupMode('raw')}
             title="Raw Artwork (Press M to toggle)"
+            className="viewer-switcher-btn"
             style={{
               padding: '0.35rem 0.65rem',
               borderRadius: '7px',
@@ -327,12 +346,13 @@ export default function WallpaperViewer({
             }}
           >
             <ImageIcon size={14} />
-            <span>Artwork</span>
+            <span className="viewer-switcher-label">Artwork</span>
           </button>
 
           <button
             onClick={() => setMockupMode('macbook')}
             title="MacBook Mockup"
+            className="viewer-switcher-btn"
             style={{
               padding: '0.35rem 0.65rem',
               borderRadius: '7px',
@@ -346,12 +366,13 @@ export default function WallpaperViewer({
             }}
           >
             <Monitor size={14} />
-            <span>Desktop</span>
+            <span className="viewer-switcher-label">Desktop</span>
           </button>
 
           <button
             onClick={() => setMockupMode('iphone')}
             title="iPhone Mockup"
+            className="viewer-switcher-btn"
             style={{
               padding: '0.35rem 0.65rem',
               borderRadius: '7px',
@@ -365,7 +386,7 @@ export default function WallpaperViewer({
             }}
           >
             <Smartphone size={14} />
-            <span>Mobile</span>
+            <span className="viewer-switcher-label">Mobile</span>
           </button>
         </div>
 
@@ -459,6 +480,7 @@ export default function WallpaperViewer({
 
       {/* Bottom Bar: Color Palette & Download */}
       <div
+        className="viewer-bottom-bar"
         style={{
           position: 'relative',
           zIndex: 10,
@@ -476,7 +498,7 @@ export default function WallpaperViewer({
       >
         <PaletteInspector dominantColors={wallpaper.dominantColors} />
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+        <div className="viewer-bottom-actions" style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
           <div
             className="mono-tag desktop-only-hints"
             style={{
@@ -497,26 +519,29 @@ export default function WallpaperViewer({
             href={`/wallpaper/${wallpaper.slug}`}
             target="_blank"
             rel="noopener noreferrer"
+            className="viewer-permalink-btn"
             style={{
               display: 'inline-flex',
               alignItems: 'center',
               gap: '0.4rem',
-              padding: '0.65rem 1rem',
+              padding: '0.65rem 0.95rem',
               borderRadius: '9px',
               background: 'var(--bg-surface)',
               border: '1px solid var(--border-subtle)',
               fontSize: '0.8125rem',
               fontWeight: 500,
               color: 'var(--text-secondary)',
+              flexShrink: 0,
             }}
           >
             <ExternalLink size={14} />
-            <span>Permalink</span>
+            <span className="desktop-only-hints">Permalink</span>
           </a>
 
           {/* Split Multi-Resolution Download Button & Dropdown */}
-          <div ref={downloadMenuRef} style={{ position: 'relative' }}>
+          <div ref={downloadMenuRef} className="viewer-download-container" style={{ position: 'relative' }}>
             <div
+              className="viewer-download-button-wrapper desktop-only-download"
               style={{
                 display: 'inline-flex',
                 alignItems: 'center',
@@ -531,6 +556,7 @@ export default function WallpaperViewer({
                 onClick={handleDownload}
                 disabled={downloading}
                 title="Download original file (Press D)"
+                className="viewer-download-main-btn"
                 style={{
                   display: 'inline-flex',
                   alignItems: 'center',
@@ -543,6 +569,7 @@ export default function WallpaperViewer({
                   background: 'transparent',
                   color: 'inherit',
                   transition: 'opacity 0.15s ease',
+                  whiteSpace: 'nowrap',
                 }}
               >
                 <Download size={15} />
@@ -588,35 +615,88 @@ export default function WallpaperViewer({
               </button>
             </div>
 
-            {/* Floating Device Crop Menu */}
+            {/* Mobile Dual Action Buttons */}
+            <div className="viewer-mobile-download-row">
+              <button
+                onClick={() => handleDownloadCrop('desktop_4k')}
+                disabled={downloading}
+                className="viewer-mobile-pc-btn"
+                title="Download 4K 16:9 for PC"
+              >
+                <Monitor size={15} />
+                <span>Download for PC (4K)</span>
+              </button>
+              <button
+                onClick={() => setShowDownloadMenu((prev) => !prev)}
+                disabled={downloading}
+                className="viewer-mobile-options-btn"
+                aria-label="Other device resolutions"
+                title="More formats"
+              >
+                <span>Options</span>
+                <ChevronDown
+                  size={14}
+                  style={{
+                    transform: showDownloadMenu ? 'rotate(180deg)' : 'none',
+                    transition: 'transform 0.2s ease',
+                  }}
+                />
+              </button>
+            </div>
+
+            {/* Floating Device Crop Menu / Mobile Bottom Sheet */}
             {showDownloadMenu && (
               <div
+                className="viewer-device-menu"
                 style={{
                   position: 'absolute',
                   bottom: 'calc(100% + 8px)',
                   right: 0,
-                  width: '260px',
+                  width: '280px',
                   backgroundColor: 'var(--bg-surface)',
-                  borderRadius: '12px',
+                  borderRadius: '14px',
                   border: '1px solid var(--border-subtle)',
-                  boxShadow: '0 16px 40px -8px rgba(0, 0, 0, 0.35)',
-                  padding: '0.4rem',
+                  boxShadow: '0 20px 50px -10px rgba(0, 0, 0, 0.4)',
+                  padding: '0.5rem',
                   display: 'flex',
                   flexDirection: 'column',
-                  gap: '0.2rem',
+                  gap: '0.25rem',
                   zIndex: 50,
                   animation: 'cmdScaleUp 0.15s cubic-bezier(0.16, 1, 0.3, 1)',
                 }}
               >
                 <div
-                  className="mono-tag"
                   style={{
-                    padding: '0.4rem 0.6rem 0.2rem',
-                    color: 'var(--text-muted)',
-                    fontSize: '0.625rem',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    padding: '0.4rem 0.6rem 0.35rem',
+                    borderBottom: '1px solid var(--border-subtle)',
+                    marginBottom: '0.25rem',
                   }}
                 >
-                  TAILORED DEVICE CROPS
+                  <span
+                    className="mono-tag"
+                    style={{
+                      color: 'var(--text-muted)',
+                      fontSize: '0.625rem',
+                    }}
+                  >
+                    TAILORED DEVICE CROPS
+                  </span>
+                  <button
+                    onClick={() => setShowDownloadMenu(false)}
+                    className="mobile-only-close"
+                    style={{
+                      border: 'none',
+                      background: 'none',
+                      cursor: 'pointer',
+                      color: 'var(--text-muted)',
+                      padding: '2px',
+                    }}
+                  >
+                    <X size={14} />
+                  </button>
                 </div>
 
                 <button

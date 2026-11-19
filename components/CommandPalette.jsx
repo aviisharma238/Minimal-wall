@@ -309,7 +309,9 @@ export default function CommandPalette({
               <X size={12} />
             </button>
           ) : (
-            <div
+            <button
+              onClick={onClose}
+              aria-label="Close command palette"
               style={{
                 fontSize: '0.6875rem',
                 fontFamily: 'var(--font-mono)',
@@ -318,10 +320,15 @@ export default function CommandPalette({
                 borderRadius: '6px',
                 background: 'var(--bg-surface-elevated)',
                 border: '1px solid var(--border-subtle)',
+                cursor: 'pointer',
+                display: 'inline-flex',
+                alignItems: 'center',
+                justifyContent: 'center',
               }}
             >
-              ESC
-            </div>
+              <span className="desktop-only-hints">ESC</span>
+              <X size={13} className="mobile-only-close" />
+            </button>
           )}
         </div>
 

@@ -49,7 +49,7 @@ export default function ExplorePage() {
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <Header />
 
-      <main className="container" style={{ flex: '1', paddingTop: '5.25rem', paddingBottom: '4rem' }}>
+      <main className="container main-content" style={{ paddingBottom: '4rem' }}>
         <div style={{ marginBottom: '2.5rem' }}>
           <div
             className="mono-tag"

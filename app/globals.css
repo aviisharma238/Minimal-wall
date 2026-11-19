@@ -88,7 +88,7 @@ input {
   background: var(--text-muted);
 }
 
-/* Responsive Container */
+/* Responsive Container & Main Content Spacing */
 .container {
   max-width: 1680px;
   margin: 0 auto;
@@ -96,10 +96,18 @@ input {
   padding-right: 25px;
 }
 
+.main-content {
+  flex: 1;
+  padding-top: 5.25rem;
+}
+
 @media (max-width: 768px) {
   .container {
     padding-left: 16px;
     padding-right: 16px;
+  }
+  .main-content {
+    padding-top: 4.25rem !important;
   }
 }
 
@@ -107,6 +115,9 @@ input {
   .container {
     padding-left: 12px;
     padding-right: 12px;
+  }
+  .main-content {
+    padding-top: 3.75rem !important;
   }
 }
 
@@ -125,8 +136,8 @@ input {
 
 @media (max-width: 768px) {
   .pill-header-wrapper {
-    top: 0.65rem;
-    padding: 0 12px;
+    top: 0.5rem;
+    padding: 0 10px;
   }
 }
 
@@ -154,12 +165,15 @@ input {
     padding: 0.35rem 0.65rem 0.35rem 0.85rem;
     border-radius: 9999px;
   }
+  .desktop-shortcut-badge {
+    display: none !important;
+  }
 }
 
 @media (max-width: 520px) {
   .pill-header {
-    gap: 0.4rem !important;
-    padding: 0.35rem 0.6rem !important;
+    gap: 0.35rem !important;
+    padding: 0.35rem 0.5rem 0.35rem 0.75rem !important;
   }
   .header-brand-text {
     font-size: 0.8125rem !important;
@@ -168,7 +182,7 @@ input {
     font-size: 0.6875rem !important;
   }
   .header-search-box {
-    max-width: 140px !important;
+    max-width: 155px !important;
   }
 }
 
@@ -177,7 +191,7 @@ input {
     display: none !important;
   }
   .header-search-box {
-    max-width: 120px !important;
+    max-width: 135px !important;
   }
 }
 
@@ -195,33 +209,62 @@ input {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 1.5rem;
-  padding-bottom: 2rem;
+  padding-bottom: 4rem;
+}
+
+.wallpaper-grid--dense {
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.wallpaper-grid--editorial {
+  grid-template-columns: repeat(auto-fill, minmax(460px, 1fr));
+  gap: 2rem;
 }
 
 @media (max-width: 1100px) {
-  .wallpaper-grid {
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  .wallpaper-grid,
+  .wallpaper-grid--editorial {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 1.25rem;
   }
 }
 
 @media (max-width: 640px) {
-  .wallpaper-grid {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-    padding-bottom: 3rem;
+  .wallpaper-grid,
+  .wallpaper-grid--dense,
+  .wallpaper-grid--editorial {
+    grid-template-columns: 1fr !important;
+    gap: 1rem !important;
+    padding-bottom: 3.5rem !important;
+  }
+  .density-switcher-bar {
+    display: none !important;
+  }
+  .color-ribbon-container {
+    padding: 0.65rem 0.85rem !important;
+    border-radius: 12px !important;
+    margin-bottom: 0.75rem !important;
+  }
+  .color-ribbon-label {
+    display: none !important;
+  }
+  .category-controls-wrapper {
+    width: 100% !important;
+    justify-content: space-between !important;
   }
 }
 
-/* Touch Device Card Overlays */
+/* Touch Device Card Overlays (Clean, uncluttered aesthetic) */
 @media (hover: none), (max-width: 768px) {
-  .card-bottom-overlay {
-    opacity: 1 !important;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.35) 60%, transparent 100%) !important;
-  }
   .card-top-overlay {
     opacity: 1 !important;
     pointer-events: auto !important;
+  }
+  .card-bottom-overlay {
+    opacity: 1 !important;
+    padding: 1.5rem 0.85rem 0.65rem !important;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.72) 0%, rgba(0, 0, 0, 0.25) 55%, transparent 100%) !important;
   }
 }
 
@@ -385,6 +428,119 @@ input {
   }
   .desktop-only-hints {
     display: none !important;
+  }
+}
+
+.viewer-mobile-download-row {
+  display: none;
+}
+
+/* Mobile Phone Viewer Lightbox Optimization */
+@media (max-width: 640px) {
+  .viewer-switcher-label {
+    display: none !important;
+  }
+  .viewer-switcher-btn {
+    padding: 0.35rem 0.5rem !important;
+  }
+  .viewer-title-heading {
+    max-width: 140px !important;
+    font-size: 0.9375rem !important;
+  }
+  .viewer-desktop-badge {
+    display: none !important;
+  }
+  .viewer-bottom-bar {
+    flex-direction: column-reverse !important;
+    align-items: stretch !important;
+    gap: 0.75rem !important;
+    padding-top: 0.5rem !important;
+  }
+  .viewer-bottom-actions {
+    width: 100% !important;
+    display: flex !important;
+    gap: 0.5rem !important;
+  }
+  .viewer-download-container {
+    flex: 1 !important;
+    width: 100% !important;
+  }
+  .desktop-only-download {
+    display: none !important;
+  }
+  .viewer-mobile-download-row {
+    display: flex !important;
+    gap: 0.5rem !important;
+    width: 100% !important;
+  }
+  .viewer-mobile-pc-btn {
+    flex: 1;
+    display: inline-flex;
+    align-items: center;
+    justifyContent: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+    background: var(--text-primary);
+    color: var(--bg-primary);
+    font-size: 0.8125rem;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 14px -2px rgba(0, 0, 0, 0.25);
+    transition: opacity 0.15s ease;
+    white-space: nowrap;
+  }
+  .viewer-mobile-options-btn {
+    display: inline-flex;
+    align-items: center;
+    justifyContent: center;
+    gap: 0.35rem;
+    padding: 0.75rem 0.85rem;
+    border-radius: 10px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-primary);
+    font-size: 0.75rem;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: var(--card-shadow);
+    white-space: nowrap;
+  }
+  .viewer-device-menu {
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    border-radius: 20px 20px 0 0 !important;
+    padding: 1.25rem 1.25rem calc(1.5rem + env(safe-area-inset-bottom, 0px)) !important;
+    box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.5) !important;
+    background: var(--bg-surface) !important;
+    border: 1px solid var(--border-subtle) !important;
+    z-index: 150 !important;
+    max-height: 80vh !important;
+    overflow-y: auto !important;
+    animation: slideUpMobile 0.22s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  }
+}
+
+@keyframes slideUpMobile {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.mobile-only-close {
+  display: none !important;
+}
+
+@media (max-width: 640px) {
+  .mobile-only-close {
+    display: inline-block !important;
   }
 }
 

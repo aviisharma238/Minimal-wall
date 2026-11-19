@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import PaletteInspector from '@/components/PaletteInspector';
 import { getWallpaperBySlug, getRelatedWallpapers, getAllWallpapers } from '@/lib/wallpapers';
-import { ArrowLeft, Download, ExternalLink, Sparkles } from 'lucide-react';
+import { ArrowLeft, Download, ExternalLink, Sparkles, Monitor, Smartphone } from 'lucide-react';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://minimal-wall.vercel.app';
 
@@ -80,7 +80,7 @@ export default async function WallpaperDetailPage({ params }) {
       />
       <Header />
 
-      <main className="container" style={{ flex: '1', paddingTop: '5.25rem', paddingBottom: '5rem' }}>
+      <main className="container main-content" style={{ paddingBottom: '5rem' }}>
         {/* Breadcrumb Back Link */}
         <div style={{ marginBottom: '1.25rem' }}>
           <Link
@@ -204,18 +204,26 @@ export default async function WallpaperDetailPage({ params }) {
           >
             <PaletteInspector dominantColors={wallpaper.dominantColors} />
 
-            <div style={{ borderTop: '1px solid var(--border-subtle)', paddingTop: '0.85rem' }}>
+            <div style={{ borderTop: '1px solid var(--border-subtle)', paddingTop: '1rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
+              <div className="mono-tag" style={{ color: 'var(--text-muted)', fontSize: '0.625rem', marginBottom: '0.15rem' }}>
+                DEVICE DOWNLOAD FORMATS
+              </div>
+
+              {/* 1. PC Desktop 4K Button */}
               <a
-                href={wallpaper.urls.original}
+                href={
+                  wallpaper.urls.original?.startsWith('https://ik.imagekit.io')
+                    ? `${wallpaper.urls.original}?tr=w-3840,h-2160,fo-auto,q-95,f-auto`
+                    : wallpaper.urls.original
+                }
                 target="_blank"
                 rel="noopener noreferrer"
-                download={`${wallpaper.slug}.png`}
+                download={`${wallpaper.slug}-pc-4k.jpg`}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  justifyContent: 'center',
-                  gap: '0.5rem',
-                  padding: '0.75rem 1.5rem',
+                  justifyContent: 'space-between',
+                  padding: '0.75rem 1rem',
                   borderRadius: '10px',
                   background: 'var(--text-primary)',
                   color: 'var(--bg-primary)',
@@ -224,8 +232,69 @@ export default async function WallpaperDetailPage({ params }) {
                   transition: 'opacity 0.2s ease',
                 }}
               >
-                <Download size={15} />
-                <span>Download Original ({wallpaper.resolutionBadge})</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.55rem' }}>
+                  <Monitor size={16} />
+                  <span>Download for PC Desktop</span>
+                </div>
+                <span className="mono-tag" style={{ fontSize: '0.625rem', opacity: 0.85 }}>4K 16:9</span>
+              </a>
+
+              {/* 2. Mobile Phone Button */}
+              <a
+                href={
+                  wallpaper.urls.original?.startsWith('https://ik.imagekit.io')
+                    ? `${wallpaper.urls.original}?tr=w-1170,h-2532,fo-auto,q-95,f-auto`
+                    : wallpaper.urls.original
+                }
+                target="_blank"
+                rel="noopener noreferrer"
+                download={`${wallpaper.slug}-mobile.jpg`}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  padding: '0.65rem 1rem',
+                  borderRadius: '10px',
+                  background: 'var(--bg-surface-elevated)',
+                  border: '1px solid var(--border-subtle)',
+                  color: 'var(--text-primary)',
+                  fontSize: '0.8125rem',
+                  fontWeight: 500,
+                  transition: 'var(--transition-smooth)',
+                }}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.55rem' }}>
+                  <Smartphone size={16} style={{ color: 'var(--text-secondary)' }} />
+                  <span>Download for Phone</span>
+                </div>
+                <span className="mono-tag" style={{ fontSize: '0.625rem', color: 'var(--text-muted)' }}>9:16</span>
+              </a>
+
+              {/* 3. Original Master File */}
+              <a
+                href={wallpaper.urls.original}
+                target="_blank"
+                rel="noopener noreferrer"
+                download={`${wallpaper.slug}.png`}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  padding: '0.65rem 1rem',
+                  borderRadius: '10px',
+                  background: 'transparent',
+                  border: '1px solid var(--border-subtle)',
+                  color: 'var(--text-secondary)',
+                  fontSize: '0.8125rem',
+                  fontWeight: 400,
+                  transition: 'color 0.15s ease',
+                }}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.55rem' }}>
+                  <Download size={15} />
+                  <span>Original Master File</span>
+                </div>
+                <span className="mono-tag" style={{ fontSize: '0.625rem', color: 'var(--text-muted)' }}>{wallpaper.resolutionBadge}</span>
               </a>
             </div>
           </div>
@@ -250,14 +319,14 @@ export default async function WallpaperDetailPage({ params }) {
             <div
               style={{
                 display: 'grid',
-                gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
+                gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 260px), 1fr))',
                 gap: '1.25rem',
               }}
             >
               {related.map((item) => (
                 <Link
                   key={item.id}
-                  href={`/wallpaper/${item.id}`}
+                  href={`/wallpaper/${item.slug || item.id}`}
                   style={{
                     borderRadius: '12px',
                     overflow: 'hidden',

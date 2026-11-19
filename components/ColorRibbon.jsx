@@ -27,6 +27,7 @@ export default function ColorRibbon({
 
   return (
     <div
+      className="color-ribbon-container"
       style={{
         display: 'flex',
         flexDirection: 'column',
@@ -43,6 +44,7 @@ export default function ColorRibbon({
     >
       {/* Top Controls: Mode Switcher & Mode Description */}
       <div
+        className="color-ribbon-top-row"
         style={{
           display: 'flex',
           flexWrap: 'wrap',
@@ -53,7 +55,7 @@ export default function ColorRibbon({
       >
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem' }}>
           <span
-            className="mono-tag"
+            className="mono-tag color-ribbon-label"
             style={{ color: 'var(--text-muted)', fontSize: '0.65rem' }}
           >
             ML COLOR DISCOVERY

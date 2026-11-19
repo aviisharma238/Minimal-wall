@@ -25,10 +25,10 @@ const NATURE_SUBTYPES = [
 ];
 
 const FORMAT_TYPES = [
-  { id: 'all', label: 'All Formats' },
-  { id: '16:9', label: '16:9 Desktop' },
-  { id: '21:9', label: '21:9 Ultrawide' },
-  { id: '9:16', label: '9:16 Mobile' },
+  { id: 'all', label: 'All', title: 'All Formats' },
+  { id: '16:9', label: '16:9 PC', title: '16:9 Desktop PC' },
+  { id: '21:9', label: '21:9 Ultra', title: '21:9 Ultrawide Monitor' },
+  { id: '9:16', label: '9:16 Phone', title: '9:16 Mobile Phone' },
 ];
 
 export const POPULAR_TAGS = [
@@ -126,7 +126,7 @@ export default function CategoryFilters({
         </div>
 
         {/* Right Side: Format & Favorites Filter */}
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+        <div className="category-controls-wrapper" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
           {/* Format selector */}
           <div
             style={{
@@ -143,10 +143,11 @@ export default function CategoryFilters({
                 <button
                   key={fmt.id}
                   onClick={() => onSelectFormat(fmt.id)}
+                  title={fmt.title}
                   style={{
-                    padding: '0.25rem 0.55rem',
+                    padding: '0.28rem 0.6rem',
                     borderRadius: '6px',
-                    fontSize: '0.6875rem',
+                    fontSize: '0.71875rem',
                     fontFamily: 'var(--font-mono)',
                     background: isFmtActive ? 'var(--bg-surface-elevated)' : 'transparent',
                     color: isFmtActive ? 'var(--text-primary)' : 'var(--text-muted)',

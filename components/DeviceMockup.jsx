@@ -69,13 +69,13 @@ export default function DeviceMockup({
                 fontFamily: 'var(--font-sans)',
               }}
             >
-              <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
+              <div style={{ display: 'flex', gap: '0.65rem', alignItems: 'center' }}>
                 <span style={{ fontWeight: 600 }}></span>
                 <span>Finder</span>
-                <span>File</span>
-                <span>Edit</span>
-                <span>View</span>
-                <span>Go</span>
+                <span className="desktop-only-hints">File</span>
+                <span className="desktop-only-hints">Edit</span>
+                <span className="desktop-only-hints">View</span>
+                <span className="desktop-only-hints">Go</span>
               </div>
               <div style={{ display: 'flex', gap: '0.8rem', alignItems: 'center' }}>
                 <Wifi size={12} />
