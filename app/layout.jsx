@@ -4,6 +4,9 @@ export const metadata = {
   title: 'minimal.wall — Adaptive Minimal Wallpaper Collection',
   description:
     'An image-first, minimal wallpaper gallery with adaptive light/dark themes, color-science filtering, and live device mockup previews.',
+  verification: {
+    google: '_7G1NUWgOwXSuWaLUTHBPgRccGOGBfatjnuMfRpiMIo',
+  },
 };
 
 export default function RootLayout({ children }) {
