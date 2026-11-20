@@ -1,6 +1,6 @@
 import { getAllWallpapers } from '@/lib/wallpapers';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://minimal-wall.vercel.app';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://minimalwall.vercel.app';
 
 export default async function sitemap() {
   const wallpapers = await getAllWallpapers();
